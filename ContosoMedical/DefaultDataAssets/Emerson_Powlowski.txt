@@ -1,0 +1,298 @@
+Emerson Powlowski
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 3
+Birth Date:          2022-04-14
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2025-09-18[CURRENT] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma (disorder)
+  2025-09-18[CURRENT] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma (disorder)
+  2025-04-22[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma (disorder)
+  2025-04-22[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma (disorder)
+  2024-10-19[STOPPED] : Acetaminophen 160 MG Chewable Tablet
+  2024-10-19[STOPPED] : Amoxicillin 500 MG Oral Tablet
+  2024-08-01[STOPPED] : Acetaminophen 160 MG Chewable Tablet
+  2024-08-01[STOPPED] : Amoxicillin 500 MG Oral Tablet
+  2024-06-04[STOPPED] : Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution for Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2025-09-18 -            : Medication review due (situation)
+  2025-04-22 -            : Childhood asthma (disorder)
+  2024-10-19 - 2025-03-20 : Otitis media (disorder)
+  2024-09-19 - 2025-03-20 : Medication review due (situation)
+  2024-08-01 - 2024-09-19 : Otitis media (disorder)
+  2024-06-13 - 2024-06-13 : Medication review due (situation)
+  2024-06-04 - 2024-06-17 : Acute bronchitis (disorder)
+  2023-06-22 - 2024-03-21 : Medication review due (situation)
+  2023-03-23 - 2023-03-23 : Medication review due (situation)
+  2022-07-21 - 2022-12-22 : Medication review due (situation)
+  2022-05-19 - 2022-05-19 : Medication review due (situation)
+  2022-04-14 - 2022-04-14 : Medication review due (situation)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2025-04-22[CURRENT] : Asthma self management (regime/therapy)
+                         Reason: Childhood asthma (disorder)
+                         Activity: Inhaled steroid therapy (procedure)
+                         Activity: Home nebulizer therapy (procedure)
+                         Activity: Breathing control (regime/therapy)
+  2024-06-04[STOPPED] : Respiratory therapy (procedure)
+                         Activity: Recommendation to avoid exercise (procedure)
+                         Activity: Deep breathing and coughing exercises (regime/therapy)
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-04-14 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.8 %
+           - MCV [Entitic volume] by Automated count  83.7 fL
+           - MCH [Entitic mass] by Automated count    27.5 pg
+           - MCHC [Mass/volume] by Automated count    33.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.1 fL
+           - Platelets [#/volume] in Blood by Automated count 297.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 162.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2025-09-18 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2025-09-18 : Respiratory rate                         14.0 /min
+  2025-09-18 : Heart rate                               63.0 /min
+  2025-09-18 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  106.0 mm[Hg]
+  2025-09-18 : Body mass index (BMI) [Percentile] Per age and sex 1.6 %
+  2025-09-18 : Body mass index (BMI) [Ratio]            13.8 kg/m2
+  2025-09-18 : Head Occipital-frontal circumference     50.2 cm
+  2025-09-18 : Head Occipital-frontal circumference Percentile 63.7 %
+  2025-09-18 : Weight-for-length Per age and sex        5.4 %
+  2025-09-18 : Body Weight                              13.6 kg
+  2025-09-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2025-09-18 : Body Height                              99.5 cm
+  2025-03-20 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2025-03-20 : Respiratory rate                         13.0 /min
+  2025-03-20 : Heart rate                               73.0 /min
+  2025-03-20 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  101.0 mm[Hg]
+  2025-03-20 : Body mass index (BMI) [Percentile] Per age and sex 2.4 %
+  2025-03-20 : Body mass index (BMI) [Ratio]            14.1 kg/m2
+  2025-03-20 : Head Occipital-frontal circumference     50.2 cm
+  2025-03-20 : Head Occipital-frontal circumference Percentile 63.7 %
+  2025-03-20 : Weight-for-length Per age and sex        4.3 %
+  2025-03-20 : Body Weight                              12.9 kg
+  2025-03-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2025-03-20 : Body Height                              95.7 cm
+  2024-09-19 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2024-09-19 : Respiratory rate                         12.0 /min
+  2024-09-19 : Heart rate                               83.0 /min
+  2024-09-19 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  114.0 mm[Hg]
+  2024-09-19 : Body mass index (BMI) [Percentile] Per age and sex 8.1 %
+  2024-09-19 : Body mass index (BMI) [Ratio]            14.8 kg/m2
+  2024-09-19 : Head Occipital-frontal circumference     49.7 cm
+  2024-09-19 : Head Occipital-frontal circumference Percentile 63.7 %
+  2024-09-19 : Weight-for-length Per age and sex        9.8 %
+  2024-09-19 : Body Weight                              12.4 kg
+  2024-09-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2024-09-19 : Body Height                              91.7 cm
+  2024-06-13 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2024-06-13 : Respiratory rate                         13.0 /min
+  2024-06-13 : Heart rate                               88.0 /min
+  2024-06-13 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 70.0 mm[Hg]
+           - Systolic Blood Pressure                  105.0 mm[Hg]
+  2024-06-13 : Body mass index (BMI) [Percentile] Per age and sex 15.3 %
+  2024-06-13 : Body mass index (BMI) [Ratio]            15.3 kg/m2
+  2024-06-13 : Head Occipital-frontal circumference     49.3 cm
+  2024-06-13 : Head Occipital-frontal circumference Percentile 63.7 %
+  2024-06-13 : Weight-for-length Per age and sex        15.6 %
+  2024-06-13 : Body Weight                              12.0 kg
+  2024-06-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2024-06-13 : Body Height                              88.6 cm
+  2024-03-21 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2024-03-21 : Respiratory rate                         15.0 /min
+  2024-03-21 : Heart rate                               79.0 /min
+  2024-03-21 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2024-03-21 : Head Occipital-frontal circumference     49.1 cm
+  2024-03-21 : Head Occipital-frontal circumference Percentile 63.7 %
+  2024-03-21 : Weight-for-length Per age and sex        16.0 %
+  2024-03-21 : Body Weight                              11.8 kg
+  2024-03-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2024-03-21 : Body Height                              87.8 cm
+  2023-09-21 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-09-21 : Respiratory rate                         15.0 /min
+  2023-09-21 : Heart rate                               79.0 /min
+  2023-09-21 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  104.0 mm[Hg]
+  2023-09-21 : Head Occipital-frontal circumference     48.1 cm
+  2023-09-21 : Head Occipital-frontal circumference Percentile 63.7 %
+  2023-09-21 : Weight-for-length Per age and sex        25.6 %
+  2023-09-21 : Body Weight                              10.8 kg
+  2023-09-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2023-09-21 : Body Height                              82.3 cm
+  2023-06-22 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-06-22 : Respiratory rate                         15.0 /min
+  2023-06-22 : Heart rate                               71.0 /min
+  2023-06-22 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  2023-06-22 : Head Occipital-frontal circumference     47.5 cm
+  2023-06-22 : Head Occipital-frontal circumference Percentile 63.7 %
+  2023-06-22 : Weight-for-length Per age and sex        27.7 %
+  2023-06-22 : Body Weight                              10.2 kg
+  2023-06-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2023-06-22 : Body Height                              79.2 cm
+  2023-03-23 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-03-23 : Respiratory rate                         14.0 /min
+  2023-03-23 : Heart rate                               75.0 /min
+  2023-03-23 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  105.0 mm[Hg]
+  2023-03-23 : Head Occipital-frontal circumference     46.6 cm
+  2023-03-23 : Head Occipital-frontal circumference Percentile 63.7 %
+  2023-03-23 : Weight-for-length Per age and sex        25.9 %
+  2023-03-23 : Body Weight                              9.5 kg
+  2023-03-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2023-03-23 : Body Height                              75.7 cm
+  2022-12-22 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-12-22 : Respiratory rate                         15.0 /min
+  2022-12-22 : Heart rate                               94.0 /min
+  2022-12-22 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  105.0 mm[Hg]
+  2022-12-22 : Head Occipital-frontal circumference     45.5 cm
+  2022-12-22 : Head Occipital-frontal circumference Percentile 63.7 %
+  2022-12-22 : Weight-for-length Per age and sex        16.7 %
+  2022-12-22 : Body Weight                              8.4 kg
+  2022-12-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2022-12-22 : Body Height                              71.7 cm
+  2022-09-22 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-09-22 : Respiratory rate                         14.0 /min
+  2022-09-22 : Heart rate                               70.0 /min
+  2022-09-22 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  102.0 mm[Hg]
+  2022-09-22 : Head Occipital-frontal circumference     43.9 cm
+  2022-09-22 : Head Occipital-frontal circumference Percentile 63.7 %
+  2022-09-22 : Weight-for-length Per age and sex        10.3 %
+  2022-09-22 : Body Weight                              7.1 kg
+  2022-09-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2022-09-22 : Body Height                              66.9 cm
+  2022-07-21 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-07-21 : Respiratory rate                         13.0 /min
+  2022-07-21 : Heart rate                               70.0 /min
+  2022-07-21 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  2022-07-21 : Head Occipital-frontal circumference     42.3 cm
+  2022-07-21 : Head Occipital-frontal circumference Percentile 63.7 %
+  2022-07-21 : Weight-for-length Per age and sex        3.0 %
+  2022-07-21 : Body Weight                              5.9 kg
+  2022-07-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2022-07-21 : Body Height                              62.8 cm
+  2022-05-19 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-05-19 : Respiratory rate                         16.0 /min
+  2022-05-19 : Heart rate                               62.0 /min
+  2022-05-19 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 70.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  2022-05-19 : Head Occipital-frontal circumference     39.8 cm
+  2022-05-19 : Head Occipital-frontal circumference Percentile 63.7 %
+  2022-05-19 : Weight-for-length Per age and sex        1.6 %
+  2022-05-19 : Body Weight                              4.4 kg
+  2022-05-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2022-05-19 : Body Height                              57.3 cm
+  2022-04-14 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-04-14 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+  2022-04-14 : Platelet distribution width [Entitic volume] in Blood by Automated count 162.8 fL
+  2022-04-14 : Platelets [#/volume] in Blood by Automated count 297.3 10*3/uL
+  2022-04-14 : Erythrocyte distribution width [Entitic volume] by Automated count 43.1 fL
+  2022-04-14 : MCHC [Mass/volume] by Automated count    33.0 g/dL
+  2022-04-14 : MCH [Entitic mass] by Automated count    27.5 pg
+  2022-04-14 : MCV [Entitic volume] by Automated count  83.7 fL
+  2022-04-14 : Hematocrit [Volume Fraction] of Blood by Automated count 48.8 %
+  2022-04-14 : Hemoglobin [Mass/volume] in Blood        12.4 g/dL
+  2022-04-14 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  2022-04-14 : Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+  2022-04-14 : Respiratory rate                         15.0 /min
+  2022-04-14 : Heart rate                               80.0 /min
+  2022-04-14 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  105.0 mm[Hg]
+  2022-04-14 : Head Occipital-frontal circumference     36.5 cm
+  2022-04-14 : Head Occipital-frontal circumference Percentile 63.7 %
+  2022-04-14 : Weight-for-length Per age and sex        4.8 %
+  2022-04-14 : Body Weight                              3.6 kg
+  2022-04-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2022-04-14 : Body Height                              53.4 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2025-04-22 : Asthma screening (procedure) for Childhood asthma (disorder)
+  2025-03-20 : Medication reconciliation (procedure)
+  2024-06-13 : Medication reconciliation (procedure)
+  2024-06-04 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2024-03-21 : Medication reconciliation (procedure)
+  2023-03-23 : Medication reconciliation (procedure)
+  2022-12-22 : Medication reconciliation (procedure)
+  2022-05-19 : Medication reconciliation (procedure)
+  2022-04-14 : Medication reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2025-03-20 : Influenza, seasonal, injectable, preservative free
+  2024-06-13 : Hep A, ped/adol, 2 dose
+  2024-03-21 : Influenza, seasonal, injectable, preservative free
+  2023-09-21 : DTaP
+  2023-06-22 : Hep A, ped/adol, 2 dose
+  2023-06-22 : Pneumococcal conjugate PCV 13
+  2023-06-22 : MMR
+  2023-06-22 : varicella
+  2023-06-22 : Hib (PRP-OMP)
+  2022-12-22 : Hep B, adolescent or pediatric
+  2022-12-22 : Pneumococcal conjugate PCV 13
+  2022-12-22 : DTaP
+  2022-12-22 : Influenza, seasonal, injectable, preservative free
+  2022-12-22 : IPV
+  2022-09-22 : Pneumococcal conjugate PCV 13
+  2022-09-22 : DTaP
+  2022-09-22 : IPV
+  2022-09-22 : rotavirus, monovalent
+  2022-09-22 : Hib (PRP-OMP)
+  2022-07-21 : Pneumococcal conjugate PCV 13
+  2022-07-21 : DTaP
+  2022-07-21 : IPV
+  2022-07-21 : rotavirus, monovalent
+  2022-07-21 : Hib (PRP-OMP)
+  2022-05-19 : Hep B, adolescent or pediatric
+  2022-04-14 : Hep B, adolescent or pediatric
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2025-09-18 (Dr. Victoria Roob) : Encounter at DILIGENCEHEALTHCARE
+2025-04-22 (Dr. Damaris Funk) : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Childhood asthma (disorder)
+2025-03-20 (Dr. Victoria Roob) : Encounter at DILIGENCEHEALTHCARE
+2024-10-19 (Dr. Damaris Funk) : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Otitis media (disorder)
+2024-09-19 (Dr. Victoria Roob) : Encounter at DILIGENCEHEALTHCARE
+2024-08-01 (Dr. Damaris Funk) : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Otitis media (disorder)
+2024-06-13 (Dr. Damaris Funk) : Encounter at BROCKTON HOSPITAL, INC.
+2024-06-04 (Dr. Damaris Funk) : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Acute bronchitis (disorder)
+2024-03-21 (Dr. Victoria Roob) : Encounter at DILIGENCEHEALTHCARE
+2023-09-21 (Dr. Victoria Roob) : Encounter at DILIGENCEHEALTHCARE
+2023-06-22 (Dr. Victoria Roob) : Encounter at DILIGENCEHEALTHCARE
+2023-03-23 (Dr. Victoria Roob) : Encounter at DILIGENCEHEALTHCARE
+2022-12-22 (Dr. Victoria Roob) : Encounter at DILIGENCEHEALTHCARE
+2022-09-22 (Dr. Victoria Roob) : Encounter at DILIGENCEHEALTHCARE
+2022-07-21 (Dr. Victoria Roob) : Encounter at DILIGENCEHEALTHCARE
+2022-05-19 (Dr. Victoria Roob) : Encounter at DILIGENCEHEALTHCARE
+2022-04-14 (Dr. Victoria Roob) : Encounter at DILIGENCEHEALTHCARE
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

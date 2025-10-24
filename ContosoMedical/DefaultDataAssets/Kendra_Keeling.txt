@@ -1,0 +1,382 @@
+Kendra Keeling
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 5
+Birth Date:          2020-08-30
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2025-02-18[STOPPED] : Acetaminophen 160 MG Chewable Tablet
+  2025-02-18[STOPPED] : Amoxicillin 500 MG Oral Tablet
+  2023-12-14[STOPPED] : Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution for Acute bronchitis (disorder)
+  2021-08-25[STOPPED] : Acetaminophen 160 MG Chewable Tablet
+  2021-08-25[STOPPED] : Amoxicillin 500 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2025-08-10 - 2025-08-10 : Medication review due (situation)
+  2025-02-18 - 2025-08-10 : Otitis media (disorder)
+  2024-08-04 - 2024-08-04 : Medication review due (situation)
+  2024-02-03 - 2024-02-03 : Medication review due (situation)
+  2023-12-14 - 2023-12-22 : Acute bronchitis (disorder)
+  2023-08-06 - 2023-12-23 : Medication review due (situation)
+  2023-02-04 - 2023-02-04 : Medication review due (situation)
+  2022-08-07 - 2022-08-07 : Medication review due (situation)
+  2022-02-05 - 2022-02-05 : Medication review due (situation)
+  2021-11-07 - 2021-11-07 : Medication review due (situation)
+  2021-09-06 - 2021-09-30 : Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder)
+  2021-09-06 - 2021-09-30 : Fever (finding)
+  2021-09-06 - 2021-09-30 : Cough (finding)
+  2021-09-06 - 2021-09-06 : Suspected disease caused by Severe acute respiratory coronavirus 2 (situation)
+  2021-08-25 - 2021-11-07 : Otitis media (disorder)
+  2021-05-09 - 2021-08-08 : Medication review due (situation)
+  2021-02-06 - 2021-02-06 : Medication review due (situation)
+  2020-12-05 - 2020-12-05 : Medication review due (situation)
+  2020-10-04 - 2020-10-04 : Medication review due (situation)
+  2020-08-30 - 2020-08-30 : Medication review due (situation)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2023-12-14[STOPPED] : Respiratory therapy (procedure)
+                         Activity: Recommendation to avoid exercise (procedure)
+                         Activity: Deep breathing and coughing exercises (regime/therapy)
+  2021-09-06[STOPPED] : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Isolation of infected patient (procedure)
+  2021-09-06[STOPPED] : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Personal protective equipment (physical object)
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-09-06 : SARS-CoV-2 RNA Pnl Resp NAA+probe
+           - SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+  2021-09-06 : Respiratory pathogens DNA and RNA panel - Respiratory specimen by NAA with probe detection
+           - Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-08-30 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.7 %
+           - MCV [Entitic volume] by Automated count  89.0 fL
+           - MCH [Entitic mass] by Automated count    28.1 pg
+           - MCHC [Mass/volume] by Automated count    33.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.9 fL
+           - Platelets [#/volume] in Blood by Automated count 364.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 158.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2025-08-10 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2025-08-10 : Respiratory rate                         13.0 /min
+  2025-08-10 : Heart rate                               81.0 /min
+  2025-08-10 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2025-08-10 : Body mass index (BMI) [Percentile] Per age and sex 88.3 %
+  2025-08-10 : Body mass index (BMI) [Ratio]            17.1 kg/m2
+  2025-08-10 : Body Weight                              19.4 kg
+  2025-08-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2025-08-10 : Body Height                              106.5 cm
+  2024-08-04 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2024-08-04 : Respiratory rate                         15.0 /min
+  2024-08-04 : Heart rate                               94.0 /min
+  2024-08-04 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2024-08-04 : Body mass index (BMI) [Percentile] Per age and sex 84.8 %
+  2024-08-04 : Body mass index (BMI) [Ratio]            16.8 kg/m2
+  2024-08-04 : Head Occipital-frontal circumference     48.5 cm
+  2024-08-04 : Head Occipital-frontal circumference Percentile 45.7 %
+  2024-08-04 : Weight-for-length Per age and sex        78.4 %
+  2024-08-04 : Body Weight                              16.7 kg
+  2024-08-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2024-08-04 : Body Height                              99.7 cm
+  2024-02-03 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2024-02-03 : Respiratory rate                         13.0 /min
+  2024-02-03 : Heart rate                               82.0 /min
+  2024-02-03 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  133.0 mm[Hg]
+  2024-02-03 : Body mass index (BMI) [Percentile] Per age and sex 85.2 %
+  2024-02-03 : Body mass index (BMI) [Ratio]            17.0 kg/m2
+  2024-02-03 : Head Occipital-frontal circumference     48.5 cm
+  2024-02-03 : Head Occipital-frontal circumference Percentile 45.7 %
+  2024-02-03 : Weight-for-length Per age and sex        78.4 %
+  2024-02-03 : Body Weight                              15.8 kg
+  2024-02-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2024-02-03 : Body Height                              96.4 cm
+  2023-12-23 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-12-23 : Respiratory rate                         12.0 /min
+  2023-12-23 : Heart rate                               68.0 /min
+  2023-12-23 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2023-12-23 : Body mass index (BMI) [Percentile] Per age and sex 84.8 %
+  2023-12-23 : Body mass index (BMI) [Ratio]            17.0 kg/m2
+  2023-12-23 : Head Occipital-frontal circumference     48.5 cm
+  2023-12-23 : Head Occipital-frontal circumference Percentile 45.7 %
+  2023-12-23 : Weight-for-length Per age and sex        78.4 %
+  2023-12-23 : Body Weight                              15.4 kg
+  2023-12-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2023-12-23 : Body Height                              95.2 cm
+  2023-08-06 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-08-06 : Respiratory rate                         14.0 /min
+  2023-08-06 : Heart rate                               91.0 /min
+  2023-08-06 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2023-08-06 : Body mass index (BMI) [Percentile] Per age and sex 80.9 %
+  2023-08-06 : Body mass index (BMI) [Ratio]            17.0 kg/m2
+  2023-08-06 : Head Occipital-frontal circumference     48.4 cm
+  2023-08-06 : Head Occipital-frontal circumference Percentile 45.7 %
+  2023-08-06 : Weight-for-length Per age and sex        79.8 %
+  2023-08-06 : Body Weight                              14.6 kg
+  2023-08-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2023-08-06 : Body Height                              92.9 cm
+  2023-02-04 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-02-04 : Respiratory rate                         13.0 /min
+  2023-02-04 : Heart rate                               69.0 /min
+  2023-02-04 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2023-02-04 : Body mass index (BMI) [Percentile] Per age and sex 71.8 %
+  2023-02-04 : Body mass index (BMI) [Ratio]            16.9 kg/m2
+  2023-02-04 : Head Occipital-frontal circumference     47.9 cm
+  2023-02-04 : Head Occipital-frontal circumference Percentile 45.7 %
+  2023-02-04 : Weight-for-length Per age and sex        72.1 %
+  2023-02-04 : Body Weight                              13.3 kg
+  2023-02-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2023-02-04 : Body Height                              88.9 cm
+  2022-08-07 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-08-07 : Respiratory rate                         14.0 /min
+  2022-08-07 : Heart rate                               98.0 /min
+  2022-08-07 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2022-08-07 : Head Occipital-frontal circumference     47.3 cm
+  2022-08-07 : Head Occipital-frontal circumference Percentile 45.7 %
+  2022-08-07 : Weight-for-length Per age and sex        70.1 %
+  2022-08-07 : Body Weight                              12.3 kg
+  2022-08-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2022-08-07 : Body Height                              84.7 cm
+  2022-02-05 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-02-05 : Respiratory rate                         15.0 /min
+  2022-02-05 : Heart rate                               82.0 /min
+  2022-02-05 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  135.0 mm[Hg]
+  2022-02-05 : Head Occipital-frontal circumference     46.3 cm
+  2022-02-05 : Head Occipital-frontal circumference Percentile 45.7 %
+  2022-02-05 : Weight-for-length Per age and sex        79.2 %
+  2022-02-05 : Body Weight                              11.2 kg
+  2022-02-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2022-02-05 : Body Height                              79.3 cm
+  2021-11-07 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-11-07 : Respiratory rate                         13.0 /min
+  2021-11-07 : Heart rate                               71.0 /min
+  2021-11-07 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  133.0 mm[Hg]
+  2021-11-07 : Head Occipital-frontal circumference     45.6 cm
+  2021-11-07 : Head Occipital-frontal circumference Percentile 45.7 %
+  2021-11-07 : Weight-for-length Per age and sex        79.2 %
+  2021-11-07 : Body Weight                              10.5 kg
+  2021-11-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2021-11-07 : Body Height                              76.1 cm
+  2021-09-06 : SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+  2021-09-06 : Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-09-06 : Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-09-06 : Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-09-06 : Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-09-06 : Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-09-06 : Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-09-06 : Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-09-06 : Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-09-06 : Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-09-06 : Body Weight                              9.9 kg
+  2021-09-06 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  133.0 mm[Hg]
+  2021-09-06 : Oxygen saturation in Arterial blood      85.4 %
+  2021-09-06 : Heart rate                               115.1 /min
+  2021-09-06 : Respiratory rate                         23.2 /min
+  2021-09-06 : Body temperature                         42.1 Cel
+  2021-08-08 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-08-08 : Respiratory rate                         16.0 /min
+  2021-08-08 : Heart rate                               75.0 /min
+  2021-08-08 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2021-08-08 : Head Occipital-frontal circumference     44.7 cm
+  2021-08-08 : Head Occipital-frontal circumference Percentile 45.7 %
+  2021-08-08 : Weight-for-length Per age and sex        72.7 %
+  2021-08-08 : Body Weight                              9.6 kg
+  2021-08-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2021-08-08 : Body Height                              72.7 cm
+  2021-05-09 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-05-09 : Respiratory rate                         13.0 /min
+  2021-05-09 : Heart rate                               96.0 /min
+  2021-05-09 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2021-05-09 : Head Occipital-frontal circumference     43.6 cm
+  2021-05-09 : Head Occipital-frontal circumference Percentile 45.7 %
+  2021-05-09 : Weight-for-length Per age and sex        67.2 %
+  2021-05-09 : Body Weight                              8.5 kg
+  2021-05-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-05-09 : Body Height                              68.7 cm
+  2021-02-06 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-02-06 : Respiratory rate                         16.0 /min
+  2021-02-06 : Heart rate                               99.0 /min
+  2021-02-06 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  146.0 mm[Hg]
+  2021-02-06 : Head Occipital-frontal circumference     41.9 cm
+  2021-02-06 : Head Occipital-frontal circumference Percentile 45.7 %
+  2021-02-06 : Weight-for-length Per age and sex        65.1 %
+  2021-02-06 : Body Weight                              7.2 kg
+  2021-02-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2021-02-06 : Body Height                              64.0 cm
+  2020-12-05 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-12-05 : Respiratory rate                         14.0 /min
+  2020-12-05 : Heart rate                               62.0 /min
+  2020-12-05 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  137.0 mm[Hg]
+  2020-12-05 : Head Occipital-frontal circumference     40.3 cm
+  2020-12-05 : Head Occipital-frontal circumference Percentile 45.7 %
+  2020-12-05 : Weight-for-length Per age and sex        53.8 %
+  2020-12-05 : Body Weight                              6.0 kg
+  2020-12-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2020-12-05 : Body Height                              60.0 cm
+  2020-10-04 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-10-04 : Respiratory rate                         15.0 /min
+  2020-10-04 : Heart rate                               93.0 /min
+  2020-10-04 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2020-10-04 : Head Occipital-frontal circumference     37.8 cm
+  2020-10-04 : Head Occipital-frontal circumference Percentile 45.7 %
+  2020-10-04 : Weight-for-length Per age and sex        50.6 %
+  2020-10-04 : Body Weight                              4.7 kg
+  2020-10-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2020-10-04 : Body Height                              54.9 cm
+  2020-08-30 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-08-30 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  2020-08-30 : Platelet distribution width [Entitic volume] in Blood by Automated count 158.9 fL
+  2020-08-30 : Platelets [#/volume] in Blood by Automated count 364.2 10*3/uL
+  2020-08-30 : Erythrocyte distribution width [Entitic volume] by Automated count 40.9 fL
+  2020-08-30 : MCHC [Mass/volume] by Automated count    33.2 g/dL
+  2020-08-30 : MCH [Entitic mass] by Automated count    28.1 pg
+  2020-08-30 : MCV [Entitic volume] by Automated count  89.0 fL
+  2020-08-30 : Hematocrit [Volume Fraction] of Blood by Automated count 43.7 %
+  2020-08-30 : Hemoglobin [Mass/volume] in Blood        16.9 g/dL
+  2020-08-30 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2020-08-30 : Leukocytes [#/volume] in Blood by Automated count 7.9 10*3/uL
+  2020-08-30 : Respiratory rate                         16.0 /min
+  2020-08-30 : Heart rate                               89.0 /min
+  2020-08-30 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 89.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2020-08-30 : Head Occipital-frontal circumference     34.5 cm
+  2020-08-30 : Head Occipital-frontal circumference Percentile 45.7 %
+  2020-08-30 : Weight-for-length Per age and sex        68.0 %
+  2020-08-30 : Body Weight                              3.9 kg
+  2020-08-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2020-08-30 : Body Height                              51.3 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2025-08-17 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2025-08-17 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2025-08-17 : Dental plain X-ray bitewing (procedure)
+  2025-08-17 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2025-08-17 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2025-08-17 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2025-08-17 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2025-08-10 : Patient referral for dental care (procedure)
+  2025-08-10 : Medication reconciliation (procedure)
+  2024-08-04 : Medication reconciliation (procedure)
+  2024-02-03 : Medication reconciliation (procedure)
+  2023-12-23 : Medication reconciliation (procedure)
+  2023-12-14 : Sputum examination (procedure) for Acute bronchitis (disorder)
+  2023-02-04 : Medication reconciliation (procedure)
+  2022-08-07 : Medication reconciliation (procedure)
+  2022-02-05 : Medication reconciliation (procedure)
+  2021-11-07 : Medication reconciliation (procedure)
+  2021-09-06 : Face mask (physical object) for Suspected disease caused by Severe acute respiratory coronavirus 2 (situation)
+  2021-08-08 : Medication reconciliation (procedure)
+  2021-02-06 : Medication reconciliation (procedure)
+  2020-12-05 : Medication reconciliation (procedure)
+  2020-10-04 : Medication reconciliation (procedure)
+  2020-08-30 : Medication reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2025-08-10 : MMR
+  2025-08-10 : DTaP
+  2025-08-10 : Influenza, seasonal, injectable, preservative free
+  2025-08-10 : IPV
+  2025-08-10 : varicella
+  2024-08-04 : Influenza, seasonal, injectable, preservative free
+  2023-08-06 : Influenza, seasonal, injectable, preservative free
+  2023-02-04 : Hep A, ped/adol, 2 dose
+  2022-08-07 : Influenza, seasonal, injectable, preservative free
+  2022-02-05 : DTaP
+  2021-11-07 : Hep A, ped/adol, 2 dose
+  2021-11-07 : Pneumococcal conjugate PCV 13
+  2021-11-07 : MMR
+  2021-11-07 : varicella
+  2021-11-07 : Hib (PRP-OMP)
+  2021-05-09 : Hep B, adolescent or pediatric
+  2021-05-09 : Pneumococcal conjugate PCV 13
+  2021-05-09 : DTaP
+  2021-05-09 : Influenza, seasonal, injectable, preservative free
+  2021-05-09 : IPV
+  2021-02-06 : Pneumococcal conjugate PCV 13
+  2021-02-06 : DTaP
+  2021-02-06 : IPV
+  2021-02-06 : rotavirus, monovalent
+  2021-02-06 : Hib (PRP-OMP)
+  2020-12-05 : Pneumococcal conjugate PCV 13
+  2020-12-05 : DTaP
+  2020-12-05 : IPV
+  2020-12-05 : rotavirus, monovalent
+  2020-12-05 : Hib (PRP-OMP)
+  2020-10-04 : Hep B, adolescent or pediatric
+  2020-08-30 : Hep B, adolescent or pediatric
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2025-08-17 (Dr. Nickolas Schumm) : Encounter at ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE : Encounter for Patient referral for dental care (procedure)
+2025-08-10 (Dr. Ariel Von) : Encounter at APPLE MEDICAL CLINIC MA INC
+2025-02-18 (Dr. Nickolas Schumm) : Encounter at ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE : Encounter for Otitis media (disorder)
+2024-08-04 (Dr. Ariel Von) : Encounter at APPLE MEDICAL CLINIC MA INC
+2024-02-03 (Dr. Ariel Von) : Encounter at APPLE MEDICAL CLINIC MA INC
+2023-12-23 (Dr. Nickolas Schumm) : Encounter at ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+2023-12-14 (Dr. Nickolas Schumm) : Encounter at ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE : Encounter for Acute bronchitis (disorder)
+2023-08-06 (Dr. Ariel Von) : Encounter at APPLE MEDICAL CLINIC MA INC
+2023-02-04 (Dr. Ariel Von) : Encounter at APPLE MEDICAL CLINIC MA INC
+2022-08-07 (Dr. Ariel Von) : Encounter at APPLE MEDICAL CLINIC MA INC
+2022-02-05 (Dr. Ariel Von) : Encounter at APPLE MEDICAL CLINIC MA INC
+2021-11-07 (Dr. Ariel Von) : Encounter at APPLE MEDICAL CLINIC MA INC
+2021-09-06 (Dr. Nickolas Schumm) : Encounter at ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE : Encounter for Suspected disease caused by Severe acute respiratory coronavirus 2 (situation)
+2021-08-25 (Dr. Nickolas Schumm) : Encounter at ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE : Encounter for Otitis media (disorder)
+2021-08-08 (Dr. Ariel Von) : Encounter at APPLE MEDICAL CLINIC MA INC
+2021-05-09 (Dr. Ariel Von) : Encounter at APPLE MEDICAL CLINIC MA INC
+2021-02-06 (Dr. Ariel Von) : Encounter at APPLE MEDICAL CLINIC MA INC
+2020-12-05 (Dr. Ariel Von) : Encounter at APPLE MEDICAL CLINIC MA INC
+2020-10-04 (Dr. Ariel Von) : Encounter at APPLE MEDICAL CLINIC MA INC
+2020-08-30 (Dr. Ariel Von) : Encounter at APPLE MEDICAL CLINIC MA INC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2025-08-17 : Digital Radiography, Structure of region of internal part of mouth (body structure)
+--------------------------------------------------------------------------------

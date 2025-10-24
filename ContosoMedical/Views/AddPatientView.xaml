@@ -1,0 +1,84 @@
+﻿<UserControl x:Class="PatientSummaryTool.Views.AddPatientView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:b="http://schemas.microsoft.com/xaml/behaviors"
+             xmlns:local="clr-namespace:PatientSummaryTool"
+             xmlns:resources="clr-namespace:PatientSummaryTool.Properties"
+             xmlns:vms="clr-namespace:PatientSummaryTool.ViewModels"
+             xmlns:converters="clr-namespace:PatientSummaryTool.Utils.Converters"
+             xmlns:views="clr-namespace:PatientSummaryTool.Views"
+             xmlns:behaviors="clr-namespace:PatientSummaryTool.Utils.Behaviors"
+             xmlns:localSharedControls="clr-namespace:PatientSummaryTool.Views.SharedUserControls"
+             xmlns:scm="clr-namespace:System.ComponentModel;assembly=WindowsBase"
+             mc:Ignorable="d"
+             d:DesignHeight="400" d:DesignWidth="700">
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <BooleanToVisibilityConverter x:Key="booleanToVisibilityConverter" />
+            <Style TargetType="TextBlock">
+                <Setter Property="Width" Value="Auto" />
+                <Setter Property="TextWrapping" Value="Wrap" />
+            </Style>
+        </ResourceDictionary>
+    </UserControl.Resources>
+    <b:Interaction.Triggers>
+        <b:EventTrigger EventName="Loaded">
+            <b:CallMethodAction TargetObject="{Binding}" MethodName="LoadAddPatient" />
+        </b:EventTrigger>
+    </b:Interaction.Triggers>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Margin="50,20,50,5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="7*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Label Name="FirstNameLabel" HorizontalAlignment="Left" VerticalAlignment="Center">
+                    <TextBlock x:Name="FirstNameLabelText" Text="{x:Static resources:Resources.FirstNameLabel}"/>
+                </Label>
+            </Grid>
+            <Grid Grid.Column="1">
+                <TextBox x:Name="FirstNameTextBox" AutomationProperties.LabeledBy="{Binding ElementName=FirstNameLabelText}" Style="{StaticResource TextBox}" AutomationProperties.IsRequiredForForm="True" Text="{Binding FirstName, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" />
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="1" Margin="50,20,50,5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="7*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Label Name="LastNameLabel" HorizontalAlignment="Left" VerticalAlignment="Center">
+                    <TextBlock x:Name="LastNameLabelText" Text="{x:Static resources:Resources.LastNameLabel}"/>
+                </Label>
+            </Grid>
+            <Grid Grid.Column="1">
+                <TextBox x:Name="LastNameTextBox" AutomationProperties.LabeledBy="{Binding ElementName=LastNameLabelText}" Style="{StaticResource TextBox}" AutomationProperties.IsRequiredForForm="True" Text="{Binding LastName, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" />
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="2" Margin="50,20,50,5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="7*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Label Name="SourceLanguageLabel" HorizontalAlignment="Left" VerticalAlignment="Center">
+                    <TextBlock x:Name="SourceLanguageLabelText" Text="{x:Static resources:Resources.SourceLanguageLabel}"/>
+                </Label>
+            </Grid>
+            <Grid Grid.Column="1">
+                <TextBox x:Name="SourceLanguageTextBox" AutomationProperties.LabeledBy="{Binding ElementName=SourceLanguageLabelText}" Style="{StaticResource TextBox}" AutomationProperties.IsRequiredForForm="True" Text="{Binding SourceLanguage, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" />
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="3" Margin="50,20,50,5">
+            <Button Name="ReportButton" Content="{x:Static resources:Resources.BrowseReportsButtonText}" Style="{StaticResource ReportButton}" Command="{Binding BrowseReportCommand}" />
+        </Grid>
+    </Grid>
+</UserControl>

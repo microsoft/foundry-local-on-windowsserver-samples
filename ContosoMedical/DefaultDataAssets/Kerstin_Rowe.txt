@@ -1,0 +1,520 @@
+Kerstin Rowe
+============
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 18
+Birth Date:          2006-11-18
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2023-11-02[STOPPED] : Seasonique 91 Day Pack
+  2023-08-19[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2022-10-16[STOPPED] : cephalexin 500 MG Oral Tablet for Pyelonephritis (disorder)
+  2022-03-16[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2022-01-08[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Patient referral for dental care (procedure)
+  2021-11-12[STOPPED] : Seasonique 91 Day Pack
+  2018-12-22[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Gingivitis (disorder)
+  2017-06-09[STOPPED] : Penicillin V Potassium 250 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2015-11-28[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Gingivitis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2025-06-21 -            : Normal pregnancy (finding)
+  2025-01-11 -            : Misuses drugs (finding)
+  2025-01-11 -            : Stress (finding)
+  2025-01-11 -            : Part-time employment (finding)
+  2025-01-11 -            : Educated to high school level (finding)
+  2024-01-06 - 2025-01-11 : Medication review due (situation)
+  2023-08-19 - 2023-09-05 : Acute bronchitis (disorder)
+  2022-12-31 - 2022-12-31 : Medication review due (situation)
+  2022-10-16 - 2022-10-17 : Pyelonephritis (disorder)
+  2022-09-25 - 2022-10-16 : Viral sinusitis (disorder)
+  2022-03-16 - 2022-03-24 : Acute bronchitis (disorder)
+  2022-01-08 - 2022-01-08 : Loose dental filling (finding)
+  2019-12-14 - 2022-03-26 : Medication review due (situation)
+  2018-12-22 - 2018-12-22 : Gingival disease (disorder)
+  2018-12-08 - 2018-12-22 : Gingivitis (disorder)
+  2018-05-03 - 2018-05-10 : Viral sinusitis (disorder)
+  2017-12-02 - 2018-12-08 : Medication review due (situation)
+  2017-06-17 - 2017-06-24 : Medication review due (situation)
+  2017-06-09 - 2017-06-19 : Streptococcal sore throat (disorder)
+  2016-12-03 - 2016-12-03 : Leaking dental filling (finding)
+  2016-11-26 - 2016-11-26 : Medication review due (situation)
+  2015-12-05 - 2015-12-15 : Acute viral pharyngitis (disorder)
+  2015-11-28 - 2015-11-28 : Gingival disease (disorder)
+  2015-11-21 - 2015-11-28 : Gingivitis (disorder)
+  2012-11-03 - 2015-11-21 : Medication review due (situation)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2025-06-21[CURRENT] : Routine antenatal care (regime/therapy)
+                         Activity: Antenatal education (procedure)
+                         Activity: Antenatal risk assessment (procedure)
+                         Activity: Antenatal blood tests (procedure)
+  2023-08-19[STOPPED] : Respiratory therapy (procedure)
+                         Activity: Recommendation to avoid exercise (procedure)
+                         Activity: Deep breathing and coughing exercises (regime/therapy)
+  2022-03-16[STOPPED] : Respiratory therapy (procedure)
+                         Activity: Recommendation to avoid exercise (procedure)
+                         Activity: Deep breathing and coughing exercises (regime/therapy)
+--------------------------------------------------------------------------------
+REPORTS:
+  2025-01-11 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    5.0 {score}
+  2025-01-11 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2025-01-11 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2024-01-06 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2024-01-06 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2022-12-31 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 0.0 {score}
+  2022-12-31 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 13.0 {score}
+  2022-12-31 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.4 %
+           - MCV [Entitic volume] by Automated count  85.9 fL
+           - MCH [Entitic mass] by Automated count    31.1 pg
+           - MCHC [Mass/volume] by Automated count    35.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.6 fL
+           - Platelets [#/volume] in Blood by Automated count 305.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 347.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2022-03-26 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+  2022-03-26 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2021-12-25 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2020-12-19 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 0.0 {score}
+  2019-12-14 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 3.0 {score}
+  2018-12-08 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 18.0 {score}
+  2018-12-08 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2017-06-17 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.8 %
+           - MCV [Entitic volume] by Automated count  86.4 fL
+           - MCH [Entitic mass] by Automated count    30.3 pg
+           - MCHC [Mass/volume] by Automated count    35.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.7 fL
+           - Platelets [#/volume] in Blood by Automated count 347.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 173.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.6 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2025-01-11 : Total score [DAST-10]                    5.0 {score}
+  2025-01-11 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2025-01-11 : Total score [HARK]                       0.0 {score}
+  2025-01-11 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 56526 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Part-time or temporary work 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  771 Dach Mission 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 6.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2025-01-11 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2025-01-11 : Respiratory rate                         13.0 /min
+  2025-01-11 : Heart rate                               93.0 /min
+  2025-01-11 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 92.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2025-01-11 : Body mass index (BMI) [Percentile] Per age and sex 14.0 %
+  2025-01-11 : Body mass index (BMI) [Ratio]            18.6 kg/m2
+  2025-01-11 : Body Weight                              44.8 kg
+  2025-01-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2025-01-11 : Body Height                              155.2 cm
+  2024-01-06 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2024-01-06 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2024-01-06 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2024-01-06 : Respiratory rate                         16.0 /min
+  2024-01-06 : Heart rate                               94.0 /min
+  2024-01-06 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2024-01-06 : Body mass index (BMI) [Percentile] Per age and sex 24.0 %
+  2024-01-06 : Body mass index (BMI) [Ratio]            19.1 kg/m2
+  2024-01-06 : Body Weight                              45.8 kg
+  2024-01-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2024-01-06 : Body Height                              155.0 cm
+  2022-12-31 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 0.0 {score}
+  2022-12-31 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 13.0 {score}
+  2022-12-31 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-12-31 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2022-12-31 : Platelet distribution width [Entitic volume] in Blood by Automated count 347.2 fL
+  2022-12-31 : Platelets [#/volume] in Blood by Automated count 305.2 10*3/uL
+  2022-12-31 : Erythrocyte distribution width [Entitic volume] by Automated count 40.6 fL
+  2022-12-31 : MCHC [Mass/volume] by Automated count    35.7 g/dL
+  2022-12-31 : MCH [Entitic mass] by Automated count    31.1 pg
+  2022-12-31 : MCV [Entitic volume] by Automated count  85.9 fL
+  2022-12-31 : Hematocrit [Volume Fraction] of Blood by Automated count 45.4 %
+  2022-12-31 : Hemoglobin [Mass/volume] in Blood        15.3 g/dL
+  2022-12-31 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2022-12-31 : Leukocytes [#/volume] in Blood by Automated count 8.6 10*3/uL
+  2022-12-31 : Respiratory rate                         15.0 /min
+  2022-12-31 : Heart rate                               100.0 /min
+  2022-12-31 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2022-12-31 : Body mass index (BMI) [Percentile] Per age and sex 31.2 %
+  2022-12-31 : Body mass index (BMI) [Ratio]            19.2 kg/m2
+  2022-12-31 : Body Weight                              45.8 kg
+  2022-12-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2022-12-31 : Body Height                              154.7 cm
+  2022-03-26 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+  2022-03-26 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2022-03-26 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-03-26 : Respiratory rate                         16.0 /min
+  2022-03-26 : Heart rate                               72.0 /min
+  2022-03-26 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  107.0 mm[Hg]
+  2022-03-26 : Body mass index (BMI) [Percentile] Per age and sex 33.9 %
+  2022-03-26 : Body mass index (BMI) [Ratio]            19.0 kg/m2
+  2022-03-26 : Body Weight                              45.1 kg
+  2022-03-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2022-03-26 : Body Height                              154.2 cm
+  2021-12-25 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2021-12-25 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-12-25 : Respiratory rate                         16.0 /min
+  2021-12-25 : Heart rate                               70.0 /min
+  2021-12-25 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  106.0 mm[Hg]
+  2021-12-25 : Body mass index (BMI) [Percentile] Per age and sex 31.5 %
+  2021-12-25 : Body mass index (BMI) [Ratio]            18.7 kg/m2
+  2021-12-25 : Body Weight                              44.3 kg
+  2021-12-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-12-25 : Body Height                              154.0 cm
+  2020-12-19 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 0.0 {score}
+  2020-12-19 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-12-19 : Respiratory rate                         15.0 /min
+  2020-12-19 : Heart rate                               79.0 /min
+  2020-12-19 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  2020-12-19 : Body mass index (BMI) [Percentile] Per age and sex 17.5 %
+  2020-12-19 : Body mass index (BMI) [Ratio]            17.1 kg/m2
+  2020-12-19 : Body Weight                              39.9 kg
+  2020-12-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2020-12-19 : Body Height                              152.6 cm
+  2019-12-14 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 3.0 {score}
+  2019-12-14 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-12-14 : Respiratory rate                         15.0 /min
+  2019-12-14 : Heart rate                               70.0 /min
+  2019-12-14 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  2019-12-14 : Body mass index (BMI) [Percentile] Per age and sex 21.5 %
+  2019-12-14 : Body mass index (BMI) [Ratio]            16.8 kg/m2
+  2019-12-14 : Body Weight                              37.3 kg
+  2019-12-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2019-12-14 : Body Height                              148.8 cm
+  2018-12-08 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 18.0 {score}
+  2018-12-08 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2018-12-08 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2018-12-08 : Respiratory rate                         14.0 /min
+  2018-12-08 : Heart rate                               84.0 /min
+  2018-12-08 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2018-12-08 : Body mass index (BMI) [Percentile] Per age and sex 29.7 %
+  2018-12-08 : Body mass index (BMI) [Ratio]            16.8 kg/m2
+  2018-12-08 : Body Weight                              34.1 kg
+  2018-12-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2018-12-08 : Body Height                              142.4 cm
+  2017-12-02 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2017-12-02 : Respiratory rate                         15.0 /min
+  2017-12-02 : Heart rate                               86.0 /min
+  2017-12-02 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  2017-12-02 : Body mass index (BMI) [Percentile] Per age and sex 40.7 %
+  2017-12-02 : Body mass index (BMI) [Ratio]            16.9 kg/m2
+  2017-12-02 : Body Weight                              31.0 kg
+  2017-12-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-12-02 : Body Height                              135.4 cm
+  2017-06-24 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2017-06-24 : Respiratory rate                         15.0 /min
+  2017-06-24 : Heart rate                               88.0 /min
+  2017-06-24 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  106.0 mm[Hg]
+  2017-06-24 : Body mass index (BMI) [Percentile] Per age and sex 48.8 %
+  2017-06-24 : Body mass index (BMI) [Ratio]            17.1 kg/m2
+  2017-06-24 : Body Weight                              30.3 kg
+  2017-06-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-06-24 : Body Height                              133.0 cm
+  2017-06-17 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2017-06-17 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.6 fL
+  2017-06-17 : Platelet distribution width [Entitic volume] in Blood by Automated count 173.4 fL
+  2017-06-17 : Platelets [#/volume] in Blood by Automated count 347.4 10*3/uL
+  2017-06-17 : Erythrocyte distribution width [Entitic volume] by Automated count 41.7 fL
+  2017-06-17 : MCHC [Mass/volume] by Automated count    35.5 g/dL
+  2017-06-17 : MCH [Entitic mass] by Automated count    30.3 pg
+  2017-06-17 : MCV [Entitic volume] by Automated count  86.4 fL
+  2017-06-17 : Hematocrit [Volume Fraction] of Blood by Automated count 49.8 %
+  2017-06-17 : Hemoglobin [Mass/volume] in Blood        12.1 g/dL
+  2017-06-17 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2017-06-17 : Leukocytes [#/volume] in Blood by Automated count 9.6 10*3/uL
+  2017-06-17 : Respiratory rate                         16.0 /min
+  2017-06-17 : Heart rate                               65.0 /min
+  2017-06-17 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  106.0 mm[Hg]
+  2017-06-17 : Body mass index (BMI) [Percentile] Per age and sex 51.4 %
+  2017-06-17 : Body mass index (BMI) [Ratio]            17.3 kg/m2
+  2017-06-17 : Body Weight                              30.3 kg
+  2017-06-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-06-17 : Body Height                              132.6 cm
+  2017-06-09 : Body temperature                         37.7 Cel
+  2016-11-26 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2016-11-26 : Respiratory rate                         14.0 /min
+  2016-11-26 : Heart rate                               99.0 /min
+  2016-11-26 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2016-11-26 : Body mass index (BMI) [Percentile] Per age and sex 64.4 %
+  2016-11-26 : Body mass index (BMI) [Ratio]            17.8 kg/m2
+  2016-11-26 : Body Weight                              30.1 kg
+  2016-11-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2016-11-26 : Body Height                              130.1 cm
+  2015-12-05 : Body temperature                         37.7 Cel
+  2015-11-21 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2015-11-21 : Respiratory rate                         14.0 /min
+  2015-11-21 : Heart rate                               79.0 /min
+  2015-11-21 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 94.0 mm[Hg]
+           - Systolic Blood Pressure                  105.0 mm[Hg]
+  2015-11-21 : Body mass index (BMI) [Percentile] Per age and sex 70.9 %
+  2015-11-21 : Body mass index (BMI) [Ratio]            17.6 kg/m2
+  2015-11-21 : Body Weight                              27.8 kg
+  2015-11-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2015-11-21 : Body Height                              125.7 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2025-09-13 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2025-09-13 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2025-08-16 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2025-08-16 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2025-08-16 : Alpha-fetoprotein test - antenatal (procedure) for Normal pregnancy (finding)
+  2025-08-16 : Fetal anatomy study (procedure) for Normal pregnancy (finding)
+  2025-07-19 : Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure) for Normal pregnancy (finding)
+  2025-07-19 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2025-07-19 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2025-06-21 : Physical examination procedure (procedure) for Normal pregnancy (finding)
+  2025-06-21 : Urinalysis, protein, qualitative (procedure) for Normal pregnancy (finding)
+  2025-06-21 : Skin test for tuberculosis, Tine test (procedure) for Normal pregnancy (finding)
+  2025-06-21 : Measurement of Varicella-zoster virus antibody (procedure) for Normal pregnancy (finding)
+  2025-06-21 : Rubella screening test (procedure) for Normal pregnancy (finding)
+  2025-06-21 : Hepatitis C antibody, confirmatory test (procedure) for Normal pregnancy (finding)
+  2025-06-21 : Urine screening test for diabetes (procedure) for Normal pregnancy (finding)
+  2025-06-21 : Cytopathology procedure, preparation of smear, genital source (procedure) for Normal pregnancy (finding)
+  2025-06-21 : Urine culture (procedure) for Normal pregnancy (finding)
+  2025-06-21 : Syphilis infectious titer test (procedure) for Normal pregnancy (finding)
+  2025-06-21 : Gonorrhea infection titer test (procedure) for Normal pregnancy (finding)
+  2025-06-21 : Chlamydia antigen test (procedure) for Normal pregnancy (finding)
+  2025-06-21 : Human immunodeficiency virus antigen test (procedure) for Normal pregnancy (finding)
+  2025-06-21 : Hepatitis B surface antigen measurement (procedure) for Normal pregnancy (finding)
+  2025-06-21 : Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure) for Normal pregnancy (finding)
+  2025-06-21 : Blood group typing (procedure) for Normal pregnancy (finding)
+  2025-06-21 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2025-06-21 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2025-06-21 : Ultrasound scan for fetal viability (procedure) for Normal pregnancy (finding)
+  2025-06-21 : Standard pregnancy test (procedure) for Normal pregnancy (finding)
+  2025-01-11 : Screening for drug abuse (procedure)
+  2025-01-11 : Assessment of substance use (procedure)
+  2025-01-11 : Depression screening (procedure)
+  2025-01-11 : Depression screening (procedure)
+  2025-01-11 : Screening for domestic abuse (procedure)
+  2025-01-11 : Assessment of health and social care needs (procedure)
+  2025-01-11 : Medication reconciliation (procedure)
+  2024-01-06 : Anticipatory guidance (procedure)
+  2024-01-06 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2024-01-06 : Assessment of substance use (procedure)
+  2024-01-06 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2024-01-06 : Depression screening (procedure)
+  2024-01-06 : Assessment of anxiety (procedure)
+  2023-08-19 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2022-12-31 : Anticipatory guidance (procedure)
+  2022-12-31 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2022-12-31 : Assessment of substance use (procedure)
+  2022-12-31 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2022-12-31 : Depression screening (procedure)
+  2022-12-31 : Assessment of anxiety (procedure)
+  2022-12-31 : Medication reconciliation (procedure)
+  2022-10-16 : Antibiotic therapy (procedure)
+  2022-10-16 : Evaluation procedure (procedure)
+  2022-10-16 : Discussion about signs and symptoms (procedure)
+  2022-10-16 : History taking (procedure)
+  2022-10-16 : Telemedicine consultation with patient (procedure)
+  2022-03-26 : Anticipatory guidance (procedure)
+  2022-03-26 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2022-03-26 : Assessment of substance use (procedure)
+  2022-03-26 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2022-03-26 : Depression screening (procedure)
+  2022-03-26 : Assessment of anxiety (procedure)
+  2022-03-26 : Medication reconciliation (procedure)
+  2022-03-16 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2022-01-08 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2022-01-08 : Dental fluoride treatment (procedure) for Patient referral for dental care (procedure)
+  2022-01-08 : Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure) for Loose dental filling (finding)
+  2022-01-08 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2022-01-08 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2022-01-08 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2022-01-08 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2022-01-08 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2021-12-25 : Patient referral for dental care (procedure)
+  2021-12-25 : Anticipatory guidance (procedure)
+  2021-12-25 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2021-12-25 : Assessment of substance use (procedure)
+  2021-12-25 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2021-12-25 : Depression screening (procedure)
+  2021-01-02 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2021-01-02 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2021-01-02 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2021-01-02 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2021-01-02 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2021-01-02 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2020-12-19 : Patient referral for dental care (procedure)
+  2020-12-19 : Anticipatory guidance (procedure)
+  2020-12-19 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2020-12-19 : Assessment of substance use (procedure)
+  2020-12-19 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2020-12-19 : Depression screening (procedure)
+  2019-12-14 : Anticipatory guidance (procedure)
+  2019-12-14 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2019-12-14 : Assessment of substance use (procedure)
+  2019-12-14 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2019-12-14 : Depression screening (procedure)
+  2018-12-22 : Oral health education (procedure) for Gingivitis (disorder)
+  2018-12-22 : Dental fluoride treatment (procedure) for Gingivitis (disorder)
+  2018-12-22 : Postoperative care for dental procedure (regime/therapy)
+  2018-12-22 : Gingivectomy or gingivoplasty, per tooth (procedure) for Gingival disease (disorder)
+  2018-12-22 : Dental application of desensitizing medicament (procedure) for Gingival disease (disorder)
+  2018-12-22 : Dental surgical procedure (procedure) for Gingival disease (disorder)
+  2018-12-22 : Examination of gingivae (procedure) for Gingivitis (disorder)
+  2018-12-22 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2018-12-22 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2018-12-22 : Dental care (regime/therapy) for Gingivitis (disorder)
+  2018-12-22 : Dental consultation and report (procedure) for Gingivitis (disorder)
+  2018-12-08 : Patient referral for dental care (procedure) for Gingivitis (disorder)
+  2018-12-08 : Anticipatory guidance (procedure)
+  2018-12-08 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2018-12-08 : Assessment of substance use (procedure)
+  2018-12-08 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2018-12-08 : Depression screening (procedure)
+  2018-12-08 : Assessment of anxiety (procedure)
+  2018-12-08 : Medication reconciliation (procedure)
+  2017-06-24 : Medication reconciliation (procedure)
+  2016-12-03 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2016-12-03 : Restoration of tooth with coverage of all cusps using dental filling material (procedure) for Leaking dental filling (finding)
+  2016-12-03 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2016-12-03 : Dental plain X-ray bitewing (procedure)
+  2016-12-03 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2016-12-03 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2016-12-03 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2016-12-03 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2016-11-26 : Patient referral for dental care (procedure)
+  2016-11-26 : Medication reconciliation (procedure)
+  2015-12-05 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2015-11-28 : Oral health education (procedure) for Gingivitis (disorder)
+  2015-11-28 : Dental fluoride treatment (procedure) for Gingivitis (disorder)
+  2015-11-28 : Postoperative care for dental procedure (regime/therapy)
+  2015-11-28 : Gingivectomy or gingivoplasty, per tooth (procedure) for Gingival disease (disorder)
+  2015-11-28 : Dental application of desensitizing medicament (procedure) for Gingival disease (disorder)
+  2015-11-28 : Dental surgical procedure (procedure) for Gingival disease (disorder)
+  2015-11-28 : Examination of gingivae (procedure) for Gingivitis (disorder)
+  2015-11-28 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2015-11-28 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2015-11-28 : Dental care (regime/therapy) for Gingivitis (disorder)
+  2015-11-28 : Dental consultation and report (procedure) for Gingivitis (disorder)
+  2015-11-21 : Patient referral for dental care (procedure) for Gingivitis (disorder)
+  2015-11-21 : Medication reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2025-01-11 : Influenza, seasonal, injectable, preservative free
+  2024-01-06 : Influenza, seasonal, injectable, preservative free
+  2022-12-31 : meningococcal MCV4P
+  2022-12-31 : Influenza, seasonal, injectable, preservative free
+  2021-12-25 : Influenza, seasonal, injectable, preservative free
+  2021-06-26 : COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+  2021-06-05 : COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+  2020-12-19 : Influenza, seasonal, injectable, preservative free
+  2019-12-14 : HPV, quadrivalent
+  2019-12-14 : Influenza, seasonal, injectable, preservative free
+  2018-12-08 : HPV, quadrivalent
+  2018-12-08 : Influenza, seasonal, injectable, preservative free
+  2017-12-02 : meningococcal MCV4P
+  2017-12-02 : HPV, quadrivalent
+  2017-12-02 : Tdap
+  2017-06-17 : Influenza, seasonal, injectable, preservative free
+  2016-11-26 : Influenza, seasonal, injectable, preservative free
+  2015-11-21 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2025-09-13 (Dr. Mertie Lakin) : Encounter at 4499 ACUSHNET AVENUE OPERATING COMPANY, LLC : Encounter for Normal pregnancy (finding)
+2025-08-16 (Dr. Mertie Lakin) : Encounter at 4499 ACUSHNET AVENUE OPERATING COMPANY, LLC : Encounter for Normal pregnancy (finding)
+2025-07-19 (Dr. Mertie Lakin) : Encounter at 4499 ACUSHNET AVENUE OPERATING COMPANY, LLC : Encounter for Normal pregnancy (finding)
+2025-06-21 (Dr. Mertie Lakin) : Encounter at 4499 ACUSHNET AVENUE OPERATING COMPANY, LLC : Encounter for Normal pregnancy (finding)
+2025-01-11 (Dr. Wes King) : Encounter at LAKEVILLE FAMILY MEDICINE PC
+2024-01-06 (Dr. Wes King) : Encounter at LAKEVILLE FAMILY MEDICINE PC
+2023-11-02 (Dr. Mertie Lakin) : Encounter at 4499 ACUSHNET AVENUE OPERATING COMPANY, LLC : Encounter for Contraception care (regime/therapy)
+2023-08-19 (Dr. Mertie Lakin) : Encounter at 4499 ACUSHNET AVENUE OPERATING COMPANY, LLC : Encounter for Acute bronchitis (disorder)
+2022-12-31 (Dr. Wes King) : Encounter at LAKEVILLE FAMILY MEDICINE PC
+2022-10-16 (Dr. Mertie Lakin) : Encounter at 4499 ACUSHNET AVENUE OPERATING COMPANY, LLC
+2022-09-25 (Dr. Mertie Lakin) : Encounter at 4499 ACUSHNET AVENUE OPERATING COMPANY, LLC : Encounter for Viral sinusitis (disorder)
+2022-03-26 (Dr. Mertie Lakin) : Encounter at 4499 ACUSHNET AVENUE OPERATING COMPANY, LLC
+2022-03-16 (Dr. Mertie Lakin) : Encounter at 4499 ACUSHNET AVENUE OPERATING COMPANY, LLC : Encounter for Acute bronchitis (disorder)
+2022-01-08 (Dr. Mertie Lakin) : Encounter at 4499 ACUSHNET AVENUE OPERATING COMPANY, LLC : Encounter for Patient referral for dental care (procedure)
+2021-12-25 (Dr. Wes King) : Encounter at LAKEVILLE FAMILY MEDICINE PC
+2021-11-12 (Dr. Mertie Lakin) : Encounter at 4499 ACUSHNET AVENUE OPERATING COMPANY, LLC : Encounter for Contraception care (regime/therapy)
+2021-06-26 (Dr. Mertie Lakin) : Encounter at 4499 ACUSHNET AVENUE OPERATING COMPANY, LLC
+2021-06-05 (Dr. Mertie Lakin) : Encounter at 4499 ACUSHNET AVENUE OPERATING COMPANY, LLC
+2021-01-02 (Dr. Mertie Lakin) : Encounter at 4499 ACUSHNET AVENUE OPERATING COMPANY, LLC : Encounter for Patient referral for dental care (procedure)
+2020-12-19 (Dr. Wes King) : Encounter at LAKEVILLE FAMILY MEDICINE PC
+2019-12-14 (Dr. Wes King) : Encounter at LAKEVILLE FAMILY MEDICINE PC
+2018-12-22 (Dr. Mertie Lakin) : Encounter at 4499 ACUSHNET AVENUE OPERATING COMPANY, LLC : Encounter for Gingivitis (disorder)
+2018-12-08 (Dr. Wes King) : Encounter at LAKEVILLE FAMILY MEDICINE PC
+2018-05-03 (Dr. Mertie Lakin) : Encounter at 4499 ACUSHNET AVENUE OPERATING COMPANY, LLC : Encounter for Viral sinusitis (disorder)
+2017-12-02 (Dr. Wes King) : Encounter at LAKEVILLE FAMILY MEDICINE PC
+2017-06-24 (Dr. Mertie Lakin) : Encounter at 4499 ACUSHNET AVENUE OPERATING COMPANY, LLC
+2017-06-17 (Dr. Mariano Sáenz) : Encounter at BARRINGTON URGENT CARE PC
+2017-06-09 (Dr. Mertie Lakin) : Encounter at 4499 ACUSHNET AVENUE OPERATING COMPANY, LLC : Encounter for Streptococcal sore throat (disorder)
+2016-12-03 (Dr. Mertie Lakin) : Encounter at 4499 ACUSHNET AVENUE OPERATING COMPANY, LLC : Encounter for Patient referral for dental care (procedure)
+2016-11-26 (Dr. Wes King) : Encounter at LAKEVILLE FAMILY MEDICINE PC
+2015-12-05 (Dr. Mertie Lakin) : Encounter at 4499 ACUSHNET AVENUE OPERATING COMPANY, LLC : Encounter for Acute viral pharyngitis (disorder)
+2015-11-28 (Dr. Mertie Lakin) : Encounter at 4499 ACUSHNET AVENUE OPERATING COMPANY, LLC : Encounter for Gingivitis (disorder)
+2015-11-21 (Dr. Wes King) : Encounter at LAKEVILLE FAMILY MEDICINE PC
+2012-11-03 (Dr. Wes King) : Encounter at LAKEVILLE FAMILY MEDICINE PC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2016-12-03 : Digital Radiography, Structure of region of internal part of mouth (body structure)
+--------------------------------------------------------------------------------

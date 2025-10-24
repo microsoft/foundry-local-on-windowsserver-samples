@@ -1,0 +1,411 @@
+Richelle Hilll
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 7
+Birth Date:          2017-11-27
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2025-02-23[STOPPED] : Ibuprofen 100 MG Oral Tablet
+  2023-09-22[STOPPED] : Ibuprofen 100 MG Oral Tablet
+  2023-09-22[STOPPED] : Amoxicillin 500 MG Oral Tablet
+  2021-07-02[STOPPED] : Ibuprofen 100 MG Oral Tablet
+  2021-07-02[STOPPED] : Amoxicillin 500 MG Oral Tablet
+  2021-01-29[STOPPED] : Ibuprofen 100 MG Oral Tablet
+  2021-01-29[STOPPED] : Amoxicillin 500 MG Oral Tablet
+  2019-12-17[STOPPED] : Acetaminophen 160 MG Chewable Tablet
+  2018-05-10[STOPPED] : Penicillin V Potassium 250 MG Oral Tablet for Streptococcal sore throat (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2025-02-23 - 2025-06-04 : Injury of anterior cruciate ligament (disorder)
+  2025-02-23 - 2025-06-04 : Injury of knee (disorder)
+  2023-09-22 - 2023-11-13 : Otitis media (disorder)
+  2023-05-31 - 2023-06-20 : Viral sinusitis (disorder)
+  2022-11-07 - 2024-11-18 : Medication review due (situation)
+  2021-07-02 - 2021-11-01 : Otitis media (disorder)
+  2021-05-03 - 2021-11-01 : Medication review due (situation)
+  2021-01-29 - 2021-05-03 : Otitis media (disorder)
+  2020-11-02 - 2020-11-02 : Medication review due (situation)
+  2019-12-17 - 2020-05-04 : Otitis media (disorder)
+  2019-11-04 - 2020-05-04 : Medication review due (situation)
+  2018-11-05 - 2019-05-06 : Medication review due (situation)
+  2018-10-08 - 2018-10-18 : Viral sinusitis (disorder)
+  2018-10-01 - 2018-10-01 : Medication review due (situation)
+  2018-05-10 - 2018-05-23 : Streptococcal sore throat (disorder)
+  2018-05-07 - 2018-08-06 : Medication review due (situation)
+  2018-03-05 - 2018-03-05 : Medication review due (situation)
+  2018-01-27 - 2018-02-06 : Acute viral pharyngitis (disorder)
+  2018-01-01 - 2018-01-01 : Medication review due (situation)
+  2017-11-27 - 2017-11-27 : Medication review due (situation)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2025-02-23[STOPPED] : Physiotherapy care plan (record artifact)
+                         Reason: Injury of anterior cruciate ligament (disorder)
+                         Activity: Rest, ice, compression and elevation treatment program (regime/therapy)
+                         Activity: Stretching exercises (regime/therapy)
+--------------------------------------------------------------------------------
+REPORTS:
+  2023-11-13 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.4 %
+           - MCV [Entitic volume] by Automated count  88.0 fL
+           - MCH [Entitic mass] by Automated count    28.7 pg
+           - MCHC [Mass/volume] by Automated count    34.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.7 fL
+           - Platelets [#/volume] in Blood by Automated count 383.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 234.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2017-11-27 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.3 %
+           - MCV [Entitic volume] by Automated count  84.7 fL
+           - MCH [Entitic mass] by Automated count    30.9 pg
+           - MCHC [Mass/volume] by Automated count    34.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.0 fL
+           - Platelets [#/volume] in Blood by Automated count 229.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 395.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2024-11-18 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2024-11-18 : Respiratory rate                         16.0 /min
+  2024-11-18 : Heart rate                               98.0 /min
+  2024-11-18 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 90.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  2024-11-18 : Body mass index (BMI) [Percentile] Per age and sex 54.8 %
+  2024-11-18 : Body mass index (BMI) [Ratio]            15.6 kg/m2
+  2024-11-18 : Body Weight                              22.3 kg
+  2024-11-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2024-11-18 : Body Height                              119.6 cm
+  2023-11-13 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-11-13 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2023-11-13 : Platelet distribution width [Entitic volume] in Blood by Automated count 234.4 fL
+  2023-11-13 : Platelets [#/volume] in Blood by Automated count 383.2 10*3/uL
+  2023-11-13 : Erythrocyte distribution width [Entitic volume] by Automated count 39.7 fL
+  2023-11-13 : MCHC [Mass/volume] by Automated count    34.2 g/dL
+  2023-11-13 : MCH [Entitic mass] by Automated count    28.7 pg
+  2023-11-13 : MCV [Entitic volume] by Automated count  88.0 fL
+  2023-11-13 : Hematocrit [Volume Fraction] of Blood by Automated count 46.4 %
+  2023-11-13 : Hemoglobin [Mass/volume] in Blood        17.0 g/dL
+  2023-11-13 : Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+  2023-11-13 : Leukocytes [#/volume] in Blood by Automated count 7.9 10*3/uL
+  2023-11-13 : Respiratory rate                         12.0 /min
+  2023-11-13 : Heart rate                               89.0 /min
+  2023-11-13 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  2023-11-13 : Body mass index (BMI) [Percentile] Per age and sex 54.4 %
+  2023-11-13 : Body mass index (BMI) [Ratio]            15.4 kg/m2
+  2023-11-13 : Body Weight                              19.6 kg
+  2023-11-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2023-11-13 : Body Height                              112.9 cm
+  2022-11-07 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-11-07 : Respiratory rate                         13.0 /min
+  2022-11-07 : Heart rate                               78.0 /min
+  2022-11-07 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 92.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2022-11-07 : Body mass index (BMI) [Percentile] Per age and sex 74.3 %
+  2022-11-07 : Body mass index (BMI) [Ratio]            16.1 kg/m2
+  2022-11-07 : Body Weight                              18.1 kg
+  2022-11-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2022-11-07 : Body Height                              105.9 cm
+  2021-11-01 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-11-01 : Respiratory rate                         15.0 /min
+  2021-11-01 : Heart rate                               70.0 /min
+  2021-11-01 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2021-11-01 : Body mass index (BMI) [Percentile] Per age and sex 25.8 %
+  2021-11-01 : Body mass index (BMI) [Ratio]            14.6 kg/m2
+  2021-11-01 : Head Occipital-frontal circumference     48.3 cm
+  2021-11-01 : Head Occipital-frontal circumference Percentile 40.2 %
+  2021-11-01 : Weight-for-length Per age and sex        27.6 %
+  2021-11-01 : Body Weight                              14.4 kg
+  2021-11-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-11-01 : Body Height                              99.2 cm
+  2021-05-03 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-05-03 : Respiratory rate                         14.0 /min
+  2021-05-03 : Heart rate                               69.0 /min
+  2021-05-03 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 93.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2021-05-03 : Body mass index (BMI) [Percentile] Per age and sex 26.8 %
+  2021-05-03 : Body mass index (BMI) [Ratio]            14.8 kg/m2
+  2021-05-03 : Head Occipital-frontal circumference     48.3 cm
+  2021-05-03 : Head Occipital-frontal circumference Percentile 40.2 %
+  2021-05-03 : Weight-for-length Per age and sex        27.6 %
+  2021-05-03 : Body Weight                              13.6 kg
+  2021-05-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-05-03 : Body Height                              95.8 cm
+  2020-11-02 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-11-02 : Respiratory rate                         16.0 /min
+  2020-11-02 : Heart rate                               86.0 /min
+  2020-11-02 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 93.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  2020-11-02 : Body mass index (BMI) [Percentile] Per age and sex 30.1 %
+  2020-11-02 : Body mass index (BMI) [Ratio]            15.1 kg/m2
+  2020-11-02 : Head Occipital-frontal circumference     48.2 cm
+  2020-11-02 : Head Occipital-frontal circumference Percentile 40.2 %
+  2020-11-02 : Weight-for-length Per age and sex        32.0 %
+  2020-11-02 : Body Weight                              12.9 kg
+  2020-11-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2020-11-02 : Body Height                              92.4 cm
+  2020-05-04 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-05-04 : Respiratory rate                         13.0 /min
+  2020-05-04 : Heart rate                               66.0 /min
+  2020-05-04 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 91.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  2020-05-04 : Body mass index (BMI) [Percentile] Per age and sex 33.2 %
+  2020-05-04 : Body mass index (BMI) [Ratio]            15.5 kg/m2
+  2020-05-04 : Head Occipital-frontal circumference     47.7 cm
+  2020-05-04 : Head Occipital-frontal circumference Percentile 40.2 %
+  2020-05-04 : Weight-for-length Per age and sex        35.0 %
+  2020-05-04 : Body Weight                              12.1 kg
+  2020-05-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2020-05-04 : Body Height                              88.4 cm
+  2019-11-04 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-11-04 : Respiratory rate                         14.0 /min
+  2019-11-04 : Heart rate                               97.0 /min
+  2019-11-04 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 90.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2019-11-04 : Head Occipital-frontal circumference     47.1 cm
+  2019-11-04 : Head Occipital-frontal circumference Percentile 40.2 %
+  2019-11-04 : Weight-for-length Per age and sex        37.9 %
+  2019-11-04 : Body Weight                              11.3 kg
+  2019-11-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2019-11-04 : Body Height                              84.3 cm
+  2019-05-06 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-05-06 : Respiratory rate                         12.0 /min
+  2019-05-06 : Heart rate                               97.0 /min
+  2019-05-06 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2019-05-06 : Head Occipital-frontal circumference     46.1 cm
+  2019-05-06 : Head Occipital-frontal circumference Percentile 40.2 %
+  2019-05-06 : Weight-for-length Per age and sex        42.1 %
+  2019-05-06 : Body Weight                              10.3 kg
+  2019-05-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-05-06 : Body Height                              78.8 cm
+  2019-02-04 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-02-04 : Respiratory rate                         14.0 /min
+  2019-02-04 : Heart rate                               79.0 /min
+  2019-02-04 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2019-02-04 : Head Occipital-frontal circumference     45.4 cm
+  2019-02-04 : Head Occipital-frontal circumference Percentile 40.2 %
+  2019-02-04 : Weight-for-length Per age and sex        40.4 %
+  2019-02-04 : Body Weight                              9.6 kg
+  2019-02-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-02-04 : Body Height                              75.7 cm
+  2018-11-05 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2018-11-05 : Respiratory rate                         15.0 /min
+  2018-11-05 : Heart rate                               91.0 /min
+  2018-11-05 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 92.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  2018-11-05 : Head Occipital-frontal circumference     44.6 cm
+  2018-11-05 : Head Occipital-frontal circumference Percentile 40.2 %
+  2018-11-05 : Weight-for-length Per age and sex        46.0 %
+  2018-11-05 : Body Weight                              8.8 kg
+  2018-11-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-11-05 : Body Height                              72.3 cm
+  2018-10-01 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2018-10-01 : Respiratory rate                         16.0 /min
+  2018-10-01 : Heart rate                               91.0 /min
+  2018-10-01 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 96.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2018-10-01 : Head Occipital-frontal circumference     44.2 cm
+  2018-10-01 : Head Occipital-frontal circumference Percentile 40.2 %
+  2018-10-01 : Weight-for-length Per age and sex        42.3 %
+  2018-10-01 : Body Weight                              8.5 kg
+  2018-10-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2018-10-01 : Body Height                              71.1 cm
+  2018-08-06 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2018-08-06 : Respiratory rate                         14.0 /min
+  2018-08-06 : Heart rate                               74.0 /min
+  2018-08-06 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 94.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2018-08-06 : Head Occipital-frontal circumference     43.4 cm
+  2018-08-06 : Head Occipital-frontal circumference Percentile 40.2 %
+  2018-08-06 : Weight-for-length Per age and sex        42.5 %
+  2018-08-06 : Body Weight                              7.8 kg
+  2018-08-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2018-08-06 : Body Height                              68.4 cm
+  2018-05-10 : Body temperature                         37.5 Cel
+  2018-05-07 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2018-05-07 : Respiratory rate                         14.0 /min
+  2018-05-07 : Heart rate                               65.0 /min
+  2018-05-07 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 91.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2018-05-07 : Head Occipital-frontal circumference     41.8 cm
+  2018-05-07 : Head Occipital-frontal circumference Percentile 40.2 %
+  2018-05-07 : Weight-for-length Per age and sex        21.5 %
+  2018-05-07 : Body Weight                              6.5 kg
+  2018-05-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-05-07 : Body Height                              63.6 cm
+  2018-03-05 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2018-03-05 : Respiratory rate                         16.0 /min
+  2018-03-05 : Heart rate                               72.0 /min
+  2018-03-05 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 100.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2018-03-05 : Head Occipital-frontal circumference     40.1 cm
+  2018-03-05 : Head Occipital-frontal circumference Percentile 40.2 %
+  2018-03-05 : Weight-for-length Per age and sex        17.8 %
+  2018-03-05 : Body Weight                              5.5 kg
+  2018-03-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-03-05 : Body Height                              59.7 cm
+  2018-01-27 : Body temperature                         37.3 Cel
+  2018-01-01 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2018-01-01 : Respiratory rate                         13.0 /min
+  2018-01-01 : Heart rate                               84.0 /min
+  2018-01-01 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 90.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  2018-01-01 : Head Occipital-frontal circumference     37.6 cm
+  2018-01-01 : Head Occipital-frontal circumference Percentile 40.2 %
+  2018-01-01 : Weight-for-length Per age and sex        10.3 %
+  2018-01-01 : Body Weight                              4.2 kg
+  2018-01-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2018-01-01 : Body Height                              54.6 cm
+  2017-11-27 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2017-11-27 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2017-11-27 : Platelet distribution width [Entitic volume] in Blood by Automated count 395.5 fL
+  2017-11-27 : Platelets [#/volume] in Blood by Automated count 229.1 10*3/uL
+  2017-11-27 : Erythrocyte distribution width [Entitic volume] by Automated count 44.0 fL
+  2017-11-27 : MCHC [Mass/volume] by Automated count    34.4 g/dL
+  2017-11-27 : MCH [Entitic mass] by Automated count    30.9 pg
+  2017-11-27 : MCV [Entitic volume] by Automated count  84.7 fL
+  2017-11-27 : Hematocrit [Volume Fraction] of Blood by Automated count 49.3 %
+  2017-11-27 : Hemoglobin [Mass/volume] in Blood        12.4 g/dL
+  2017-11-27 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2017-11-27 : Leukocytes [#/volume] in Blood by Automated count 9.6 10*3/uL
+  2017-11-27 : Respiratory rate                         15.0 /min
+  2017-11-27 : Heart rate                               76.0 /min
+  2017-11-27 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 100.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2017-11-27 : Head Occipital-frontal circumference     34.3 cm
+  2017-11-27 : Head Occipital-frontal circumference Percentile 40.2 %
+  2017-11-27 : Weight-for-length Per age and sex        26.8 %
+  2017-11-27 : Body Weight                              3.5 kg
+  2017-11-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2017-11-27 : Body Height                              51.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2025-03-11 : Discharge from hospital (procedure)
+  2025-03-11 : Pre-discharge assessment (procedure)
+  2025-03-10 : Speech and language therapy regime (regime/therapy)
+  2025-03-10 : Nursing care/supplementary surveillance (regime/therapy)
+  2025-03-09 : Nursing care/supplementary surveillance (regime/therapy)
+  2025-03-08 : Nursing care/supplementary surveillance (regime/therapy)
+  2025-03-07 : Nursing care/supplementary surveillance (regime/therapy)
+  2025-03-06 : Nursing care/supplementary surveillance (regime/therapy)
+  2025-03-05 : Nursing care/supplementary surveillance (regime/therapy)
+  2025-03-04 : Nursing care/supplementary surveillance (regime/therapy)
+  2025-03-03 : Nursing care/supplementary surveillance (regime/therapy)
+  2025-03-03 : Development of individualized plan of care (procedure)
+  2025-03-03 : Initial patient assessment (procedure)
+  2025-03-03 : History AND physical examination (procedure)
+  2025-03-02 : Postoperative care (regime/therapy) for Injury of anterior cruciate ligament (disorder)
+  2025-03-02 : Surgical manipulation of joint of knee (procedure) for Injury of anterior cruciate ligament (disorder)
+  2025-02-23 : Plain X-ray of knee region (procedure)
+  2024-11-18 : Medication reconciliation (procedure)
+  2021-11-01 : Medication reconciliation (procedure)
+  2020-11-02 : Medication reconciliation (procedure)
+  2020-05-04 : Medication reconciliation (procedure)
+  2019-05-06 : Medication reconciliation (procedure)
+  2018-10-01 : Medication reconciliation (procedure)
+  2018-08-06 : Medication reconciliation (procedure)
+  2018-03-05 : Medication reconciliation (procedure)
+  2018-01-27 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2018-01-01 : Medication reconciliation (procedure)
+  2017-11-27 : Medication reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2024-11-18 : Influenza, seasonal, injectable, preservative free
+  2023-11-13 : Influenza, seasonal, injectable, preservative free
+  2022-11-07 : MMR
+  2022-11-07 : DTaP
+  2022-11-07 : Influenza, seasonal, injectable, preservative free
+  2022-11-07 : IPV
+  2022-11-07 : varicella
+  2021-11-01 : Influenza, seasonal, injectable, preservative free
+  2020-11-02 : Influenza, seasonal, injectable, preservative free
+  2020-05-04 : Hep A, ped/adol, 2 dose
+  2019-11-04 : Influenza, seasonal, injectable, preservative free
+  2019-05-06 : DTaP
+  2019-02-04 : Hep A, ped/adol, 2 dose
+  2019-02-04 : Pneumococcal conjugate PCV 13
+  2019-02-04 : MMR
+  2019-02-04 : varicella
+  2019-02-04 : Hib (PRP-OMP)
+  2018-08-06 : Hep B, adolescent or pediatric
+  2018-08-06 : Pneumococcal conjugate PCV 13
+  2018-08-06 : DTaP
+  2018-08-06 : Influenza, seasonal, injectable, preservative free
+  2018-08-06 : IPV
+  2018-05-07 : Pneumococcal conjugate PCV 13
+  2018-05-07 : DTaP
+  2018-05-07 : IPV
+  2018-05-07 : rotavirus, monovalent
+  2018-05-07 : Hib (PRP-OMP)
+  2018-03-05 : Pneumococcal conjugate PCV 13
+  2018-03-05 : DTaP
+  2018-03-05 : IPV
+  2018-03-05 : rotavirus, monovalent
+  2018-03-05 : Hib (PRP-OMP)
+  2018-01-01 : Hep B, adolescent or pediatric
+  2017-11-27 : Hep B, adolescent or pediatric
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2025-03-03 (Dr. Pat Bradtke) : Encounter at COLEMAN HOUSE : Encounter for Patient transfer to skilled nursing facility (procedure)
+2025-03-02 (Dr. Paz Gerlach) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC : Encounter for Injury of anterior cruciate ligament (disorder)
+2025-02-23 (Dr. Pat Bradtke) : Encounter at COLEMAN HOUSE : Encounter for Injury of knee (disorder)
+2024-11-18 (Dr. Althea Ankunding) : Encounter at MIDDLESEX INTERNAL MEDICINE ASSOCIATES, INC
+2023-11-13 (Dr. Althea Ankunding) : Encounter at MIDDLESEX INTERNAL MEDICINE ASSOCIATES, INC
+2023-09-22 (Dr. Paz Gerlach) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC : Encounter for Otitis media (disorder)
+2023-05-31 (Dr. Paz Gerlach) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC : Encounter for Viral sinusitis (disorder)
+2022-11-07 (Dr. Althea Ankunding) : Encounter at MIDDLESEX INTERNAL MEDICINE ASSOCIATES, INC
+2021-11-01 (Dr. Althea Ankunding) : Encounter at MIDDLESEX INTERNAL MEDICINE ASSOCIATES, INC
+2021-07-02 (Dr. Paz Gerlach) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC : Encounter for Otitis media (disorder)
+2021-05-03 (Dr. Althea Ankunding) : Encounter at MIDDLESEX INTERNAL MEDICINE ASSOCIATES, INC
+2021-01-29 (Dr. Paz Gerlach) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC : Encounter for Otitis media (disorder)
+2020-11-02 (Dr. Althea Ankunding) : Encounter at MIDDLESEX INTERNAL MEDICINE ASSOCIATES, INC
+2020-05-04 (Dr. Althea Ankunding) : Encounter at MIDDLESEX INTERNAL MEDICINE ASSOCIATES, INC
+2019-12-17 (Dr. Paz Gerlach) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC : Encounter for Otitis media (disorder)
+2019-11-04 (Dr. Althea Ankunding) : Encounter at MIDDLESEX INTERNAL MEDICINE ASSOCIATES, INC
+2019-05-06 (Dr. Althea Ankunding) : Encounter at MIDDLESEX INTERNAL MEDICINE ASSOCIATES, INC
+2019-02-04 (Dr. Althea Ankunding) : Encounter at MIDDLESEX INTERNAL MEDICINE ASSOCIATES, INC
+2018-11-05 (Dr. Althea Ankunding) : Encounter at MIDDLESEX INTERNAL MEDICINE ASSOCIATES, INC
+2018-10-08 (Dr. Paz Gerlach) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC : Encounter for Viral sinusitis (disorder)
+2018-10-01 (Dr. Paz Gerlach) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+2018-08-06 (Dr. Althea Ankunding) : Encounter at MIDDLESEX INTERNAL MEDICINE ASSOCIATES, INC
+2018-05-10 (Dr. Paz Gerlach) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC : Encounter for Streptococcal sore throat (disorder)
+2018-05-07 (Dr. Althea Ankunding) : Encounter at MIDDLESEX INTERNAL MEDICINE ASSOCIATES, INC
+2018-03-05 (Dr. Althea Ankunding) : Encounter at MIDDLESEX INTERNAL MEDICINE ASSOCIATES, INC
+2018-01-27 (Dr. Paz Gerlach) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC : Encounter for Acute viral pharyngitis (disorder)
+2018-01-01 (Dr. Althea Ankunding) : Encounter at MIDDLESEX INTERNAL MEDICINE ASSOCIATES, INC
+2017-11-27 (Dr. Althea Ankunding) : Encounter at MIDDLESEX INTERNAL MEDICINE ASSOCIATES, INC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2025-02-23 : Digital Radiography, Knee region structure (body structure)
+--------------------------------------------------------------------------------

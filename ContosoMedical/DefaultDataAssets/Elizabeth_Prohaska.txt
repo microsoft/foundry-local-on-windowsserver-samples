@@ -1,0 +1,320 @@
+Elizabeth Prohaska
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 15
+Birth Date:          2010-07-10
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2025-08-30[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Patient referral for dental care (procedure)
+  2024-07-09[STOPPED] : Natazia 28 Day Pack
+  2023-08-19[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Gingivitis (disorder)
+  2016-07-02[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Patient referral for dental care (procedure)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2025-08-30 - 2025-08-30 : Primary dental caries (disorder)
+  2025-08-16 - 2025-08-16 : Medication review due (situation)
+  2024-10-20 - 2024-10-28 : Acute viral pharyngitis (disorder)
+  2023-08-05 - 2023-08-19 : Gingivitis (disorder)
+  2023-08-05 - 2024-08-10 : Risk activity involvement (finding)
+  2023-08-05 - 2024-08-10 : Medication review due (situation)
+  2022-06-18 - 2022-06-30 : Acute viral pharyngitis (disorder)
+  2020-07-18 - 2022-07-30 : Medication review due (situation)
+  2018-07-07 - 2019-07-13 : Medication review due (situation)
+  2015-08-13 - 2016-06-25 : Otitis media (disorder)
+  2013-06-15 - 2017-07-01 : Medication review due (situation)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2025-08-16 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+  2024-08-10 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 13.0 {score}
+  2024-08-10 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2023-08-05 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2023-08-05 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 7.0 {score}
+  2022-07-30 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2022-07-30 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 9.0 {score}
+  2021-07-24 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 36.6 %
+           - MCV [Entitic volume] by Automated count  92.3 fL
+           - MCH [Entitic mass] by Automated count    30.8 pg
+           - MCHC [Mass/volume] by Automated count    34.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.7 fL
+           - Platelets [#/volume] in Blood by Automated count 358.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 444.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.5 fL
+  2016-06-25 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.8 %
+           - MCV [Entitic volume] by Automated count  80.0 fL
+           - MCH [Entitic mass] by Automated count    29.7 pg
+           - MCHC [Mass/volume] by Automated count    34.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+           - Platelets [#/volume] in Blood by Automated count 257.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 394.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.0 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2025-08-16 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+  2025-08-16 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2025-08-16 : Respiratory rate                         13.0 /min
+  2025-08-16 : Heart rate                               83.0 /min
+  2025-08-16 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  100.0 mm[Hg]
+  2025-08-16 : Body mass index (BMI) [Percentile] Per age and sex 16.6 %
+  2025-08-16 : Body mass index (BMI) [Ratio]            17.6 kg/m2
+  2025-08-16 : Body Weight                              46.4 kg
+  2025-08-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2025-08-16 : Body Height                              162.5 cm
+  2024-10-20 : Body temperature                         37.5 Cel
+  2024-08-10 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 13.0 {score}
+  2024-08-10 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2024-08-10 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2024-08-10 : Respiratory rate                         12.0 /min
+  2024-08-10 : Heart rate                               78.0 /min
+  2024-08-10 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  96.0 mm[Hg]
+  2024-08-10 : Body mass index (BMI) [Percentile] Per age and sex 15.3 %
+  2024-08-10 : Body mass index (BMI) [Ratio]            17.0 kg/m2
+  2024-08-10 : Body Weight                              44.0 kg
+  2024-08-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2024-08-10 : Body Height                              161.1 cm
+  2023-08-05 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2023-08-05 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 7.0 {score}
+  2023-08-05 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-08-05 : Respiratory rate                         16.0 /min
+  2023-08-05 : Heart rate                               72.0 /min
+  2023-08-05 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  98.0 mm[Hg]
+  2023-08-05 : Body mass index (BMI) [Percentile] Per age and sex 15.1 %
+  2023-08-05 : Body mass index (BMI) [Ratio]            16.4 kg/m2
+  2023-08-05 : Body Weight                              40.8 kg
+  2023-08-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2023-08-05 : Body Height                              157.9 cm
+  2022-07-30 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2022-07-30 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 9.0 {score}
+  2022-07-30 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-07-30 : Respiratory rate                         15.0 /min
+  2022-07-30 : Heart rate                               76.0 /min
+  2022-07-30 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  85.0 mm[Hg]
+  2022-07-30 : Body mass index (BMI) [Percentile] Per age and sex 16.5 %
+  2022-07-30 : Body mass index (BMI) [Ratio]            15.9 kg/m2
+  2022-07-30 : Body Weight                              36.8 kg
+  2022-07-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2022-07-30 : Body Height                              152.0 cm
+  2022-06-18 : Body temperature                         37.4 Cel
+  2021-07-24 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-07-24 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.5 fL
+  2021-07-24 : Platelet distribution width [Entitic volume] in Blood by Automated count 444.8 fL
+  2021-07-24 : Platelets [#/volume] in Blood by Automated count 358.0 10*3/uL
+  2021-07-24 : Erythrocyte distribution width [Entitic volume] by Automated count 41.7 fL
+  2021-07-24 : MCHC [Mass/volume] by Automated count    34.6 g/dL
+  2021-07-24 : MCH [Entitic mass] by Automated count    30.8 pg
+  2021-07-24 : MCV [Entitic volume] by Automated count  92.3 fL
+  2021-07-24 : Hematocrit [Volume Fraction] of Blood by Automated count 36.6 %
+  2021-07-24 : Hemoglobin [Mass/volume] in Blood        12.4 g/dL
+  2021-07-24 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2021-07-24 : Leukocytes [#/volume] in Blood by Automated count 5.8 10*3/uL
+  2021-07-24 : Respiratory rate                         13.0 /min
+  2021-07-24 : Heart rate                               97.0 /min
+  2021-07-24 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  99.0 mm[Hg]
+  2021-07-24 : Body mass index (BMI) [Percentile] Per age and sex 17.1 %
+  2021-07-24 : Body mass index (BMI) [Ratio]            15.5 kg/m2
+  2021-07-24 : Body Weight                              32.5 kg
+  2021-07-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2021-07-24 : Body Height                              144.8 cm
+  2020-07-18 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-07-18 : Respiratory rate                         13.0 /min
+  2020-07-18 : Heart rate                               79.0 /min
+  2020-07-18 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  92.0 mm[Hg]
+  2020-07-18 : Body mass index (BMI) [Percentile] Per age and sex 25.5 %
+  2020-07-18 : Body mass index (BMI) [Ratio]            15.5 kg/m2
+  2020-07-18 : Body Weight                              29.9 kg
+  2020-07-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2020-07-18 : Body Height                              138.7 cm
+  2019-07-13 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-07-13 : Respiratory rate                         14.0 /min
+  2019-07-13 : Heart rate                               61.0 /min
+  2019-07-13 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  103.0 mm[Hg]
+  2019-07-13 : Body mass index (BMI) [Percentile] Per age and sex 22.8 %
+  2019-07-13 : Body mass index (BMI) [Ratio]            15.0 kg/m2
+  2019-07-13 : Body Weight                              26.7 kg
+  2019-07-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2019-07-13 : Body Height                              133.6 cm
+  2018-07-07 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2018-07-07 : Respiratory rate                         15.0 /min
+  2018-07-07 : Heart rate                               79.0 /min
+  2018-07-07 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  96.0 mm[Hg]
+  2018-07-07 : Body mass index (BMI) [Percentile] Per age and sex 10.3 %
+  2018-07-07 : Body mass index (BMI) [Ratio]            14.0 kg/m2
+  2018-07-07 : Body Weight                              22.8 kg
+  2018-07-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-07-07 : Body Height                              127.8 cm
+  2017-07-01 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2017-07-01 : Respiratory rate                         15.0 /min
+  2017-07-01 : Heart rate                               81.0 /min
+  2017-07-01 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  100.0 mm[Hg]
+  2017-07-01 : Body mass index (BMI) [Percentile] Per age and sex 7.1 %
+  2017-07-01 : Body mass index (BMI) [Ratio]            13.6 kg/m2
+  2017-07-01 : Body Weight                              20.1 kg
+  2017-07-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-07-01 : Body Height                              121.6 cm
+  2016-06-25 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2016-06-25 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.0 fL
+  2016-06-25 : Platelet distribution width [Entitic volume] in Blood by Automated count 394.0 fL
+  2016-06-25 : Platelets [#/volume] in Blood by Automated count 257.6 10*3/uL
+  2016-06-25 : Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+  2016-06-25 : MCHC [Mass/volume] by Automated count    34.3 g/dL
+  2016-06-25 : MCH [Entitic mass] by Automated count    29.7 pg
+  2016-06-25 : MCV [Entitic volume] by Automated count  80.0 fL
+  2016-06-25 : Hematocrit [Volume Fraction] of Blood by Automated count 39.8 %
+  2016-06-25 : Hemoglobin [Mass/volume] in Blood        13.7 g/dL
+  2016-06-25 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2016-06-25 : Leukocytes [#/volume] in Blood by Automated count 9.1 10*3/uL
+  2016-06-25 : Respiratory rate                         14.0 /min
+  2016-06-25 : Heart rate                               95.0 /min
+  2016-06-25 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  97.0 mm[Hg]
+  2016-06-25 : Body mass index (BMI) [Percentile] Per age and sex 6.8 %
+  2016-06-25 : Body mass index (BMI) [Ratio]            13.6 kg/m2
+  2016-06-25 : Body Weight                              17.9 kg
+  2016-06-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2016-06-25 : Body Height                              114.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2025-08-30 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2025-08-30 : Dental fluoride treatment (procedure) for Patient referral for dental care (procedure)
+  2025-08-30 : Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure) for Primary dental caries (disorder)
+  2025-08-30 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2025-08-30 : Dental plain X-ray bitewing (procedure)
+  2025-08-30 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2025-08-30 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2025-08-30 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2025-08-30 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2025-08-16 : Patient referral for dental care (procedure)
+  2025-08-16 : Anticipatory guidance (procedure)
+  2025-08-16 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2025-08-16 : Assessment of substance use (procedure)
+  2025-08-16 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2025-08-16 : Depression screening (procedure)
+  2025-08-16 : Medication reconciliation (procedure)
+  2024-10-20 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2024-08-10 : Anticipatory guidance (procedure)
+  2024-08-10 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2024-08-10 : Assessment of substance use (procedure)
+  2024-08-10 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2024-08-10 : Depression screening (procedure)
+  2024-08-10 : Assessment of anxiety (procedure)
+  2024-08-10 : Medication reconciliation (procedure)
+  2023-08-19 : Oral health education (procedure) for Gingivitis (disorder)
+  2023-08-19 : Dental fluoride treatment (procedure) for Gingivitis (disorder)
+  2023-08-19 : Examination of gingivae (procedure) for Gingivitis (disorder)
+  2023-08-19 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2023-08-19 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2023-08-19 : Dental care (regime/therapy) for Gingivitis (disorder)
+  2023-08-19 : Dental consultation and report (procedure) for Gingivitis (disorder)
+  2023-08-05 : Patient referral for dental care (procedure) for Gingivitis (disorder)
+  2023-08-05 : Health risks education (procedure) for Risk activity involvement (finding)
+  2023-08-05 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2023-08-05 : Assessment of substance use (procedure)
+  2023-08-05 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2023-08-05 : Depression screening (procedure)
+  2023-08-05 : Assessment of anxiety (procedure)
+  2022-07-30 : Anticipatory guidance (procedure)
+  2022-07-30 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2022-07-30 : Assessment of substance use (procedure)
+  2022-07-30 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2022-07-30 : Depression screening (procedure)
+  2022-07-30 : Assessment of anxiety (procedure)
+  2022-07-30 : Medication reconciliation (procedure)
+  2022-06-18 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2019-07-13 : Medication reconciliation (procedure)
+  2017-07-01 : Medication reconciliation (procedure)
+  2016-07-02 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2016-07-02 : Dental fluoride treatment (procedure) for Patient referral for dental care (procedure)
+  2016-07-02 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2016-07-02 : Dental plain X-ray bitewing (procedure)
+  2016-07-02 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2016-07-02 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2016-07-02 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2016-07-02 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2016-06-25 : Patient referral for dental care (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2025-08-16 : Influenza, seasonal, injectable, preservative free
+  2024-08-10 : Influenza, seasonal, injectable, preservative free
+  2023-08-05 : HPV, quadrivalent
+  2023-08-05 : Influenza, seasonal, injectable, preservative free
+  2022-09-17 : COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+  2022-08-20 : COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+  2022-07-30 : HPV, quadrivalent
+  2022-07-30 : Influenza, seasonal, injectable, preservative free
+  2021-07-24 : meningococcal MCV4P
+  2021-07-24 : HPV, quadrivalent
+  2021-07-24 : Influenza, seasonal, injectable, preservative free
+  2021-07-24 : Tdap
+  2020-07-18 : Influenza, seasonal, injectable, preservative free
+  2019-07-13 : Influenza, seasonal, injectable, preservative free
+  2018-07-07 : Influenza, seasonal, injectable, preservative free
+  2017-07-01 : Influenza, seasonal, injectable, preservative free
+  2016-06-25 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2025-08-30 (Dr. Xochitl Haley) : Encounter at ARBOUR HOSPITAL, THE : Encounter for Patient referral for dental care (procedure)
+2025-08-16 (Dr. Edmundo Eichmann) : Encounter at FATHER BILL'S PLACE
+2024-10-20 (Dr. Xochitl Haley) : Encounter at ARBOUR HOSPITAL, THE : Encounter for Acute viral pharyngitis (disorder)
+2024-08-10 (Dr. Edmundo Eichmann) : Encounter at FATHER BILL'S PLACE
+2024-07-09 (Dr. Xochitl Haley) : Encounter at ARBOUR HOSPITAL, THE : Encounter for Contraception care (regime/therapy)
+2023-08-19 (Dr. Xochitl Haley) : Encounter at ARBOUR HOSPITAL, THE : Encounter for Gingivitis (disorder)
+2023-08-05 (Dr. Edmundo Eichmann) : Encounter at FATHER BILL'S PLACE
+2022-09-17 (Dr. Xochitl Haley) : Encounter at ARBOUR HOSPITAL, THE
+2022-08-20 (Dr. Xochitl Haley) : Encounter at ARBOUR HOSPITAL, THE
+2022-07-30 (Dr. Edmundo Eichmann) : Encounter at FATHER BILL'S PLACE
+2022-06-18 (Dr. Xochitl Haley) : Encounter at ARBOUR HOSPITAL, THE : Encounter for Acute viral pharyngitis (disorder)
+2021-07-24 (Dr. Edmundo Eichmann) : Encounter at FATHER BILL'S PLACE
+2020-07-18 (Dr. Edmundo Eichmann) : Encounter at FATHER BILL'S PLACE
+2019-07-13 (Dr. Edmundo Eichmann) : Encounter at FATHER BILL'S PLACE
+2018-07-07 (Dr. Edmundo Eichmann) : Encounter at FATHER BILL'S PLACE
+2017-07-01 (Dr. Edmundo Eichmann) : Encounter at FATHER BILL'S PLACE
+2016-07-02 (Dr. Xochitl Haley) : Encounter at ARBOUR HOSPITAL, THE : Encounter for Patient referral for dental care (procedure)
+2016-06-25 (Dr. Edmundo Eichmann) : Encounter at FATHER BILL'S PLACE
+2015-08-13 (Dr. Xochitl Haley) : Encounter at ARBOUR HOSPITAL, THE : Encounter for Otitis media (disorder)
+2013-06-15 (Dr. Edmundo Eichmann) : Encounter at FATHER BILL'S PLACE
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2025-08-30 : Digital Radiography, Structure of region of internal part of mouth (body structure)
+  2016-07-02 : Digital Radiography, Structure of region of internal part of mouth (body structure)
+--------------------------------------------------------------------------------

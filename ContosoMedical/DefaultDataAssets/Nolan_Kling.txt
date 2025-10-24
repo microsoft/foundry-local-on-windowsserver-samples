@@ -1,0 +1,333 @@
+Nolan Kling
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 39
+Birth Date:          1985-11-24
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2020-12-07[STOPPED] : Meperidine Hydrochloride 50 MG Oral Tablet
+  2020-11-30[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2023-02-12 -            : Full-time employment (finding)
+  2023-02-12 -            : Medication review due (situation)
+  2022-03-24 - 2022-04-05 : Acute viral pharyngitis (disorder)
+  2020-11-30 - 2021-03-02 : Injury of medial collateral ligament of knee (disorder)
+  2020-11-30 - 2021-03-02 : Injury of knee (disorder)
+  2020-02-09 - 2023-02-12 : Limited social contact (finding)
+  2020-02-09 - 2023-02-12 : Unemployed (finding)
+  2017-11-18 - 2017-12-21 : Sinusitis (disorder)
+  2017-02-05 - 2020-02-09 : Medication review due (situation)
+  2008-01-27 - 2017-02-05 : Stress (finding)
+  2008-01-27 - 2020-02-09 : Full-time employment (finding)
+  2008-01-27 -            : Body mass index 30+ - obesity (finding)
+  2005-01-23 -            : Transport problem (finding)
+  2004-01-18 -            : Lack of access to transportation (finding)
+  2004-01-18 -            : Educated to high school level (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2020-11-30[STOPPED] : Physiotherapy care plan (record artifact)
+                         Reason: Injury of medial collateral ligament of knee (disorder)
+                         Activity: Rest, ice, compression and elevation treatment program (regime/therapy)
+                         Activity: Stretching exercises (regime/therapy)
+--------------------------------------------------------------------------------
+REPORTS:
+  2023-02-12 : PHQ-9 quick depression assessment panel [Reported.PHQ]
+           - Patient Health Questionnaire 9 item (PHQ-9) total score [Reported] 19.0 {score}
+  2023-02-12 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 3.0 {score}
+  2023-02-12 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2023-02-12 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2023-02-12 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 163.4 mg/dL
+           - Triglycerides                            119.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      80.3 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 59.2 mg/dL
+  2020-02-09 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+  2020-02-09 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2020-02-09 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2020-02-09 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.5 %
+           - MCV [Entitic volume] by Automated count  80.4 fL
+           - MCH [Entitic mass] by Automated count    31.7 pg
+           - MCHC [Mass/volume] by Automated count    34.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.6 fL
+           - Platelets [#/volume] in Blood by Automated count 365.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 300.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  2020-02-09 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 153.8 mg/dL
+           - Triglycerides                            127.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      81.6 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 46.6 mg/dL
+  2017-02-05 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2017-02-05 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2017-02-05 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 192.1 mg/dL
+           - Triglycerides                            124.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      119.1 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 48.1 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2023-02-12 : Patient Health Questionnaire 9 item (PHQ-9) total score [Reported] 19.0 {score}
+  2023-02-12 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 3.0 {score}
+  2023-02-12 : Total score [HARK]                       0.0 {score}
+  2023-02-12 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2023-02-12 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Utilities 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 80340 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  671 Lindgren Alley Apt 51 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 4.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2023-02-12 : Tobacco smoking status                   Ex-smoker (finding) 
+  2023-02-12 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 59.2 mg/dL
+  2023-02-12 : Low Density Lipoprotein Cholesterol      80.3 mg/dL
+  2023-02-12 : Triglycerides                            119.9 mg/dL
+  2023-02-12 : Cholesterol [Mass/volume] in Serum or Plasma 163.4 mg/dL
+  2023-02-12 : Respiratory rate                         15.0 /min
+  2023-02-12 : Heart rate                               80.0 /min
+  2023-02-12 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2023-02-12 : Body mass index (BMI) [Ratio]            27.3 kg/m2
+  2023-02-12 : Body Weight                              89.2 kg
+  2023-02-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2023-02-12 : Body Height                              180.8 cm
+  2022-03-24 : Body temperature                         37.6 Cel
+  2020-02-09 : Total score [AUDIT-C]                    2.0 {score}
+  2020-02-09 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2020-02-09 : Total score [HARK]                       0.0 {score}
+  2020-02-09 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 1 or 2 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Yes, it has kept me from non-medical meetings, appointments, work, or from getting things that I need 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 80340 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Unemployed 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  671 Lindgren Alley Apt 51 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 4.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2020-02-09 : Tobacco smoking status                   Ex-smoker (finding) 
+  2020-02-09 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  2020-02-09 : Platelet distribution width [Entitic volume] in Blood by Automated count 300.4 fL
+  2020-02-09 : Platelets [#/volume] in Blood by Automated count 365.3 10*3/uL
+  2020-02-09 : Erythrocyte distribution width [Entitic volume] by Automated count 43.6 fL
+  2020-02-09 : MCHC [Mass/volume] by Automated count    34.4 g/dL
+  2020-02-09 : MCH [Entitic mass] by Automated count    31.7 pg
+  2020-02-09 : MCV [Entitic volume] by Automated count  80.4 fL
+  2020-02-09 : Hematocrit [Volume Fraction] of Blood by Automated count 45.5 %
+  2020-02-09 : Hemoglobin [Mass/volume] in Blood        13.5 g/dL
+  2020-02-09 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2020-02-09 : Leukocytes [#/volume] in Blood by Automated count 9.4 10*3/uL
+  2020-02-09 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 46.6 mg/dL
+  2020-02-09 : Low Density Lipoprotein Cholesterol      81.6 mg/dL
+  2020-02-09 : Triglycerides                            127.9 mg/dL
+  2020-02-09 : Cholesterol [Mass/volume] in Serum or Plasma 153.8 mg/dL
+  2020-02-09 : Respiratory rate                         15.0 /min
+  2020-02-09 : Heart rate                               96.0 /min
+  2020-02-09 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  2020-02-09 : Body mass index (BMI) [Ratio]            27.3 kg/m2
+  2020-02-09 : Body Weight                              89.2 kg
+  2020-02-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2020-02-09 : Body Height                              180.8 cm
+  2017-02-05 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2017-02-05 : Total score [HARK]                       0.0 {score}
+  2017-02-05 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 80340 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  671 Lindgren Alley Apt 51 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 4.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2017-02-05 : Tobacco smoking status                   Ex-smoker (finding) 
+  2017-02-05 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 48.1 mg/dL
+  2017-02-05 : Low Density Lipoprotein Cholesterol      119.1 mg/dL
+  2017-02-05 : Triglycerides                            124.4 mg/dL
+  2017-02-05 : Cholesterol [Mass/volume] in Serum or Plasma 192.1 mg/dL
+  2017-02-05 : Respiratory rate                         16.0 /min
+  2017-02-05 : Heart rate                               69.0 /min
+  2017-02-05 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2017-02-05 : Body mass index (BMI) [Ratio]            27.3 kg/m2
+  2017-02-05 : Body Weight                              89.2 kg
+  2017-02-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2017-02-05 : Body Height                              180.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2023-02-26 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2023-02-26 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2023-02-26 : Dental plain X-ray bitewing (procedure)
+  2023-02-26 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2023-02-26 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2023-02-26 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2023-02-26 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2023-02-12 : Patient referral for dental care (procedure)
+  2023-02-12 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2023-02-12 : Depression screening (procedure)
+  2023-02-12 : Depression screening (procedure)
+  2023-02-12 : Screening for domestic abuse (procedure)
+  2023-02-12 : Assessment of anxiety (procedure)
+  2023-02-12 : Assessment of health and social care needs (procedure)
+  2022-03-24 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2021-01-05 : Discharge from hospital (procedure)
+  2021-01-05 : Pre-discharge assessment (procedure)
+  2021-01-04 : Speech and language therapy regime (regime/therapy)
+  2021-01-04 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-03 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-02 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-01 : Nursing care/supplementary surveillance (regime/therapy)
+  2020-12-31 : Nursing care/supplementary surveillance (regime/therapy)
+  2020-12-30 : Nursing care/supplementary surveillance (regime/therapy)
+  2020-12-29 : Nursing care/supplementary surveillance (regime/therapy)
+  2020-12-28 : Nursing care/supplementary surveillance (regime/therapy)
+  2020-12-27 : Nursing care/supplementary surveillance (regime/therapy)
+  2020-12-26 : Professional / ancillary services care (regime/therapy)
+  2020-12-26 : Speech and language therapy regime (regime/therapy)
+  2020-12-26 : Nursing care/supplementary surveillance (regime/therapy)
+  2020-12-25 : Nursing care/supplementary surveillance (regime/therapy)
+  2020-12-24 : Professional / ancillary services care (regime/therapy)
+  2020-12-24 : Physical therapy procedure (regime/therapy)
+  2020-12-24 : Nursing care/supplementary surveillance (regime/therapy)
+  2020-12-23 : Nursing care/supplementary surveillance (regime/therapy)
+  2020-12-22 : Care regimes assessment (procedure)
+  2020-12-22 : Nursing care/supplementary surveillance (regime/therapy)
+  2020-12-21 : Professional / ancillary services care (regime/therapy)
+  2020-12-21 : Nursing care/supplementary surveillance (regime/therapy)
+  2020-12-20 : Occupational therapy (regime/therapy)
+  2020-12-20 : Physical therapy procedure (regime/therapy)
+  2020-12-20 : Nursing care/supplementary surveillance (regime/therapy)
+  2020-12-19 : Occupational therapy (regime/therapy)
+  2020-12-19 : Nursing care/supplementary surveillance (regime/therapy)
+  2020-12-18 : Professional / ancillary services care (regime/therapy)
+  2020-12-18 : Nursing care/supplementary surveillance (regime/therapy)
+  2020-12-17 : Nursing care/supplementary surveillance (regime/therapy)
+  2020-12-16 : Occupational therapy (regime/therapy)
+  2020-12-16 : Nursing care/supplementary surveillance (regime/therapy)
+  2020-12-15 : Nursing care/supplementary surveillance (regime/therapy)
+  2020-12-14 : Nursing care/supplementary surveillance (regime/therapy)
+  2020-12-13 : Nursing care/supplementary surveillance (regime/therapy)
+  2020-12-12 : Professional / ancillary services care (regime/therapy)
+  2020-12-12 : Speech and language therapy regime (regime/therapy)
+  2020-12-12 : Nursing care/supplementary surveillance (regime/therapy)
+  2020-12-11 : Physical therapy procedure (regime/therapy)
+  2020-12-11 : Nursing care/supplementary surveillance (regime/therapy)
+  2020-12-10 : Nursing care/supplementary surveillance (regime/therapy)
+  2020-12-09 : Nursing care/supplementary surveillance (regime/therapy)
+  2020-12-09 : Development of individualized plan of care (procedure)
+  2020-12-09 : Initial patient assessment (procedure)
+  2020-12-09 : History AND physical examination (procedure)
+  2020-12-07 : Postoperative care (regime/therapy) for Injury of medial collateral ligament of knee (disorder)
+  2020-12-07 : Surgical manipulation of joint of knee (procedure) for Injury of medial collateral ligament of knee (disorder)
+  2020-11-30 : Plain X-ray of knee region (procedure)
+  2020-02-23 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2020-02-23 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2020-02-23 : Dental plain X-ray bitewing (procedure)
+  2020-02-23 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2020-02-23 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2020-02-23 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2020-02-23 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2020-02-09 : Patient referral for dental care (procedure)
+  2020-02-09 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2020-02-09 : Assessment of substance use (procedure)
+  2020-02-09 : Depression screening (procedure)
+  2020-02-09 : Depression screening (procedure)
+  2020-02-09 : Screening for domestic abuse (procedure)
+  2020-02-09 : Assessment of health and social care needs (procedure)
+  2020-02-09 : Medication reconciliation (procedure)
+  2017-02-05 : Depression screening (procedure)
+  2017-02-05 : Depression screening (procedure)
+  2017-02-05 : Screening for domestic abuse (procedure)
+  2017-02-05 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2023-02-12 : Influenza, seasonal, injectable, preservative free
+  2021-04-25 : COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+  2021-04-04 : COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+  2020-02-09 : Influenza, seasonal, injectable, preservative free
+  2017-02-05 : Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+  2017-02-05 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2023-02-26 (Dr. Emilio Barton) : Encounter at HEBREW REHABILITATION CENTER : Encounter for Patient referral for dental care (procedure)
+2023-02-12 (Dr. Moshe Stamm) : Encounter at BOSTON PAIN CLINIC & PRIMARY CARE PC
+2022-03-24 (Dr. Emilio Barton) : Encounter at HEBREW REHABILITATION CENTER : Encounter for Acute viral pharyngitis (disorder)
+2021-04-25 (Dr. Emilio Barton) : Encounter at HEBREW REHABILITATION CENTER
+2021-04-04 (Dr. Emilio Barton) : Encounter at HEBREW REHABILITATION CENTER
+2020-12-09 (Dr. Shaquita Klocko) : Encounter at PARK PLACE REHABILITATION & SKILLED CARE CENTER : Encounter for Patient transfer to skilled nursing facility (procedure)
+2020-12-07 (Dr. Emilio Barton) : Encounter at HEBREW REHABILITATION CENTER : Encounter for Injury of medial collateral ligament of knee (disorder)
+2020-11-30 (Dr. Pei Crooks) : Encounter at MATTAPAN COMMUNITY HEALTH CENTER : Encounter for Injury of knee (disorder)
+2020-02-23 (Dr. Emilio Barton) : Encounter at HEBREW REHABILITATION CENTER : Encounter for Patient referral for dental care (procedure)
+2020-02-09 (Dr. Moshe Stamm) : Encounter at BOSTON PAIN CLINIC & PRIMARY CARE PC
+2017-11-18 (Dr. Emilio Barton) : Encounter at HEBREW REHABILITATION CENTER : Encounter for Sinusitis (disorder)
+2017-02-05 (Dr. Moshe Stamm) : Encounter at BOSTON PAIN CLINIC & PRIMARY CARE PC
+2008-01-27 (Dr. Moshe Stamm) : Encounter at BOSTON PAIN CLINIC & PRIMARY CARE PC
+2005-01-23 (Dr. Moshe Stamm) : Encounter at BOSTON PAIN CLINIC & PRIMARY CARE PC
+2004-01-18 (Dr. Moshe Stamm) : Encounter at BOSTON PAIN CLINIC & PRIMARY CARE PC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2023-02-26 : Digital Radiography, Structure of region of internal part of mouth (body structure)
+  2020-11-30 : Digital Radiography, Knee region structure (body structure)
+  2020-02-23 : Digital Radiography, Structure of region of internal part of mouth (body structure)
+--------------------------------------------------------------------------------

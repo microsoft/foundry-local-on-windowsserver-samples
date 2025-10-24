@@ -1,0 +1,727 @@
+Salina Denesik
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 58
+Birth Date:          1967-09-02
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2019-09-28[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Patient referral for dental care (procedure)
+  2017-09-16[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Patient referral for dental care (procedure)
+  2017-03-25[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2017-02-15[STOPPED] : 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection
+  2016-02-17[STOPPED] : Mirena 52 MG Intrauterine System
+  2015-02-22[STOPPED] : Etonogestrel 68 MG Drug Implant
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2024-10-12 -            : Stress (finding)
+  2024-10-12 - 2024-10-12 : Medication review due (situation)
+  2023-10-07 -            : Full-time employment (finding)
+  2023-10-07 - 2023-10-07 : Medication review due (situation)
+  2023-02-01 - 2023-02-10 : Viral sinusitis (disorder)
+  2022-10-01 - 2023-10-07 : Part-time employment (finding)
+  2022-10-01 - 2022-10-01 : Medication review due (situation)
+  2021-09-29 - 2021-10-12 : Acute viral pharyngitis (disorder)
+  2020-10-03 - 2020-10-03 : Primary dental caries (disorder)
+  2020-10-03 - 2020-10-03 : Infection of tooth (disorder)
+  2019-10-05 - 2019-10-17 : Torus mandibularis (disorder)
+  2019-10-05 -            : Loss of teeth (disorder)
+  2019-09-28 - 2019-09-28 : Infection of tooth (disorder)
+  2019-09-14 - 2021-09-25 : Medication review due (situation)
+  2018-09-22 - 2018-09-22 : Gingival disease (disorder)
+  2018-09-08 - 2022-10-01 : Full-time employment (finding)
+  2017-09-02 - 2021-09-25 : Stress (finding)
+  2017-09-02 - 2018-09-08 : Part-time employment (finding)
+  2017-03-25 - 2017-04-09 : Acute bronchitis (disorder)
+  2017-03-11 - 2023-10-07 : Unhealthy alcohol drinking behavior (finding)
+  2017-03-11 - 2017-09-02 : Not in labor force (finding)
+  2015-09-26 - 2017-03-11 : Stress (finding)
+  2015-09-26 - 2018-09-08 : Medication review due (situation)
+  2015-04-17 -            : Malignant neoplasm of breast (disorder)
+  2014-09-12 -            : Past pregnancy history of miscarriage (situation)
+  2013-09-21 - 2017-03-11 : Full-time employment (finding)
+  2001-11-17 -            : Victim of intimate partner abuse (finding)
+  2001-11-17 -            : Body mass index 30+ - obesity (finding)
+  1985-10-19 -            : Received higher education (finding)
+  1976-06-29 -            : Chronic sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2017-03-25[STOPPED] : Respiratory therapy (procedure)
+                         Activity: Recommendation to avoid exercise (procedure)
+                         Activity: Deep breathing and coughing exercises (regime/therapy)
+--------------------------------------------------------------------------------
+REPORTS:
+  2024-10-12 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2024-10-12 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2024-10-12 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.9 %
+           - MCV [Entitic volume] by Automated count  93.9 fL
+           - MCH [Entitic mass] by Automated count    29.2 pg
+           - MCHC [Mass/volume] by Automated count    34.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.5 fL
+           - Platelets [#/volume] in Blood by Automated count 321.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 406.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.7 fL
+  2023-10-07 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+  2023-10-07 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2022-10-01 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-10-01 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2022-10-01 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 167.7 mg/dL
+           - Triglycerides                            133.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      81.4 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 59.6 mg/dL
+  2021-09-25 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-09-25 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2020-09-19 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2020-09-19 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 8.0 {score}
+  2019-09-14 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    0.0 {score}
+  2019-09-14 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2019-09-14 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.0 %
+           - MCV [Entitic volume] by Automated count  92.3 fL
+           - MCH [Entitic mass] by Automated count    30.1 pg
+           - MCHC [Mass/volume] by Automated count    35.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.0 fL
+           - Platelets [#/volume] in Blood by Automated count 443.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 190.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  2019-09-14 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 187.3 mg/dL
+           - Triglycerides                            137.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      98.4 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 61.4 mg/dL
+  2018-09-08 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2018-09-08 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2017-03-11 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    4.0 {score}
+  2017-03-11 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2017-03-11 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2024-10-12 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2024-10-12 : Total score [HARK]                       0.0 {score}
+  2024-10-12 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Unsure 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 93771 /a
+           - Primary insurance                        Medicare 
+           - Employment status - current              Full-time work 
+           - Highest level of education               More than high school 
+           - Address                                  450 Morar Byway Suite 1 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 1.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2024-10-12 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2024-10-12 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.7 fL
+  2024-10-12 : Platelet distribution width [Entitic volume] in Blood by Automated count 406.6 fL
+  2024-10-12 : Platelets [#/volume] in Blood by Automated count 321.0 10*3/uL
+  2024-10-12 : Erythrocyte distribution width [Entitic volume] by Automated count 44.5 fL
+  2024-10-12 : MCHC [Mass/volume] by Automated count    34.8 g/dL
+  2024-10-12 : MCH [Entitic mass] by Automated count    29.2 pg
+  2024-10-12 : MCV [Entitic volume] by Automated count  93.9 fL
+  2024-10-12 : Hematocrit [Volume Fraction] of Blood by Automated count 37.9 %
+  2024-10-12 : Hemoglobin [Mass/volume] in Blood        17.3 g/dL
+  2024-10-12 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2024-10-12 : Leukocytes [#/volume] in Blood by Automated count 4.6 10*3/uL
+  2024-10-12 : Respiratory rate                         12.0 /min
+  2024-10-12 : Heart rate                               67.0 /min
+  2024-10-12 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  106.0 mm[Hg]
+  2024-10-12 : Body mass index (BMI) [Ratio]            27.7 kg/m2
+  2024-10-12 : Body Weight                              67.5 kg
+  2024-10-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2024-10-12 : Body Height                              156.0 cm
+  2023-10-07 : Total score [AUDIT-C]                    2.0 {score}
+  2023-10-07 : Total score [HARK]                       0.0 {score}
+  2023-10-07 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 93771 /a
+           - Primary insurance                        Medicare 
+           - Employment status - current              Full-time work 
+           - Highest level of education               More than high school 
+           - Address                                  450 Morar Byway Suite 1 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 1.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2023-10-07 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-10-07 : Respiratory rate                         15.0 /min
+  2023-10-07 : Heart rate                               75.0 /min
+  2023-10-07 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 65.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2023-10-07 : Body mass index (BMI) [Ratio]            27.7 kg/m2
+  2023-10-07 : Body Weight                              67.5 kg
+  2023-10-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2023-10-07 : Body Height                              156.0 cm
+  2022-10-01 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-10-01 : Total score [HARK]                       0.0 {score}
+  2022-10-01 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 93771 /a
+           - Primary insurance                        Medicare 
+           - Employment status - current              Part-time or temporary work 
+           - Highest level of education               More than high school 
+           - Address                                  450 Morar Byway Suite 1 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 1.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2022-10-01 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-10-01 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 59.6 mg/dL
+  2022-10-01 : Low Density Lipoprotein Cholesterol      81.4 mg/dL
+  2022-10-01 : Triglycerides                            133.3 mg/dL
+  2022-10-01 : Cholesterol [Mass/volume] in Serum or Plasma 167.7 mg/dL
+  2022-10-01 : Respiratory rate                         14.0 /min
+  2022-10-01 : Heart rate                               62.0 /min
+  2022-10-01 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  106.0 mm[Hg]
+  2022-10-01 : Body mass index (BMI) [Ratio]            27.7 kg/m2
+  2022-10-01 : Body Weight                              67.5 kg
+  2022-10-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2022-10-01 : Body Height                              156.0 cm
+  2021-09-29 : Body temperature                         37.2 Cel
+  2021-09-25 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-09-25 : Total score [HARK]                       0.0 {score}
+  2021-09-25 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 93771 /a
+           - Primary insurance                        Medicare 
+           - Employment status - current              Full-time work 
+           - Highest level of education               More than high school 
+           - Address                                  450 Morar Byway Suite 1 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 1.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2021-09-25 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-09-25 : Respiratory rate                         14.0 /min
+  2021-09-25 : Heart rate                               89.0 /min
+  2021-09-25 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  103.0 mm[Hg]
+  2021-09-25 : Body mass index (BMI) [Ratio]            27.7 kg/m2
+  2021-09-25 : Body Weight                              67.5 kg
+  2021-09-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-09-25 : Body Height                              156.0 cm
+  2020-09-19 : Total score [HARK]                       0.0 {score}
+  2020-09-19 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 8.0 {score}
+  2020-09-19 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 93771 /a
+           - Primary insurance                        Medicare 
+           - Employment status - current              Full-time work 
+           - Highest level of education               More than high school 
+           - Address                                  450 Morar Byway Suite 1 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 1.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2020-09-19 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-09-19 : Respiratory rate                         13.0 /min
+  2020-09-19 : Heart rate                               88.0 /min
+  2020-09-19 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  107.0 mm[Hg]
+  2020-09-19 : Body mass index (BMI) [Ratio]            27.7 kg/m2
+  2020-09-19 : Body Weight                              67.5 kg
+  2020-09-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2020-09-19 : Body Height                              156.0 cm
+  2019-09-14 : Total score [DAST-10]                    0.0 {score}
+  2019-09-14 : Total score [HARK]                       0.0 {score}
+  2019-09-14 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 93771 /a
+           - Primary insurance                        Medicare 
+           - Employment status - current              Full-time work 
+           - Highest level of education               More than high school 
+           - Address                                  450 Morar Byway Suite 1 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 1.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2019-09-14 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-09-14 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  2019-09-14 : Platelet distribution width [Entitic volume] in Blood by Automated count 190.5 fL
+  2019-09-14 : Platelets [#/volume] in Blood by Automated count 443.1 10*3/uL
+  2019-09-14 : Erythrocyte distribution width [Entitic volume] by Automated count 43.0 fL
+  2019-09-14 : MCHC [Mass/volume] by Automated count    35.3 g/dL
+  2019-09-14 : MCH [Entitic mass] by Automated count    30.1 pg
+  2019-09-14 : MCV [Entitic volume] by Automated count  92.3 fL
+  2019-09-14 : Hematocrit [Volume Fraction] of Blood by Automated count 39.0 %
+  2019-09-14 : Hemoglobin [Mass/volume] in Blood        13.1 g/dL
+  2019-09-14 : Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+  2019-09-14 : Leukocytes [#/volume] in Blood by Automated count 10.4 10*3/uL
+  2019-09-14 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 61.4 mg/dL
+  2019-09-14 : Low Density Lipoprotein Cholesterol      98.4 mg/dL
+  2019-09-14 : Triglycerides                            137.5 mg/dL
+  2019-09-14 : Cholesterol [Mass/volume] in Serum or Plasma 187.3 mg/dL
+  2019-09-14 : Respiratory rate                         13.0 /min
+  2019-09-14 : Heart rate                               62.0 /min
+  2019-09-14 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  99.0 mm[Hg]
+  2019-09-14 : Body mass index (BMI) [Ratio]            27.7 kg/m2
+  2019-09-14 : Body Weight                              67.5 kg
+  2019-09-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2019-09-14 : Body Height                              156.0 cm
+  2019-04-23 : Response to cancer treatment             Improving (qualifier value) 
+  2018-09-08 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2018-09-08 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2018-09-08 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 93771 /a
+           - Primary insurance                        Medicare 
+           - Employment status - current              Full-time work 
+           - Highest level of education               More than high school 
+           - Address                                  450 Morar Byway Suite 1 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 1.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2018-09-08 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2018-09-08 : Respiratory rate                         13.0 /min
+  2018-09-08 : Heart rate                               79.0 /min
+  2018-09-08 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2018-09-08 : Body mass index (BMI) [Ratio]            27.7 kg/m2
+  2018-09-08 : Body Weight                              67.5 kg
+  2018-09-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2018-09-08 : Body Height                              156.0 cm
+  2018-05-28 : Response to cancer treatment             Improving (qualifier value) 
+  2017-09-02 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 93771 /a
+           - Primary insurance                        Medicare 
+           - Employment status - current              Part-time or temporary work 
+           - Highest level of education               More than high school 
+           - Address                                  450 Morar Byway Suite 1 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 1.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2017-09-02 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2017-09-02 : Respiratory rate                         13.0 /min
+  2017-09-02 : Heart rate                               76.0 /min
+  2017-09-02 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  105.0 mm[Hg]
+  2017-09-02 : Body mass index (BMI) [Ratio]            28.1 kg/m2
+  2017-09-02 : Body Weight                              68.5 kg
+  2017-09-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-09-02 : Body Height                              156.0 cm
+  2017-05-20 : Response to cancer treatment             Improving (qualifier value) 
+  2017-03-11 : Total score [AUDIT-C]                    4.0 {score}
+  2017-03-11 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2017-03-11 : Total score [HARK]                       0.0 {score}
+  2017-03-11 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 93771 /a
+           - Primary insurance                        Medicare 
+           - Employment status - current              Otherwise unemployed but not seeking work (ex: student, retired, disabled, unpaid primary care giver) 
+           - Highest level of education               More than high school 
+           - Address                                  450 Morar Byway Suite 1 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 1.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2017-03-11 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2017-03-11 : Respiratory rate                         15.0 /min
+  2017-03-11 : Heart rate                               61.0 /min
+  2017-03-11 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2017-03-11 : Body mass index (BMI) [Ratio]            29.4 kg/m2
+  2017-03-11 : Body Weight                              71.5 kg
+  2017-03-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-03-11 : Body Height                              156.0 cm
+  2016-05-16 : Response to cancer treatment             Improving (qualifier value) 
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2025-04-19 : Cytopathology procedure, preparation of smear, genital source (procedure) for Malignant neoplasm of breast (disorder)
+  2025-04-19 : Manual pelvic examination (procedure) for Malignant neoplasm of breast (disorder)
+  2025-04-19 : Mammography (procedure) for Malignant neoplasm of breast (disorder)
+  2025-04-19 : Physical examination, complete (procedure) for Malignant neoplasm of breast (disorder)
+  2024-10-26 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2024-10-26 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2024-10-26 : Dental plain X-ray bitewing (procedure)
+  2024-10-26 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2024-10-26 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2024-10-26 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2024-10-26 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2024-10-12 : Patient referral for dental care (procedure)
+  2024-10-12 : Depression screening (procedure)
+  2024-10-12 : Depression screening (procedure)
+  2024-10-12 : Screening for domestic abuse (procedure)
+  2024-10-12 : Assessment of health and social care needs (procedure)
+  2024-10-12 : Medication reconciliation (procedure)
+  2024-04-04 : Cytopathology procedure, preparation of smear, genital source (procedure) for Malignant neoplasm of breast (disorder)
+  2024-04-04 : Manual pelvic examination (procedure) for Malignant neoplasm of breast (disorder)
+  2024-04-04 : Mammography (procedure) for Malignant neoplasm of breast (disorder)
+  2024-04-04 : Physical examination, complete (procedure) for Malignant neoplasm of breast (disorder)
+  2023-10-07 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2023-10-07 : Assessment of substance use (procedure)
+  2023-10-07 : Screening for domestic abuse (procedure)
+  2023-10-07 : Assessment of health and social care needs (procedure)
+  2023-10-07 : Medication reconciliation (procedure)
+  2023-04-26 : Cytopathology procedure, preparation of smear, genital source (procedure) for Malignant neoplasm of breast (disorder)
+  2023-04-26 : Manual pelvic examination (procedure) for Malignant neoplasm of breast (disorder)
+  2023-04-26 : Mammography (procedure) for Malignant neoplasm of breast (disorder)
+  2023-04-26 : Physical examination, complete (procedure) for Malignant neoplasm of breast (disorder)
+  2022-10-01 : Depression screening (procedure)
+  2022-10-01 : Depression screening (procedure)
+  2022-10-01 : Screening for domestic abuse (procedure)
+  2022-10-01 : Assessment of health and social care needs (procedure)
+  2022-10-01 : Medication reconciliation (procedure)
+  2022-09-09 : Colonoscopy (procedure)
+  2022-04-09 : Cytopathology procedure, preparation of smear, genital source (procedure) for Malignant neoplasm of breast (disorder)
+  2022-04-09 : Manual pelvic examination (procedure) for Malignant neoplasm of breast (disorder)
+  2022-04-09 : Mammography (procedure) for Malignant neoplasm of breast (disorder)
+  2022-04-09 : Physical examination, complete (procedure) for Malignant neoplasm of breast (disorder)
+  2021-09-25 : Depression screening (procedure)
+  2021-09-25 : Depression screening (procedure)
+  2021-09-25 : Screening for domestic abuse (procedure)
+  2021-09-25 : Assessment of health and social care needs (procedure)
+  2021-09-25 : Medication reconciliation (procedure)
+  2021-04-14 : Cytopathology procedure, preparation of smear, genital source (procedure) for Malignant neoplasm of breast (disorder)
+  2021-04-14 : Manual pelvic examination (procedure) for Malignant neoplasm of breast (disorder)
+  2021-04-14 : Mammography (procedure) for Malignant neoplasm of breast (disorder)
+  2021-04-14 : Physical examination, complete (procedure) for Malignant neoplasm of breast (disorder)
+  2020-10-03 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2020-10-03 : Restoration of tooth with coverage of all cusps using dental filling material (procedure) for Primary dental caries (disorder)
+  2020-10-03 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2020-10-03 : Postoperative care for dental procedure (regime/therapy)
+  2020-10-03 : Simple extraction of tooth (procedure) for Infection of tooth (disorder)
+  2020-10-03 : Dental application of desensitizing medicament (procedure) for Infection of tooth (disorder)
+  2020-10-03 : Dental surgical procedure (procedure) for Infection of tooth (disorder)
+  2020-10-03 : Dental plain X-ray bitewing (procedure)
+  2020-10-03 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2020-10-03 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2020-10-03 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2020-10-03 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2020-09-19 : Patient referral for dental care (procedure)
+  2020-09-19 : Screening for domestic abuse (procedure)
+  2020-09-19 : Assessment of anxiety (procedure)
+  2020-09-19 : Assessment of health and social care needs (procedure)
+  2020-04-07 : Cytopathology procedure, preparation of smear, genital source (procedure) for Malignant neoplasm of breast (disorder)
+  2020-04-07 : Manual pelvic examination (procedure) for Malignant neoplasm of breast (disorder)
+  2020-04-07 : Mammography (procedure) for Malignant neoplasm of breast (disorder)
+  2020-04-07 : Physical examination, complete (procedure) for Malignant neoplasm of breast (disorder)
+  2019-12-08 : Physical examination, complete (procedure) for Malignant neoplasm of breast (disorder)
+  2019-10-27 : Fitting of denture (procedure) for Loss of teeth (disorder)
+  2019-10-17 : Postoperative care for dental procedure (regime/therapy)
+  2019-10-17 : Excision of lingual torus (procedure) for Torus mandibularis (disorder)
+  2019-10-17 : Dental surgical procedure (procedure)
+  2019-10-17 : Dental application of desensitizing medicament (procedure)
+  2019-10-05 : Take oral or dental impression (procedure) for Loss of teeth (disorder)
+  2019-10-05 : Dental plain X-ray bitewing (procedure)
+  2019-10-05 : Dental consultation and report (procedure) for Loss of teeth (disorder)
+  2019-09-28 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2019-09-28 : Dental fluoride treatment (procedure) for Patient referral for dental care (procedure)
+  2019-09-28 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2019-09-28 : Postoperative care for dental procedure (regime/therapy)
+  2019-09-28 : Simple extraction of tooth (procedure) for Infection of tooth (disorder)
+  2019-09-28 : Dental application of desensitizing medicament (procedure) for Infection of tooth (disorder)
+  2019-09-28 : Dental surgical procedure (procedure) for Infection of tooth (disorder)
+  2019-09-28 : Dental plain X-ray bitewing (procedure)
+  2019-09-28 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2019-09-28 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2019-09-28 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2019-09-28 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2019-09-14 : Patient referral for dental care (procedure)
+  2019-09-14 : Screening for drug abuse (procedure)
+  2019-09-14 : Assessment of substance use (procedure)
+  2019-09-14 : Screening for domestic abuse (procedure)
+  2019-09-14 : Assessment of health and social care needs (procedure)
+  2019-08-22 : Physical examination, complete (procedure) for Malignant neoplasm of breast (disorder)
+  2019-04-23 : Cytopathology procedure, preparation of smear, genital source (procedure) for Malignant neoplasm of breast (disorder)
+  2019-04-23 : Manual pelvic examination (procedure) for Malignant neoplasm of breast (disorder)
+  2019-04-23 : Mammography (procedure) for Malignant neoplasm of breast (disorder)
+  2019-04-23 : Physical examination, complete (procedure) for Malignant neoplasm of breast (disorder)
+  2019-01-07 : Physical examination, complete (procedure) for Malignant neoplasm of breast (disorder)
+  2018-09-22 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2018-09-22 : Postoperative care for dental procedure (regime/therapy)
+  2018-09-22 : Gingivectomy or gingivoplasty, per tooth (procedure) for Gingival disease (disorder)
+  2018-09-22 : Dental application of desensitizing medicament (procedure) for Gingival disease (disorder)
+  2018-09-22 : Dental surgical procedure (procedure) for Gingival disease (disorder)
+  2018-09-22 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2018-09-22 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2018-09-22 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2018-09-22 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2018-09-22 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2018-09-11 : Physical examination, complete (procedure) for Malignant neoplasm of breast (disorder)
+  2018-09-08 : Patient referral for dental care (procedure)
+  2018-09-08 : Depression screening (procedure)
+  2018-09-08 : Depression screening (procedure)
+  2018-09-08 : Assessment of anxiety (procedure)
+  2018-09-08 : Assessment of health and social care needs (procedure)
+  2018-09-08 : Medication reconciliation (procedure)
+  2018-05-28 : Cytopathology procedure, preparation of smear, genital source (procedure) for Malignant neoplasm of breast (disorder)
+  2018-05-28 : Manual pelvic examination (procedure) for Malignant neoplasm of breast (disorder)
+  2018-05-28 : Mammography (procedure) for Malignant neoplasm of breast (disorder)
+  2018-05-28 : Physical examination, complete (procedure) for Malignant neoplasm of breast (disorder)
+  2018-02-24 : Removal of subcutaneous contraceptive (procedure)
+  2018-01-29 : Physical examination, complete (procedure) for Malignant neoplasm of breast (disorder)
+  2017-09-30 : Physical examination, complete (procedure) for Malignant neoplasm of breast (disorder)
+  2017-09-16 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2017-09-16 : Dental fluoride treatment (procedure) for Patient referral for dental care (procedure)
+  2017-09-16 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2017-09-16 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2017-09-16 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2017-09-16 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2017-09-16 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2017-09-09 : Colonoscopy (procedure)
+  2017-09-02 : Patient referral for dental care (procedure)
+  2017-09-02 : Assessment of health and social care needs (procedure)
+  2017-05-20 : Cytopathology procedure, preparation of smear, genital source (procedure) for Malignant neoplasm of breast (disorder)
+  2017-05-20 : Manual pelvic examination (procedure) for Malignant neoplasm of breast (disorder)
+  2017-05-20 : Mammography (procedure) for Malignant neoplasm of breast (disorder)
+  2017-05-20 : Physical examination, complete (procedure) for Malignant neoplasm of breast (disorder)
+  2017-03-25 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2017-03-11 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2017-03-11 : Assessment of substance use (procedure)
+  2017-03-11 : Depression screening (procedure)
+  2017-03-11 : Depression screening (procedure)
+  2017-03-11 : Screening for domestic abuse (procedure)
+  2017-03-11 : Assessment of health and social care needs (procedure)
+  2017-02-15 : Intramuscular injection (procedure)
+  2017-01-18 : Physical examination, complete (procedure) for Malignant neoplasm of breast (disorder)
+  2016-09-17 : Physical examination, complete (procedure) for Malignant neoplasm of breast (disorder)
+  2016-05-16 : Cytopathology procedure, preparation of smear, genital source (procedure) for Malignant neoplasm of breast (disorder)
+  2016-05-16 : Manual pelvic examination (procedure) for Malignant neoplasm of breast (disorder)
+  2016-05-16 : Mammography (procedure) for Malignant neoplasm of breast (disorder)
+  2016-05-16 : Physical examination, complete (procedure) for Malignant neoplasm of breast (disorder)
+  2016-02-21 : Insertion of intrauterine contraceptive device (procedure)
+  2016-01-26 : Physical examination, complete (procedure) for Malignant neoplasm of breast (disorder)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2024-10-12 : Influenza, seasonal, injectable, preservative free
+  2023-10-07 : Influenza, seasonal, injectable, preservative free
+  2022-10-01 : Influenza, seasonal, injectable, preservative free
+  2021-09-25 : Influenza, seasonal, injectable, preservative free
+  2021-02-06 : COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+  2021-01-16 : COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+  2020-09-19 : Influenza, seasonal, injectable, preservative free
+  2019-09-14 : Influenza, seasonal, injectable, preservative free
+  2018-09-08 : Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+  2018-09-08 : Influenza, seasonal, injectable, preservative free
+  2018-09-08 : zoster vaccine, live
+  2017-09-02 : Influenza, seasonal, injectable, preservative free
+  2017-09-02 : zoster vaccine, live
+  2017-03-18 : Influenza, seasonal, injectable, preservative free
+  2017-03-11 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2025-04-19 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2025-04-19 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2025-04-19 (Dr. Patrina Strosin) : Encounter at ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS : Encounter for Malignant neoplasm of breast (disorder)
+2024-10-26 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Patient referral for dental care (procedure)
+2024-10-12 (Dr. Heath Leuschke) : Encounter at WESTON PRIMARY CARE, PC
+2024-04-04 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2024-04-04 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2024-04-04 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2023-10-07 (Dr. Heath Leuschke) : Encounter at WESTON PRIMARY CARE, PC
+2023-04-26 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2023-04-26 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2023-04-26 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2023-02-01 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Viral sinusitis (disorder)
+2022-10-01 (Dr. Heath Leuschke) : Encounter at WESTON PRIMARY CARE, PC
+2022-09-09 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Screening for malignant neoplasm of colon (procedure)
+2022-04-09 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2022-04-09 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2022-04-09 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2021-09-29 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Acute viral pharyngitis (disorder)
+2021-09-25 (Dr. Heath Leuschke) : Encounter at WESTON PRIMARY CARE, PC
+2021-04-14 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2021-04-14 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2021-04-14 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2021-02-06 (Dr. Elsa Marrero) : Encounter at THE GENERAL HOSPITAL CORPORATION
+2021-01-16 (Dr. Elsa Marrero) : Encounter at THE GENERAL HOSPITAL CORPORATION
+2020-10-03 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Patient referral for dental care (procedure)
+2020-09-19 (Dr. Heath Leuschke) : Encounter at WESTON PRIMARY CARE, PC
+2020-04-07 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2020-04-07 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2020-04-07 (Dr. Patrina Strosin) : Encounter at ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS : Encounter for Malignant neoplasm of breast (disorder)
+2019-12-08 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2019-10-27 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Loss of teeth (disorder)
+2019-10-17 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Torus mandibularis (disorder)
+2019-10-05 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Loss of teeth (disorder)
+2019-09-28 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Patient referral for dental care (procedure)
+2019-09-14 (Dr. Heath Leuschke) : Encounter at WESTON PRIMARY CARE, PC
+2019-08-22 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2019-04-23 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2019-04-23 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2019-04-23 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2019-01-07 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2018-09-22 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Patient referral for dental care (procedure)
+2018-09-11 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2018-09-08 (Dr. Heath Leuschke) : Encounter at WESTON PRIMARY CARE, PC
+2018-05-28 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2018-05-28 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2018-05-28 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2018-02-24 (Dr. Elsa Marrero) : Encounter at THE GENERAL HOSPITAL CORPORATION : Encounter for Contraception care (regime/therapy)
+2018-01-29 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2017-09-30 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2017-09-16 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Patient referral for dental care (procedure)
+2017-09-09 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Screening for malignant neoplasm of colon (procedure)
+2017-09-02 (Dr. Heath Leuschke) : Encounter at WESTON PRIMARY CARE, PC
+2017-05-20 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2017-05-20 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2017-05-20 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2017-03-25 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Acute bronchitis (disorder)
+2017-03-18 (Dr. Elsa Marrero) : Encounter at THE GENERAL HOSPITAL CORPORATION
+2017-03-11 (Dr. Cortez Price) : Encounter at PATRIOT URGENT CARE PROFESSIONALS PC
+2017-02-15 (Dr. Elsa Marrero) : Encounter at THE GENERAL HOSPITAL CORPORATION : Encounter for Contraception care (regime/therapy)
+2017-01-18 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2016-09-17 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2016-05-16 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2016-05-16 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2016-05-16 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2016-02-21 (Dr. Elsa Marrero) : Encounter at THE GENERAL HOSPITAL CORPORATION : Encounter for Contraception care (regime/therapy)
+2016-02-17 (Dr. Elsa Marrero) : Encounter at THE GENERAL HOSPITAL CORPORATION : Encounter for Contraception care (regime/therapy)
+2016-01-26 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2015-09-26 (Dr. Heath Leuschke) : Encounter at WESTON PRIMARY CARE, PC
+2015-04-17 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Malignant neoplasm of breast (disorder)
+2015-02-22 (Dr. Elsa Marrero) : Encounter at THE GENERAL HOSPITAL CORPORATION : Encounter for Contraception care (regime/therapy)
+2014-09-12 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Blighted ovum (disorder)
+2013-09-21 (Dr. Heath Leuschke) : Encounter at WESTON PRIMARY CARE, PC
+2001-11-17 (Dr. Heath Leuschke) : Encounter at WESTON PRIMARY CARE, PC
+1985-10-19 (Dr. Cortez Price) : Encounter at PATRIOT URGENT CARE PROFESSIONALS PC
+1976-06-29 (Dr. Darnell Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Acute bacterial sinusitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2024-10-26 : Digital Radiography, Structure of region of internal part of mouth (body structure)
+  2020-10-03 : Digital Radiography, Structure of region of internal part of mouth (body structure)
+  2019-10-05 : Digital Radiography, Structure of region of internal part of mouth (body structure)
+  2019-09-28 : Digital Radiography, Structure of region of internal part of mouth (body structure)
+--------------------------------------------------------------------------------

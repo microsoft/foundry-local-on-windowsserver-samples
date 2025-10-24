@@ -1,0 +1,544 @@
+Gene Bogan
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 48
+Birth Date:          1977-10-04
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2025-01-14[CURRENT] : amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2025-01-14[CURRENT] : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2025-01-14[CURRENT] : Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  2024-03-27[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2024-01-09[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2024-01-09[STOPPED] : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2024-01-09[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  2023-01-26[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2023-01-10[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Patient referral for dental care (procedure)
+  2023-01-03[STOPPED] : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2023-01-03[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  2022-12-27[STOPPED] : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2022-12-27[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  2022-12-27[STOPPED] : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2022-12-27[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  2022-12-17[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2019-10-29[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Gingivitis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2025-08-12 - 2025-09-06 : Viral sinusitis (disorder)
+  2025-01-14 -            : Part-time employment (finding)
+  2025-01-14 -            : Medication review due (situation)
+  2024-03-27 - 2024-04-16 : Facial laceration (disorder)
+  2024-03-27 - 2024-04-16 : Laceration - injury (disorder)
+  2024-01-09 - 2025-01-14 : Unemployed (finding)
+  2022-12-27 - 2024-01-09 : Full-time employment (finding)
+  2022-12-27 -            : Essential hypertension (disorder)
+  2022-12-17 - 2022-12-25 : Acute bronchitis (disorder)
+  2021-10-19 - 2021-11-02 : Gingivitis (disorder)
+  2021-10-19 - 2025-01-14 : Stress (finding)
+  2021-10-19 - 2022-12-27 : Part-time employment (finding)
+  2021-10-19 - 2024-01-09 : Medication review due (situation)
+  2019-10-15 - 2019-10-29 : Gingivitis (disorder)
+  2019-10-15 - 2021-10-19 : Not in labor force (finding)
+  2019-08-10 - 2019-08-22 : Acute viral pharyngitis (disorder)
+  2019-03-12 - 2019-04-06 : Viral sinusitis (disorder)
+  2019-03-05 - 2019-10-15 : Reports of violence in the environment (finding)
+  2017-10-10 - 2019-03-05 : Victim of intimate partner abuse (finding)
+  2017-10-10 - 2019-10-15 : Medication review due (situation)
+  2014-12-23 - 2019-10-15 : Full-time employment (finding)
+  2014-01-30 -            : Chronic neck pain (finding)
+  2014-01-30 -            : Chronic low back pain (finding)
+  2014-01-30 -            : Chronic pain (finding)
+  2011-12-20 - 2019-10-15 : Stress (finding)
+  2011-12-20 - 2025-01-14 : Social isolation (finding)
+  2011-12-20 -            : Body mass index 30+ - obesity (finding)
+  2002-12-10 -            : Lack of access to transportation (finding)
+  1999-12-07 -            : Limited social contact (finding)
+  1999-10-17 -            : Chronic intractable migraine without aura (disorder)
+  1995-11-28 -            : Transport problem (finding)
+  1995-11-28 -            : Received higher education (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2024-03-27[STOPPED] : Wound care (regime/therapy)
+                         Reason: Facial laceration (disorder)
+                         Activity: Dressing change management (procedure)
+                         Activity: Behavior to prevent infection (observable entity)
+  2022-12-27[CURRENT] : Lifestyle education regarding hypertension (procedure)
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education (procedure)
+                         Activity: Counseling about alcohol consumption (procedure)
+                         Activity: Dietary Approaches to Stop Hypertension diet (regime/therapy)
+                         Activity: Smoking cessation education (procedure)
+  2022-12-17[STOPPED] : Respiratory therapy (procedure)
+                         Activity: Recommendation to avoid exercise (procedure)
+                         Activity: Deep breathing and coughing exercises (regime/therapy)
+--------------------------------------------------------------------------------
+REPORTS:
+  2025-01-14 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+  2025-01-14 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2025-01-14 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2024-01-09 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2024-01-09 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2024-01-09 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2022-12-27 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2022-12-27 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.7 %
+           - MCV [Entitic volume] by Automated count  88.0 fL
+           - MCH [Entitic mass] by Automated count    27.4 pg
+           - MCHC [Mass/volume] by Automated count    36.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.6 fL
+           - Platelets [#/volume] in Blood by Automated count 329.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 251.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2022-12-27 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 168.5 mg/dL
+           - Triglycerides                            124.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      89.8 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 53.8 mg/dL
+  2021-10-19 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+  2019-10-15 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    0.0 {score}
+  2019-10-15 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2019-10-15 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2019-03-05 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    0.0 {score}
+  2019-03-05 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2019-03-05 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2019-03-05 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2019-03-05 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 165.1 mg/dL
+           - Triglycerides                            136.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      82.9 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 54.9 mg/dL
+  2017-10-10 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    0.0 {score}
+  2017-10-10 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.5 %
+           - MCV [Entitic volume] by Automated count  84.4 fL
+           - MCH [Entitic mass] by Automated count    28.4 pg
+           - MCHC [Mass/volume] by Automated count    35.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.4 fL
+           - Platelets [#/volume] in Blood by Automated count 371.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 154.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2025-01-14 : Total score [AUDIT-C]                    2.0 {score}
+  2025-01-14 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2025-01-14 : Total score [HARK]                       0.0 {score}
+  2025-01-14 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Yes, it has kept me from non-medical meetings, appointments, work, or from getting things that I need 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 124948 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Part-time or temporary work 
+           - Highest level of education               More than high school 
+           - Address                                  432 Rutherford Way 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 3.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2025-01-14 : Tobacco smoking status                   Ex-smoker (finding) 
+  2025-01-14 : Respiratory rate                         13.0 /min
+  2025-01-14 : Heart rate                               64.0 /min
+  2025-01-14 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  2025-01-14 : Body mass index (BMI) [Ratio]            27.4 kg/m2
+  2025-01-14 : Body Weight                              85.7 kg
+  2025-01-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2025-01-14 : Body Height                              177.0 cm
+  2024-01-09 : Total score [DAST-10]                    1.0 {score}
+  2024-01-09 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2024-01-09 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2024-01-09 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Yes, it has kept me from non-medical meetings, appointments, work, or from getting things that I need 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 124948 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Unemployed 
+           - Highest level of education               More than high school 
+           - Address                                  432 Rutherford Way 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 3.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2024-01-09 : Tobacco smoking status                   Ex-smoker (finding) 
+  2024-01-09 : Respiratory rate                         13.0 /min
+  2024-01-09 : Heart rate                               78.0 /min
+  2024-01-09 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2024-01-09 : Body mass index (BMI) [Ratio]            27.4 kg/m2
+  2024-01-09 : Body Weight                              85.7 kg
+  2024-01-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2024-01-09 : Body Height                              177.0 cm
+  2023-05-26 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2023-03-27 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2023-01-26 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 92.0 mm[Hg]
+           - Systolic Blood Pressure                  139.0 mm[Hg]
+  2022-12-27 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2022-12-27 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Yes, it has kept me from non-medical meetings, appointments, work, or from getting things that I need 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 124948 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               More than high school 
+           - Address                                  432 Rutherford Way 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 3.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2022-12-27 : Tobacco smoking status                   Ex-smoker (finding) 
+  2022-12-27 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2022-12-27 : Platelet distribution width [Entitic volume] in Blood by Automated count 251.2 fL
+  2022-12-27 : Platelets [#/volume] in Blood by Automated count 329.5 10*3/uL
+  2022-12-27 : Erythrocyte distribution width [Entitic volume] by Automated count 39.6 fL
+  2022-12-27 : MCHC [Mass/volume] by Automated count    36.0 g/dL
+  2022-12-27 : MCH [Entitic mass] by Automated count    27.4 pg
+  2022-12-27 : MCV [Entitic volume] by Automated count  88.0 fL
+  2022-12-27 : Hematocrit [Volume Fraction] of Blood by Automated count 40.7 %
+  2022-12-27 : Hemoglobin [Mass/volume] in Blood        16.2 g/dL
+  2022-12-27 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2022-12-27 : Leukocytes [#/volume] in Blood by Automated count 6.9 10*3/uL
+  2022-12-27 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 53.8 mg/dL
+  2022-12-27 : Low Density Lipoprotein Cholesterol      89.8 mg/dL
+  2022-12-27 : Triglycerides                            124.3 mg/dL
+  2022-12-27 : Cholesterol [Mass/volume] in Serum or Plasma 168.5 mg/dL
+  2022-12-27 : Respiratory rate                         14.0 /min
+  2022-12-27 : Heart rate                               90.0 /min
+  2022-12-27 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 115.0 mm[Hg]
+           - Systolic Blood Pressure                  161.0 mm[Hg]
+  2022-12-27 : Body mass index (BMI) [Ratio]            27.4 kg/m2
+  2022-12-27 : Body Weight                              85.7 kg
+  2022-12-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2022-12-27 : Body Height                              177.0 cm
+  2021-10-19 : Total score [AUDIT-C]                    2.0 {score}
+  2021-10-19 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 124948 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Part-time or temporary work 
+           - Highest level of education               More than high school 
+           - Address                                  432 Rutherford Way 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 3.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2021-10-19 : Tobacco smoking status                   Ex-smoker (finding) 
+  2021-10-19 : Respiratory rate                         14.0 /min
+  2021-10-19 : Heart rate                               97.0 /min
+  2021-10-19 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 90.0 mm[Hg]
+           - Systolic Blood Pressure                  140.0 mm[Hg]
+  2021-10-19 : Body mass index (BMI) [Ratio]            27.4 kg/m2
+  2021-10-19 : Body Weight                              85.7 kg
+  2021-10-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2021-10-19 : Body Height                              177.0 cm
+  2019-10-15 : Total score [DAST-10]                    0.0 {score}
+  2019-10-15 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2019-10-15 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2019-10-15 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 124948 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Otherwise unemployed but not seeking work (ex: student, retired, disabled, unpaid primary care giver) 
+           - Highest level of education               More than high school 
+           - Address                                  432 Rutherford Way 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 3.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2019-10-15 : Tobacco smoking status                   Ex-smoker (finding) 
+  2019-10-15 : Respiratory rate                         15.0 /min
+  2019-10-15 : Heart rate                               76.0 /min
+  2019-10-15 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 92.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2019-10-15 : Body mass index (BMI) [Ratio]            30.1 kg/m2
+  2019-10-15 : Body Weight                              94.3 kg
+  2019-10-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2019-10-15 : Body Height                              177.0 cm
+  2019-08-10 : Body temperature                         38.0 Cel
+  2019-03-05 : Total score [DAST-10]                    0.0 {score}
+  2019-03-05 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2019-03-05 : Total score [HARK]                       0.0 {score}
+  2019-03-05 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2019-03-05 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? No 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Medicine or Any Health Care (Medical, Dental, Mental Health, Vision) 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 124948 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               More than high school 
+           - Address                                  432 Rutherford Way 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 3.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2019-03-05 : Tobacco smoking status                   Ex-smoker (finding) 
+  2019-03-05 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 54.9 mg/dL
+  2019-03-05 : Low Density Lipoprotein Cholesterol      82.9 mg/dL
+  2019-03-05 : Triglycerides                            136.5 mg/dL
+  2019-03-05 : Cholesterol [Mass/volume] in Serum or Plasma 165.1 mg/dL
+  2019-03-05 : Respiratory rate                         15.0 /min
+  2019-03-05 : Heart rate                               74.0 /min
+  2019-03-05 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 90.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2019-03-05 : Body mass index (BMI) [Ratio]            29.7 kg/m2
+  2019-03-05 : Body Weight                              93.1 kg
+  2019-03-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2019-03-05 : Body Height                              177.0 cm
+  2017-10-10 : Total score [AUDIT-C]                    0.0 {score}
+  2017-10-10 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? Yes 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Yes, it has kept me from non-medical meetings, appointments, work, or from getting things that I need 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 124948 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               More than high school 
+           - Address                                  432 Rutherford Way 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 3.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2017-10-10 : Tobacco smoking status                   Ex-smoker (finding) 
+  2017-10-10 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2017-10-10 : Platelet distribution width [Entitic volume] in Blood by Automated count 154.6 fL
+  2017-10-10 : Platelets [#/volume] in Blood by Automated count 371.1 10*3/uL
+  2017-10-10 : Erythrocyte distribution width [Entitic volume] by Automated count 45.4 fL
+  2017-10-10 : MCHC [Mass/volume] by Automated count    35.3 g/dL
+  2017-10-10 : MCH [Entitic mass] by Automated count    28.4 pg
+  2017-10-10 : MCV [Entitic volume] by Automated count  84.4 fL
+  2017-10-10 : Hematocrit [Volume Fraction] of Blood by Automated count 45.5 %
+  2017-10-10 : Hemoglobin [Mass/volume] in Blood        13.8 g/dL
+  2017-10-10 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2017-10-10 : Leukocytes [#/volume] in Blood by Automated count 8.1 10*3/uL
+  2017-10-10 : Respiratory rate                         13.0 /min
+  2017-10-10 : Heart rate                               84.0 /min
+  2017-10-10 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 92.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2017-10-10 : Body mass index (BMI) [Ratio]            28.9 kg/m2
+  2017-10-10 : Body Weight                              90.4 kg
+  2017-10-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2017-10-10 : Body Height                              177.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2025-01-14 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2025-01-14 : Assessment of substance use (procedure)
+  2025-01-14 : Depression screening (procedure)
+  2025-01-14 : Depression screening (procedure)
+  2025-01-14 : Screening for domestic abuse (procedure)
+  2025-01-14 : Assessment of health and social care needs (procedure)
+  2024-03-27 : Suture open wound (procedure) for Facial laceration (disorder)
+  2024-01-09 : Screening for drug abuse (procedure)
+  2024-01-09 : Assessment of substance use (procedure)
+  2024-01-09 : Depression screening (procedure)
+  2024-01-09 : Depression screening (procedure)
+  2024-01-09 : Assessment of anxiety (procedure)
+  2024-01-09 : Assessment of health and social care needs (procedure)
+  2024-01-09 : Medication reconciliation (procedure)
+  2023-01-10 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2023-01-10 : Dental fluoride treatment (procedure) for Patient referral for dental care (procedure)
+  2023-01-10 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2023-01-10 : Dental plain X-ray bitewing (procedure)
+  2023-01-10 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2023-01-10 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2023-01-10 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2023-01-10 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2022-12-27 : Patient referral for dental care (procedure)
+  2022-12-27 : Depression screening (procedure)
+  2022-12-27 : Depression screening (procedure)
+  2022-12-27 : Assessment of health and social care needs (procedure)
+  2022-12-17 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2021-11-02 : Oral health education (procedure) for Gingivitis (disorder)
+  2021-11-02 : Examination of gingivae (procedure) for Gingivitis (disorder)
+  2021-11-02 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2021-11-02 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2021-11-02 : Dental care (regime/therapy) for Gingivitis (disorder)
+  2021-11-02 : Dental consultation and report (procedure) for Gingivitis (disorder)
+  2021-10-19 : Patient referral for dental care (procedure) for Gingivitis (disorder)
+  2021-10-19 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2021-10-19 : Assessment of substance use (procedure)
+  2021-10-19 : Assessment of health and social care needs (procedure)
+  2019-10-30 : Oral health education (procedure) for Gingivitis (disorder)
+  2019-10-29 : Dental fluoride treatment (procedure) for Gingivitis (disorder)
+  2019-10-29 : Examination of gingivae (procedure) for Gingivitis (disorder)
+  2019-10-29 : Dental plain X-ray bitewing (procedure)
+  2019-10-29 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2019-10-29 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2019-10-29 : Dental care (regime/therapy) for Gingivitis (disorder)
+  2019-10-29 : Dental consultation and report (procedure) for Gingivitis (disorder)
+  2019-10-15 : Patient referral for dental care (procedure) for Gingivitis (disorder)
+  2019-10-15 : Screening for drug abuse (procedure)
+  2019-10-15 : Assessment of substance use (procedure)
+  2019-10-15 : Depression screening (procedure)
+  2019-10-15 : Depression screening (procedure)
+  2019-10-15 : Assessment of anxiety (procedure)
+  2019-10-15 : Assessment of health and social care needs (procedure)
+  2019-10-15 : Medication reconciliation (procedure)
+  2019-03-05 : Screening for drug abuse (procedure)
+  2019-03-05 : Assessment of substance use (procedure)
+  2019-03-05 : Depression screening (procedure)
+  2019-03-05 : Depression screening (procedure)
+  2019-03-05 : Screening for domestic abuse (procedure)
+  2019-03-05 : Assessment of anxiety (procedure)
+  2019-03-05 : Assessment of health and social care needs (procedure)
+  2017-10-10 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2017-10-10 : Assessment of substance use (procedure)
+  2017-10-10 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2025-01-14 : Influenza, seasonal, injectable, preservative free
+  2024-01-09 : Influenza, seasonal, injectable, preservative free
+  2023-01-03 : Influenza, seasonal, injectable, preservative free
+  2022-12-27 : Influenza, seasonal, injectable, preservative free
+  2021-10-19 : Influenza, seasonal, injectable, preservative free
+  2021-04-20 : COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+  2021-03-30 : COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+  2019-10-15 : Influenza, seasonal, injectable, preservative free
+  2019-03-05 : Hep A, adult
+  2019-03-05 : Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+  2019-03-05 : Influenza, seasonal, injectable, preservative free
+  2017-10-10 : Hep A, adult
+  2017-10-10 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2025-08-12 (Dr. Lola Collado) : Encounter at BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC. : Encounter for Viral sinusitis (disorder)
+2025-01-14 (Dr. Sandie Rodriguez) : Encounter at CLASSIC HEALTHCARE MEDICAL GROUP LLC
+2024-03-27 (Dr. Salvador Serna) : Encounter at BRIARWOOD REHABILITATION & HEALTHCARE CENTER : Encounter for Laceration - injury (disorder)
+2024-01-09 (Dr. Sandie Rodriguez) : Encounter at CLASSIC HEALTHCARE MEDICAL GROUP LLC
+2023-05-26 (Dr. Lola Collado) : Encounter at BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC. : Encounter for Essential hypertension (disorder)
+2023-03-27 (Dr. Lola Collado) : Encounter at BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC. : Encounter for Essential hypertension (disorder)
+2023-01-26 (Dr. Lola Collado) : Encounter at BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC. : Encounter for Essential hypertension (disorder)
+2023-01-10 (Dr. Lola Collado) : Encounter at BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC. : Encounter for Patient referral for dental care (procedure)
+2023-01-03 (Dr. Sandie Rodriguez) : Encounter at CLASSIC HEALTHCARE MEDICAL GROUP LLC
+2022-12-27 (Dr. Sasha Schamberger) : Encounter at URGENT CARE MEDICAL ASSOCIATES, LLC
+2022-12-17 (Dr. Lola Collado) : Encounter at BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC. : Encounter for Acute bronchitis (disorder)
+2021-11-02 (Dr. Lola Collado) : Encounter at BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC. : Encounter for Gingivitis (disorder)
+2021-10-19 (Dr. Sandie Rodriguez) : Encounter at CLASSIC HEALTHCARE MEDICAL GROUP LLC
+2021-04-20 (Dr. Lola Collado) : Encounter at BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+2021-03-30 (Dr. Lola Collado) : Encounter at BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+2019-10-29 (Dr. Lola Collado) : Encounter at BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC. : Encounter for Gingivitis (disorder)
+2019-10-15 (Dr. Sandie Rodriguez) : Encounter at CLASSIC HEALTHCARE MEDICAL GROUP LLC
+2019-08-10 (Dr. Lola Collado) : Encounter at BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC. : Encounter for Acute viral pharyngitis (disorder)
+2019-03-12 (Dr. Lola Collado) : Encounter at BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC. : Encounter for Viral sinusitis (disorder)
+2019-03-05 (Dr. Lola Collado) : Encounter at BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+2017-10-10 (Dr. Sandie Rodriguez) : Encounter at CLASSIC HEALTHCARE MEDICAL GROUP LLC
+2014-12-23 (Dr. Sandie Rodriguez) : Encounter at CLASSIC HEALTHCARE MEDICAL GROUP LLC
+2014-01-30 (Dr. Lola Collado) : Encounter at BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC. : Encounter for Chronic pain (finding)
+2011-12-20 (Dr. Sandie Rodriguez) : Encounter at CLASSIC HEALTHCARE MEDICAL GROUP LLC
+2002-12-10 (Dr. Sandie Rodriguez) : Encounter at CLASSIC HEALTHCARE MEDICAL GROUP LLC
+1999-12-07 (Dr. Sandie Rodriguez) : Encounter at CLASSIC HEALTHCARE MEDICAL GROUP LLC
+1999-10-17 (Dr. Salvador Serna) : Encounter at BRIARWOOD REHABILITATION & HEALTHCARE CENTER : Encounter for Chronic intractable migraine without aura (disorder)
+1995-11-28 (Dr. Sandie Rodriguez) : Encounter at CLASSIC HEALTHCARE MEDICAL GROUP LLC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2023-01-10 : Digital Radiography, Structure of region of internal part of mouth (body structure)
+  2019-10-29 : Digital Radiography, Structure of region of internal part of mouth (body structure)
+--------------------------------------------------------------------------------

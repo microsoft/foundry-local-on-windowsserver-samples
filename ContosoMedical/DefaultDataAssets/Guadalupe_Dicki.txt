@@ -1,0 +1,371 @@
+Guadalupe Dicki
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 12
+Birth Date:          2012-10-13
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-07-16[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Patient referral for dental care (procedure)
+  2022-06-25[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2021-10-03[STOPPED] : Acetaminophen 160 MG Chewable Tablet
+  2020-10-17[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Gingivitis (disorder)
+  2019-11-22[STOPPED] : Acetaminophen 160 MG Chewable Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2024-11-02 - 2024-11-16 : Gingivitis (disorder)
+  2024-11-02 -            : Risk activity involvement (finding)
+  2024-05-31 - 2024-06-12 : Acute viral pharyngitis (disorder)
+  2023-11-27 - 2023-12-20 : Viral sinusitis (disorder)
+  2022-10-22 - 2022-10-29 : Gingivitis (disorder)
+  2022-10-22 -            : Medication review due (situation)
+  2022-07-16 - 2022-07-16 : Gingival disease (disorder)
+  2022-07-09 - 2022-07-09 : Medication review due (situation)
+  2022-07-02 - 2022-07-02 : Medication review due (situation)
+  2022-06-24 - 2022-07-15 : Acute bronchitis (disorder)
+  2021-10-30 - 2021-10-30 : Primary dental caries (disorder)
+  2021-10-16 - 2021-10-30 : Gingivitis (disorder)
+  2021-10-03 - 2022-01-21 : Fracture of rib (disorder)
+  2021-10-03 - 2022-01-21 : Fracture of bone (disorder)
+  2021-07-01 - 2021-07-14 : Acute viral pharyngitis (disorder)
+  2020-10-10 - 2020-10-17 : Gingivitis (disorder)
+  2020-10-10 - 2021-10-16 : Medication review due (situation)
+  2020-05-12 - 2020-06-06 : Acute bacterial sinusitis (disorder)
+  2019-11-22 - 2019-12-18 : Laceration of foot (disorder)
+  2019-11-22 - 2019-12-18 : Laceration - injury (disorder)
+  2018-09-29 - 2019-10-05 : Medication review due (situation)
+  2017-09-23 - 2017-09-23 : Medication review due (situation)
+  2016-07-21 - 2016-08-23 : Concussion with no loss of consciousness (disorder)
+  2016-07-21 - 2016-08-23 : Concussion injury of brain (disorder)
+  2015-09-19 - 2016-09-17 : Medication review due (situation)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2022-06-25[STOPPED] : Respiratory therapy (procedure)
+                         Activity: Recommendation to avoid exercise (procedure)
+                         Activity: Deep breathing and coughing exercises (regime/therapy)
+  2021-10-03[STOPPED] : Fracture care (regime/therapy)
+                         Reason: Fracture of rib (disorder)
+                         Activity: Recommendation to rest (procedure)
+                         Activity: Physical activity target light exercise (finding)
+  2019-11-22[STOPPED] : Wound care (regime/therapy)
+                         Reason: Laceration of foot (disorder)
+                         Activity: Dressing change management (procedure)
+                         Activity: Behavior to prevent infection (observable entity)
+  2016-07-21[STOPPED] : Head injury rehabilitation (regime/therapy)
+                         Reason: Concussion with no loss of consciousness (disorder)
+                         Activity: Recommendation to rest (procedure)
+                         Activity: Alcohol-free diet (finding)
+--------------------------------------------------------------------------------
+REPORTS:
+  2024-11-02 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2023-10-28 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.7 %
+           - MCV [Entitic volume] by Automated count  84.2 fL
+           - MCH [Entitic mass] by Automated count    30.8 pg
+           - MCHC [Mass/volume] by Automated count    34.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.9 fL
+           - Platelets [#/volume] in Blood by Automated count 281.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 328.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.4 fL
+  2021-10-16 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       21.0 {#}
+           - Fall risk level [Morse Fall Scale]       Low Risk (MFS Score 0 - 24) 
+  2018-09-29 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.8 %
+           - MCV [Entitic volume] by Automated count  84.8 fL
+           - MCH [Entitic mass] by Automated count    29.6 pg
+           - MCHC [Mass/volume] by Automated count    35.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.7 fL
+           - Platelets [#/volume] in Blood by Automated count 440.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 411.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2024-11-02 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2024-11-02 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2024-11-02 : Respiratory rate                         13.0 /min
+  2024-11-02 : Heart rate                               95.0 /min
+  2024-11-02 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  136.0 mm[Hg]
+  2024-11-02 : Body mass index (BMI) [Percentile] Per age and sex 95.7 %
+  2024-11-02 : Body mass index (BMI) [Ratio]            25.8 kg/m2
+  2024-11-02 : Body Weight                              62.3 kg
+  2024-11-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2024-11-02 : Body Height                              155.5 cm
+  2024-05-31 : Body temperature                         37.8 Cel
+  2023-10-28 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-10-28 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.4 fL
+  2023-10-28 : Platelet distribution width [Entitic volume] in Blood by Automated count 328.0 fL
+  2023-10-28 : Platelets [#/volume] in Blood by Automated count 281.8 10*3/uL
+  2023-10-28 : Erythrocyte distribution width [Entitic volume] by Automated count 44.9 fL
+  2023-10-28 : MCHC [Mass/volume] by Automated count    34.4 g/dL
+  2023-10-28 : MCH [Entitic mass] by Automated count    30.8 pg
+  2023-10-28 : MCV [Entitic volume] by Automated count  84.2 fL
+  2023-10-28 : Hematocrit [Volume Fraction] of Blood by Automated count 43.7 %
+  2023-10-28 : Hemoglobin [Mass/volume] in Blood        15.3 g/dL
+  2023-10-28 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2023-10-28 : Leukocytes [#/volume] in Blood by Automated count 7.6 10*3/uL
+  2023-10-28 : Respiratory rate                         13.0 /min
+  2023-10-28 : Heart rate                               97.0 /min
+  2023-10-28 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  141.0 mm[Hg]
+  2023-10-28 : Body mass index (BMI) [Percentile] Per age and sex 94.1 %
+  2023-10-28 : Body mass index (BMI) [Ratio]            23.6 kg/m2
+  2023-10-28 : Body Weight                              51.9 kg
+  2023-10-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2023-10-28 : Body Height                              148.3 cm
+  2022-10-22 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-10-22 : Respiratory rate                         15.0 /min
+  2022-10-22 : Heart rate                               76.0 /min
+  2022-10-22 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  142.0 mm[Hg]
+  2022-10-22 : Body mass index (BMI) [Percentile] Per age and sex 92.5 %
+  2022-10-22 : Body mass index (BMI) [Ratio]            21.8 kg/m2
+  2022-10-22 : Body Weight                              44.0 kg
+  2022-10-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2022-10-22 : Body Height                              142.0 cm
+  2022-07-02 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-07-02 : Respiratory rate                         15.0 /min
+  2022-07-02 : Heart rate                               65.0 /min
+  2022-07-02 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  139.0 mm[Hg]
+  2022-07-02 : Body mass index (BMI) [Percentile] Per age and sex 91.1 %
+  2022-07-02 : Body mass index (BMI) [Ratio]            21.0 kg/m2
+  2022-07-02 : Body Weight                              41.2 kg
+  2022-07-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2022-07-02 : Body Height                              140.1 cm
+  2021-10-16 : Fall risk level [Morse Fall Scale]       Low Risk (MFS Score 0 - 24) 
+  2021-10-16 : Fall risk total [Morse Fall Scale]       21.0 {#}
+  2021-10-16 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-10-16 : Respiratory rate                         12.0 /min
+  2021-10-16 : Heart rate                               70.0 /min
+  2021-10-16 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2021-10-16 : Body mass index (BMI) [Percentile] Per age and sex 89.8 %
+  2021-10-16 : Body mass index (BMI) [Ratio]            20.0 kg/m2
+  2021-10-16 : Body Weight                              37.3 kg
+  2021-10-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2021-10-16 : Body Height                              136.6 cm
+  2021-07-01 : Body temperature                         37.5 Cel
+  2020-10-10 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-10-10 : Respiratory rate                         13.0 /min
+  2020-10-10 : Heart rate                               71.0 /min
+  2020-10-10 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  135.0 mm[Hg]
+  2020-10-10 : Body mass index (BMI) [Percentile] Per age and sex 89.7 %
+  2020-10-10 : Body mass index (BMI) [Ratio]            19.0 kg/m2
+  2020-10-10 : Body Weight                              32.4 kg
+  2020-10-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2020-10-10 : Body Height                              130.6 cm
+  2019-10-05 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-10-05 : Respiratory rate                         16.0 /min
+  2019-10-05 : Heart rate                               65.0 /min
+  2019-10-05 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2019-10-05 : Body mass index (BMI) [Percentile] Per age and sex 85.3 %
+  2019-10-05 : Body mass index (BMI) [Ratio]            17.6 kg/m2
+  2019-10-05 : Body Weight                              27.2 kg
+  2019-10-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2019-10-05 : Body Height                              124.3 cm
+  2018-09-29 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2018-09-29 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2018-09-29 : Platelet distribution width [Entitic volume] in Blood by Automated count 411.6 fL
+  2018-09-29 : Platelets [#/volume] in Blood by Automated count 440.9 10*3/uL
+  2018-09-29 : Erythrocyte distribution width [Entitic volume] by Automated count 43.7 fL
+  2018-09-29 : MCHC [Mass/volume] by Automated count    35.7 g/dL
+  2018-09-29 : MCH [Entitic mass] by Automated count    29.6 pg
+  2018-09-29 : MCV [Entitic volume] by Automated count  84.8 fL
+  2018-09-29 : Hematocrit [Volume Fraction] of Blood by Automated count 44.8 %
+  2018-09-29 : Hemoglobin [Mass/volume] in Blood        13.1 g/dL
+  2018-09-29 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2018-09-29 : Leukocytes [#/volume] in Blood by Automated count 5.0 10*3/uL
+  2018-09-29 : Respiratory rate                         16.0 /min
+  2018-09-29 : Heart rate                               66.0 /min
+  2018-09-29 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  137.0 mm[Hg]
+  2018-09-29 : Body mass index (BMI) [Percentile] Per age and sex 78.3 %
+  2018-09-29 : Body mass index (BMI) [Ratio]            16.5 kg/m2
+  2018-09-29 : Body Weight                              22.7 kg
+  2018-09-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-09-29 : Body Height                              117.3 cm
+  2017-09-23 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2017-09-23 : Respiratory rate                         13.0 /min
+  2017-09-23 : Heart rate                               83.0 /min
+  2017-09-23 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2017-09-23 : Body mass index (BMI) [Percentile] Per age and sex 81.4 %
+  2017-09-23 : Body mass index (BMI) [Ratio]            16.5 kg/m2
+  2017-09-23 : Body Weight                              20.0 kg
+  2017-09-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2017-09-23 : Body Height                              110.0 cm
+  2016-09-17 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2016-09-17 : Respiratory rate                         15.0 /min
+  2016-09-17 : Heart rate                               99.0 /min
+  2016-09-17 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  135.0 mm[Hg]
+  2016-09-17 : Body mass index (BMI) [Percentile] Per age and sex 91.4 %
+  2016-09-17 : Body mass index (BMI) [Ratio]            17.4 kg/m2
+  2016-09-17 : Head Occipital-frontal circumference     49.6 cm
+  2016-09-17 : Head Occipital-frontal circumference Percentile 73.6 %
+  2016-09-17 : Weight-for-length Per age and sex        93.4 %
+  2016-09-17 : Body Weight                              18.5 kg
+  2016-09-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2016-09-17 : Body Height                              102.9 cm
+  2016-03-19 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2016-03-19 : Respiratory rate                         14.0 /min
+  2016-03-19 : Heart rate                               98.0 /min
+  2016-03-19 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  138.0 mm[Hg]
+  2016-03-19 : Body mass index (BMI) [Percentile] Per age and sex 93.9 %
+  2016-03-19 : Body mass index (BMI) [Ratio]            17.9 kg/m2
+  2016-03-19 : Head Occipital-frontal circumference     49.6 cm
+  2016-03-19 : Head Occipital-frontal circumference Percentile 73.6 %
+  2016-03-19 : Weight-for-length Per age and sex        93.4 %
+  2016-03-19 : Body Weight                              17.7 kg
+  2016-03-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2016-03-19 : Body Height                              99.4 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2024-11-16 : Oral health education (procedure) for Gingivitis (disorder)
+  2024-11-16 : Examination of gingivae (procedure) for Gingivitis (disorder)
+  2024-11-16 : Dental plain X-ray bitewing (procedure)
+  2024-11-16 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2024-11-16 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2024-11-16 : Dental care (regime/therapy) for Gingivitis (disorder)
+  2024-11-16 : Dental consultation and report (procedure) for Gingivitis (disorder)
+  2024-11-02 : Patient referral for dental care (procedure) for Gingivitis (disorder)
+  2024-11-02 : Health risks education (procedure) for Risk activity involvement (finding)
+  2024-11-02 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2024-11-02 : Assessment of substance use (procedure)
+  2024-11-02 : Assessment of anxiety (procedure)
+  2024-05-31 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2022-10-29 : Oral health education (procedure) for Gingivitis (disorder)
+  2022-10-29 : Examination of gingivae (procedure) for Gingivitis (disorder)
+  2022-10-29 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2022-10-29 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2022-10-29 : Dental care (regime/therapy) for Gingivitis (disorder)
+  2022-10-29 : Dental consultation and report (procedure) for Gingivitis (disorder)
+  2022-10-22 : Patient referral for dental care (procedure) for Gingivitis (disorder)
+  2022-07-16 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2022-07-16 : Dental fluoride treatment (procedure) for Patient referral for dental care (procedure)
+  2022-07-16 : Postoperative care for dental procedure (regime/therapy)
+  2022-07-16 : Gingivectomy or gingivoplasty, per tooth (procedure) for Gingival disease (disorder)
+  2022-07-16 : Dental application of desensitizing medicament (procedure) for Gingival disease (disorder)
+  2022-07-16 : Dental surgical procedure (procedure) for Gingival disease (disorder)
+  2022-07-16 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2022-07-16 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2022-07-16 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2022-07-16 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2022-07-16 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2022-07-09 : Medication reconciliation (procedure)
+  2022-07-02 : Patient referral for dental care (procedure)
+  2022-07-02 : Medication reconciliation (procedure)
+  2022-06-24 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2021-10-30 : Oral health education (procedure) for Gingivitis (disorder)
+  2021-10-30 : Restoration of tooth with coverage of all cusps using dental filling material (procedure) for Primary dental caries (disorder)
+  2021-10-30 : Examination of gingivae (procedure) for Gingivitis (disorder)
+  2021-10-30 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2021-10-30 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2021-10-30 : Dental care (regime/therapy) for Gingivitis (disorder)
+  2021-10-30 : Dental consultation and report (procedure) for Gingivitis (disorder)
+  2021-10-16 : Patient referral for dental care (procedure) for Gingivitis (disorder)
+  2021-10-16 : Assessment using Morse Fall Scale (procedure)
+  2021-10-16 : Medication reconciliation (procedure)
+  2021-10-03 : Bone immobilization (procedure) for Fracture of rib (disorder)
+  2021-10-03 : Plain X-ray of chest (procedure)
+  2021-07-01 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2020-10-17 : Oral health education (procedure) for Gingivitis (disorder)
+  2020-10-17 : Dental fluoride treatment (procedure) for Gingivitis (disorder)
+  2020-10-17 : Examination of gingivae (procedure) for Gingivitis (disorder)
+  2020-10-17 : Dental plain X-ray bitewing (procedure)
+  2020-10-17 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2020-10-17 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2020-10-17 : Dental care (regime/therapy) for Gingivitis (disorder)
+  2020-10-17 : Dental consultation and report (procedure) for Gingivitis (disorder)
+  2020-10-10 : Patient referral for dental care (procedure) for Gingivitis (disorder)
+  2019-11-22 : Suture open wound (procedure) for Laceration of foot (disorder)
+  2019-10-05 : Medication reconciliation (procedure)
+  2017-09-23 : Medication reconciliation (procedure)
+  2016-09-17 : Medication reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2024-11-16 : COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+  2024-11-02 : HPV, quadrivalent
+  2024-11-02 : Influenza, seasonal, injectable, preservative free
+  2024-10-26 : COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+  2023-10-28 : meningococcal MCV4P
+  2023-10-28 : HPV, quadrivalent
+  2023-10-28 : Influenza, seasonal, injectable, preservative free
+  2023-10-28 : Tdap
+  2022-07-02 : Influenza, seasonal, injectable, preservative free
+  2021-10-16 : Influenza, seasonal, injectable, preservative free
+  2020-10-10 : Influenza, seasonal, injectable, preservative free
+  2019-10-05 : Influenza, seasonal, injectable, preservative free
+  2018-09-29 : Influenza, seasonal, injectable, preservative free
+  2017-09-23 : MMR
+  2017-09-23 : DTaP
+  2017-09-23 : Influenza, seasonal, injectable, preservative free
+  2017-09-23 : IPV
+  2017-09-23 : varicella
+  2016-09-17 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2024-11-16 (Dr. Damaris Funk) : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Gingivitis (disorder)
+2024-11-16 (Dr. Damaris Funk) : Encounter at BROCKTON HOSPITAL, INC.
+2024-11-02 (Dr. Victoria Roob) : Encounter at DILIGENCEHEALTHCARE
+2024-10-26 (Dr. Damaris Funk) : Encounter at BROCKTON HOSPITAL, INC.
+2024-05-31 (Dr. Damaris Funk) : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Acute viral pharyngitis (disorder)
+2023-11-27 (Dr. Damaris Funk) : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Viral sinusitis (disorder)
+2023-10-28 (Dr. Victoria Roob) : Encounter at DILIGENCEHEALTHCARE
+2022-10-29 (Dr. Damaris Funk) : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Gingivitis (disorder)
+2022-10-22 (Dr. Victoria Roob) : Encounter at DILIGENCEHEALTHCARE
+2022-07-16 (Dr. Damaris Funk) : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Patient referral for dental care (procedure)
+2022-07-09 (Dr. Damaris Funk) : Encounter at BROCKTON HOSPITAL, INC.
+2022-07-02 (Dr. Courtney Kihn) : Encounter at CARECENTRAL URGENT CARE MEDICAL GROUP PC
+2022-06-24 (Dr. Damaris Funk) : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Acute bronchitis (disorder)
+2022-01-21 (Dr. Damaris Funk) : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Fracture of rib (disorder)
+2021-10-30 (Dr. Damaris Funk) : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Gingivitis (disorder)
+2021-10-16 (Dr. Victoria Roob) : Encounter at DILIGENCEHEALTHCARE
+2021-10-03 (Dr. Hugo Gutmann) : Encounter at ST JOSEPH MANOR HEALTH CARE INC : Encounter for Fracture of bone (disorder)
+2021-07-01 (Dr. Damaris Funk) : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Acute viral pharyngitis (disorder)
+2020-10-17 (Dr. Damaris Funk) : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Gingivitis (disorder)
+2020-10-10 (Dr. Victoria Roob) : Encounter at DILIGENCEHEALTHCARE
+2020-05-12 (Dr. Damaris Funk) : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Acute bacterial sinusitis (disorder)
+2019-11-22 (Dr. Hugo Gutmann) : Encounter at ST JOSEPH MANOR HEALTH CARE INC : Encounter for Laceration - injury (disorder)
+2019-10-05 (Dr. Victoria Roob) : Encounter at DILIGENCEHEALTHCARE
+2018-09-29 (Dr. Victoria Roob) : Encounter at DILIGENCEHEALTHCARE
+2017-09-23 (Dr. Victoria Roob) : Encounter at DILIGENCEHEALTHCARE
+2016-09-17 (Dr. Victoria Roob) : Encounter at DILIGENCEHEALTHCARE
+2016-08-23 (Dr. Damaris Funk) : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Concussion with no loss of consciousness (disorder)
+2016-07-21 (Dr. Hugo Gutmann) : Encounter at ST JOSEPH MANOR HEALTH CARE INC : Encounter for Concussion injury of brain (disorder)
+2016-03-19 (Dr. Victoria Roob) : Encounter at DILIGENCEHEALTHCARE
+2015-09-19 (Dr. Victoria Roob) : Encounter at DILIGENCEHEALTHCARE
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2024-11-16 : Digital Radiography, Structure of region of internal part of mouth (body structure)
+  2021-10-03 : Digital Radiography, Thoracic structure (body structure)
+  2020-10-17 : Digital Radiography, Structure of region of internal part of mouth (body structure)
+--------------------------------------------------------------------------------
