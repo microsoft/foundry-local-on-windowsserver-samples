@@ -1,0 +1,293 @@
+Letitia Luettgen
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 12
+Birth Date:          2013-01-29
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2025-07-17[CURRENT] : Acetaminophen 325 MG Oral Tablet
+  2020-01-29[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Patient referral for dental care (procedure)
+  2018-09-13[STOPPED] : Acetaminophen 160 MG Chewable Tablet
+  2018-09-13[STOPPED] : Amoxicillin 500 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2025-07-17 -            : Fracture of ankle (disorder)
+  2025-07-17 -            : Fracture of bone (disorder)
+  2025-02-18 -            : Risk activity involvement (finding)
+  2025-02-18 - 2025-02-18 : Medication review due (situation)
+  2021-10-22 - 2021-11-13 : Viral sinusitis (disorder)
+  2020-01-28 - 2020-01-29 : Primary dental caries (disorder)
+  2018-09-13 - 2019-01-15 : Otitis media (disorder)
+  2018-01-09 - 2024-02-13 : Medication review due (situation)
+  2017-01-03 - 2017-01-03 : Medication review due (situation)
+  2016-01-05 - 2016-07-05 : Medication review due (situation)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2025-07-17[CURRENT] : Fracture care (regime/therapy)
+                         Reason: Fracture of ankle (disorder)
+                         Activity: Recommendation to rest (procedure)
+                         Activity: Physical activity target light exercise (finding)
+--------------------------------------------------------------------------------
+REPORTS:
+  2025-02-18 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+  2024-02-13 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.9 %
+           - MCV [Entitic volume] by Automated count  92.1 fL
+           - MCH [Entitic mass] by Automated count    31.6 pg
+           - MCHC [Mass/volume] by Automated count    35.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.6 fL
+           - Platelets [#/volume] in Blood by Automated count 301.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 267.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+  2019-01-15 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.6 %
+           - MCV [Entitic volume] by Automated count  82.6 fL
+           - MCH [Entitic mass] by Automated count    28.5 pg
+           - MCHC [Mass/volume] by Automated count    35.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.3 fL
+           - Platelets [#/volume] in Blood by Automated count 153.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 294.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2025-02-18 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+  2025-02-18 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2025-02-18 : Respiratory rate                         15.0 /min
+  2025-02-18 : Heart rate                               81.0 /min
+  2025-02-18 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  2025-02-18 : Body mass index (BMI) [Percentile] Per age and sex 90.5 %
+  2025-02-18 : Body mass index (BMI) [Ratio]            23.1 kg/m2
+  2025-02-18 : Body Weight                              53.6 kg
+  2025-02-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2025-02-18 : Body Height                              152.2 cm
+  2024-02-13 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2024-02-13 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+  2024-02-13 : Platelet distribution width [Entitic volume] in Blood by Automated count 267.3 fL
+  2024-02-13 : Platelets [#/volume] in Blood by Automated count 301.3 10*3/uL
+  2024-02-13 : Erythrocyte distribution width [Entitic volume] by Automated count 41.6 fL
+  2024-02-13 : MCHC [Mass/volume] by Automated count    35.6 g/dL
+  2024-02-13 : MCH [Entitic mass] by Automated count    31.6 pg
+  2024-02-13 : MCV [Entitic volume] by Automated count  92.1 fL
+  2024-02-13 : Hematocrit [Volume Fraction] of Blood by Automated count 39.9 %
+  2024-02-13 : Hemoglobin [Mass/volume] in Blood        13.1 g/dL
+  2024-02-13 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2024-02-13 : Leukocytes [#/volume] in Blood by Automated count 9.6 10*3/uL
+  2024-02-13 : Respiratory rate                         15.0 /min
+  2024-02-13 : Heart rate                               98.0 /min
+  2024-02-13 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  2024-02-13 : Body mass index (BMI) [Percentile] Per age and sex 81.6 %
+  2024-02-13 : Body mass index (BMI) [Ratio]            20.3 kg/m2
+  2024-02-13 : Body Weight                              42.7 kg
+  2024-02-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2024-02-13 : Body Height                              145.0 cm
+  2023-02-07 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-02-07 : Respiratory rate                         15.0 /min
+  2023-02-07 : Heart rate                               68.0 /min
+  2023-02-07 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  2023-02-07 : Body mass index (BMI) [Percentile] Per age and sex 70.7 %
+  2023-02-07 : Body mass index (BMI) [Ratio]            18.3 kg/m2
+  2023-02-07 : Body Weight                              35.3 kg
+  2023-02-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2023-02-07 : Body Height                              138.9 cm
+  2022-02-01 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-02-01 : Respiratory rate                         13.0 /min
+  2022-02-01 : Heart rate                               67.0 /min
+  2022-02-01 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2022-02-01 : Body mass index (BMI) [Percentile] Per age and sex 82.5 %
+  2022-02-01 : Body mass index (BMI) [Ratio]            18.8 kg/m2
+  2022-02-01 : Body Weight                              33.6 kg
+  2022-02-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2022-02-01 : Body Height                              133.8 cm
+  2021-01-26 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-01-26 : Respiratory rate                         14.0 /min
+  2021-01-26 : Heart rate                               88.0 /min
+  2021-01-26 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2021-01-26 : Body mass index (BMI) [Percentile] Per age and sex 86.6 %
+  2021-01-26 : Body mass index (BMI) [Ratio]            18.5 kg/m2
+  2021-01-26 : Body Weight                              30.2 kg
+  2021-01-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-01-26 : Body Height                              127.9 cm
+  2020-01-21 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-01-21 : Respiratory rate                         15.0 /min
+  2020-01-21 : Heart rate                               76.0 /min
+  2020-01-21 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2020-01-21 : Body mass index (BMI) [Percentile] Per age and sex 79.3 %
+  2020-01-21 : Body mass index (BMI) [Ratio]            17.0 kg/m2
+  2020-01-21 : Body Weight                              25.2 kg
+  2020-01-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2020-01-21 : Body Height                              121.8 cm
+  2019-01-15 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-01-15 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2019-01-15 : Platelet distribution width [Entitic volume] in Blood by Automated count 294.8 fL
+  2019-01-15 : Platelets [#/volume] in Blood by Automated count 153.8 10*3/uL
+  2019-01-15 : Erythrocyte distribution width [Entitic volume] by Automated count 43.3 fL
+  2019-01-15 : MCHC [Mass/volume] by Automated count    35.5 g/dL
+  2019-01-15 : MCH [Entitic mass] by Automated count    28.5 pg
+  2019-01-15 : MCV [Entitic volume] by Automated count  82.6 fL
+  2019-01-15 : Hematocrit [Volume Fraction] of Blood by Automated count 46.6 %
+  2019-01-15 : Hemoglobin [Mass/volume] in Blood        12.2 g/dL
+  2019-01-15 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  2019-01-15 : Leukocytes [#/volume] in Blood by Automated count 5.3 10*3/uL
+  2019-01-15 : Respiratory rate                         15.0 /min
+  2019-01-15 : Heart rate                               73.0 /min
+  2019-01-15 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  2019-01-15 : Body mass index (BMI) [Percentile] Per age and sex 69.9 %
+  2019-01-15 : Body mass index (BMI) [Ratio]            16.0 kg/m2
+  2019-01-15 : Body Weight                              21.2 kg
+  2019-01-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2019-01-15 : Body Height                              114.9 cm
+  2018-01-09 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2018-01-09 : Respiratory rate                         13.0 /min
+  2018-01-09 : Heart rate                               67.0 /min
+  2018-01-09 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  2018-01-09 : Body mass index (BMI) [Percentile] Per age and sex 84.1 %
+  2018-01-09 : Body mass index (BMI) [Ratio]            16.7 kg/m2
+  2018-01-09 : Body Weight                              19.4 kg
+  2018-01-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2018-01-09 : Body Height                              107.8 cm
+  2017-01-03 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2017-01-03 : Respiratory rate                         14.0 /min
+  2017-01-03 : Heart rate                               70.0 /min
+  2017-01-03 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2017-01-03 : Body mass index (BMI) [Percentile] Per age and sex 90.3 %
+  2017-01-03 : Body mass index (BMI) [Ratio]            17.3 kg/m2
+  2017-01-03 : Head Occipital-frontal circumference     48.9 cm
+  2017-01-03 : Head Occipital-frontal circumference Percentile 56.0 %
+  2017-01-03 : Weight-for-length Per age and sex        63.7 %
+  2017-01-03 : Body Weight                              17.6 kg
+  2017-01-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2017-01-03 : Body Height                              100.9 cm
+  2016-07-05 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2016-07-05 : Respiratory rate                         14.0 /min
+  2016-07-05 : Heart rate                               81.0 /min
+  2016-07-05 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2016-07-05 : Body mass index (BMI) [Percentile] Per age and sex 82.7 %
+  2016-07-05 : Body mass index (BMI) [Ratio]            16.8 kg/m2
+  2016-07-05 : Head Occipital-frontal circumference     48.9 cm
+  2016-07-05 : Head Occipital-frontal circumference Percentile 56.0 %
+  2016-07-05 : Weight-for-length Per age and sex        63.7 %
+  2016-07-05 : Body Weight                              16.0 kg
+  2016-07-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2016-07-05 : Body Height                              97.5 cm
+  2016-01-05 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2016-01-05 : Respiratory rate                         13.0 /min
+  2016-01-05 : Heart rate                               95.0 /min
+  2016-01-05 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2016-01-05 : Body mass index (BMI) [Percentile] Per age and sex 58.2 %
+  2016-01-05 : Body mass index (BMI) [Ratio]            16.0 kg/m2
+  2016-01-05 : Head Occipital-frontal circumference     48.8 cm
+  2016-01-05 : Head Occipital-frontal circumference Percentile 56.0 %
+  2016-01-05 : Weight-for-length Per age and sex        62.2 %
+  2016-01-05 : Body Weight                              14.2 kg
+  2016-01-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2016-01-05 : Body Height                              94.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2025-07-17 : Bone immobilization (procedure) for Fracture of ankle (disorder)
+  2025-07-17 : Plain X-ray of ankle region (procedure)
+  2025-03-05 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2025-03-04 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2025-03-04 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2025-03-04 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2025-03-04 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2025-03-04 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2025-02-18 : Patient referral for dental care (procedure)
+  2025-02-18 : Health risks education (procedure) for Risk activity involvement (finding)
+  2025-02-18 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2025-02-18 : Assessment of substance use (procedure)
+  2025-02-18 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2025-02-18 : Depression screening (procedure)
+  2025-02-18 : Medication reconciliation (procedure)
+  2024-02-13 : Medication reconciliation (procedure)
+  2020-01-29 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2020-01-29 : Dental fluoride treatment (procedure) for Patient referral for dental care (procedure)
+  2020-01-28 : Restoration of tooth with coverage of all cusps using dental filling material (procedure) for Primary dental caries (disorder)
+  2020-01-28 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2020-01-28 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2020-01-28 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2020-01-28 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2020-01-28 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2020-01-21 : Patient referral for dental care (procedure)
+  2017-01-03 : Medication reconciliation (procedure)
+  2016-07-05 : Medication reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2025-03-04 : COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+  2025-02-18 : HPV, quadrivalent
+  2025-02-18 : Influenza, seasonal, injectable, preservative free
+  2025-02-11 : COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+  2024-02-13 : meningococcal MCV4P
+  2024-02-13 : HPV, quadrivalent
+  2024-02-13 : Influenza, seasonal, injectable, preservative free
+  2024-02-13 : Tdap
+  2023-02-07 : Influenza, seasonal, injectable, preservative free
+  2022-02-01 : Influenza, seasonal, injectable, preservative free
+  2021-01-26 : Influenza, seasonal, injectable, preservative free
+  2020-01-21 : Influenza, seasonal, injectable, preservative free
+  2019-01-15 : Influenza, seasonal, injectable, preservative free
+  2018-01-09 : MMR
+  2018-01-09 : DTaP
+  2018-01-09 : Influenza, seasonal, injectable, preservative free
+  2018-01-09 : IPV
+  2018-01-09 : varicella
+  2017-01-03 : Influenza, seasonal, injectable, preservative free
+  2016-01-05 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2025-07-17 (Dr. Del Nicolas) : Encounter at LIFE CARE CENTER OF THE NORTH SHORE : Encounter for Fracture of bone (disorder)
+2025-03-04 (Dr. Trevor Walker) : Encounter at NORTH SHORE MEDICAL CENTER INC : Encounter for Patient referral for dental care (procedure)
+2025-03-04 (Dr. Trevor Walker) : Encounter at NORTH SHORE MEDICAL CENTER INC
+2025-02-18 (Dr. Daysi Reynolds) : Encounter at PIONEER MEDICAL CENTER
+2025-02-11 (Dr. Trevor Walker) : Encounter at NORTH SHORE MEDICAL CENTER INC
+2024-02-13 (Dr. Daysi Reynolds) : Encounter at PIONEER MEDICAL CENTER
+2023-02-07 (Dr. Daysi Reynolds) : Encounter at PIONEER MEDICAL CENTER
+2022-02-01 (Dr. Daysi Reynolds) : Encounter at PIONEER MEDICAL CENTER
+2021-10-22 (Dr. Trevor Walker) : Encounter at NORTH SHORE MEDICAL CENTER INC : Encounter for Viral sinusitis (disorder)
+2021-01-26 (Dr. Daysi Reynolds) : Encounter at PIONEER MEDICAL CENTER
+2020-01-28 (Dr. Trevor Walker) : Encounter at NORTH SHORE MEDICAL CENTER INC : Encounter for Patient referral for dental care (procedure)
+2020-01-21 (Dr. Daysi Reynolds) : Encounter at PIONEER MEDICAL CENTER
+2019-01-15 (Dr. Daysi Reynolds) : Encounter at PIONEER MEDICAL CENTER
+2018-09-13 (Dr. Trevor Walker) : Encounter at NORTH SHORE MEDICAL CENTER INC : Encounter for Otitis media (disorder)
+2018-01-09 (Dr. Daysi Reynolds) : Encounter at PIONEER MEDICAL CENTER
+2017-01-03 (Dr. Daysi Reynolds) : Encounter at PIONEER MEDICAL CENTER
+2016-07-05 (Dr. Daysi Reynolds) : Encounter at PIONEER MEDICAL CENTER
+2016-01-05 (Dr. Daysi Reynolds) : Encounter at PIONEER MEDICAL CENTER
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2025-07-17 : Digital Radiography, Ankle region structure (body structure)
+--------------------------------------------------------------------------------

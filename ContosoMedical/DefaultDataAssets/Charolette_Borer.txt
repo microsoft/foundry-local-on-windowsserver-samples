@@ -1,0 +1,811 @@
+Charolette Borer
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 55
+Birth Date:          1970-04-21
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2025-07-29[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Patient referral for dental care (procedure)
+  2024-05-28[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Gingivitis (disorder)
+  2023-05-23[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Patient referral for dental care (procedure)
+  2022-05-17[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Patient referral for dental care (procedure)
+  2019-12-17[STOPPED] : Natazia 28 Day Pack
+  2018-12-22[STOPPED] : Levora 0.15/30 28 Day Pack
+  2017-12-27[STOPPED] : Errin 28 Day Pack
+  2016-05-24[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Gingivitis (disorder)
+  2015-01-12[STOPPED] : NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal System
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2025-07-29 - 2025-07-29 : Fractured dental filling (finding)
+  2025-07-15 -            : Not in labor force (finding)
+  2025-07-07 - 2025-08-03 : Viral sinusitis (disorder)
+  2025-05-20 - 2025-07-15 : Full-time employment (finding)
+  2025-05-20 - 2025-07-15 : Medication review due (situation)
+  2024-05-14 - 2024-05-28 : Gingivitis (disorder)
+  2024-05-14 - 2025-05-20 : Unemployed (finding)
+  2023-05-09 - 2024-05-14 : Limited social contact (finding)
+  2023-05-09 - 2024-05-14 : Not in labor force (finding)
+  2023-05-09 - 2024-05-14 : Medication review due (situation)
+  2022-05-17 - 2022-05-17 : Fractured dental filling (finding)
+  2022-05-03 - 2022-05-03 : Medication review due (situation)
+  2022-03-25 - 2022-04-18 : Viral sinusitis (disorder)
+  2021-04-27 - 2023-05-09 : Full-time employment (finding)
+  2021-04-27 - 2021-04-27 : Medication review due (situation)
+  2020-04-21 -            : Stress (finding)
+  2020-04-21 - 2021-04-27 : Social isolation (finding)
+  2020-04-21 - 2021-04-27 : Unemployed (finding)
+  2018-05-15 - 2020-04-21 : Full-time employment (finding)
+  2018-05-15 -            : Body mass index 30+ - obesity (finding)
+  2018-05-15 - 2020-04-21 : Medication review due (situation)
+  2017-10-14 - 2017-10-26 : Acute viral pharyngitis (disorder)
+  2016-05-10 - 2016-05-24 : Gingivitis (disorder)
+  2014-05-06 - 2016-05-10 : Medication review due (situation)
+  2012-05-01 - 2018-05-15 : Stress (finding)
+  2001-07-03 -            : Prediabetes (finding)
+  1989-06-20 -            : Lack of access to transportation (finding)
+  1988-06-14 -            : Transport problem (finding)
+  1988-06-14 - 2018-05-15 : Unemployed (finding)
+  1988-06-14 -            : Only received primary school education (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2001-07-03[CURRENT] : Diabetes self management plan (record artifact)
+                         Reason: Prediabetes (finding)
+                         Activity: Diabetic diet (finding)
+                         Activity: Exercise therapy (regime/therapy)
+--------------------------------------------------------------------------------
+REPORTS:
+  2025-07-15 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2025-07-15 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           67.5 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     14.4 mg/dL
+           - Creatinine [Mass/volume] in Blood        1.0 mg/dL
+           - Calcium [Mass/volume] in Blood           9.7 mg/dL
+           - Sodium [Moles/volume] in Blood           143.1 mmol/L
+           - Potassium [Moles/volume] in Blood        3.9 mmol/L
+           - Chloride [Moles/volume] in Blood         102.0 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 23.7 mmol/L
+  2025-05-20 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    2.0 {score}
+  2025-05-20 : PHQ-9 quick depression assessment panel [Reported.PHQ]
+           - Patient Health Questionnaire 9 item (PHQ-9) total score [Reported] 23.0 {score}
+  2025-05-20 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 6.0 {score}
+  2025-05-20 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2025-05-20 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           86.9 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     18.9 mg/dL
+           - Creatinine [Mass/volume] in Blood        0.8 mg/dL
+           - Calcium [Mass/volume] in Blood           8.9 mg/dL
+           - Sodium [Moles/volume] in Blood           138.3 mmol/L
+           - Potassium [Moles/volume] in Blood        4.9 mmol/L
+           - Chloride [Moles/volume] in Blood         107.3 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 27.2 mmol/L
+  2024-05-14 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2024-05-14 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2024-05-14 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           86.7 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     13.6 mg/dL
+           - Creatinine [Mass/volume] in Blood        0.8 mg/dL
+           - Calcium [Mass/volume] in Blood           9.1 mg/dL
+           - Sodium [Moles/volume] in Blood           138.6 mmol/L
+           - Potassium [Moles/volume] in Blood        4.2 mmol/L
+           - Chloride [Moles/volume] in Blood         110.6 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 28.1 mmol/L
+  2023-05-09 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2023-05-09 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2023-05-09 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 168.9 mg/dL
+           - Triglycerides                            124.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      93.2 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 51.0 mg/dL
+  2023-05-09 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           73.8 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     8.8 mg/dL
+           - Creatinine [Mass/volume] in Blood        0.9 mg/dL
+           - Calcium [Mass/volume] in Blood           9.8 mg/dL
+           - Sodium [Moles/volume] in Blood           141.4 mmol/L
+           - Potassium [Moles/volume] in Blood        3.7 mmol/L
+           - Chloride [Moles/volume] in Blood         107.4 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 26.2 mmol/L
+  2022-05-03 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-05-03 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2022-05-03 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 38.2 %
+           - MCV [Entitic volume] by Automated count  86.1 fL
+           - MCH [Entitic mass] by Automated count    27.8 pg
+           - MCHC [Mass/volume] by Automated count    34.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.0 fL
+           - Platelets [#/volume] in Blood by Automated count 268.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 190.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  2022-05-03 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           70.2 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     9.1 mg/dL
+           - Creatinine [Mass/volume] in Blood        0.8 mg/dL
+           - Calcium [Mass/volume] in Blood           9.5 mg/dL
+           - Sodium [Moles/volume] in Blood           140.7 mmol/L
+           - Potassium [Moles/volume] in Blood        3.8 mmol/L
+           - Chloride [Moles/volume] in Blood         104.4 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 23.8 mmol/L
+  2021-04-27 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2021-04-27 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-04-27 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           86.3 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     17.7 mg/dL
+           - Creatinine [Mass/volume] in Blood        0.8 mg/dL
+           - Calcium [Mass/volume] in Blood           9.6 mg/dL
+           - Sodium [Moles/volume] in Blood           141.5 mmol/L
+           - Potassium [Moles/volume] in Blood        5.1 mmol/L
+           - Chloride [Moles/volume] in Blood         110.5 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 29.0 mmol/L
+  2020-04-21 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2020-04-21 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 12.0 {score}
+  2020-04-21 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 202.7 mg/dL
+           - Triglycerides                            102.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      124.1 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 58.1 mg/dL
+  2020-04-21 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           69.1 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     11.8 mg/dL
+           - Creatinine [Mass/volume] in Blood        0.8 mg/dL
+           - Calcium [Mass/volume] in Blood           9.7 mg/dL
+           - Sodium [Moles/volume] in Blood           142.3 mmol/L
+           - Potassium [Moles/volume] in Blood        3.9 mmol/L
+           - Chloride [Moles/volume] in Blood         107.3 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 22.9 mmol/L
+  2018-05-15 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    2.0 {score}
+  2018-05-15 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2018-05-15 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2018-05-15 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           65.2 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     16.2 mg/dL
+           - Creatinine [Mass/volume] in Blood        0.8 mg/dL
+           - Calcium [Mass/volume] in Blood           8.7 mg/dL
+           - Sodium [Moles/volume] in Blood           140.1 mmol/L
+           - Potassium [Moles/volume] in Blood        5.0 mmol/L
+           - Chloride [Moles/volume] in Blood         103.8 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 27.0 mmol/L
+  2016-05-10 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    2.0 {score}
+  2016-05-10 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2016-05-10 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2016-05-10 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2016-05-10 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.5 %
+           - MCV [Entitic volume] by Automated count  91.0 fL
+           - MCH [Entitic mass] by Automated count    32.8 pg
+           - MCHC [Mass/volume] by Automated count    33.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.7 fL
+           - Platelets [#/volume] in Blood by Automated count 380.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 402.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+  2016-05-10 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 192.4 mg/dL
+           - Triglycerides                            112.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      108.2 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 61.7 mg/dL
+  2016-05-10 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           65.0 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     19.7 mg/dL
+           - Creatinine [Mass/volume] in Blood        0.8 mg/dL
+           - Calcium [Mass/volume] in Blood           10.1 mg/dL
+           - Sodium [Moles/volume] in Blood           137.3 mmol/L
+           - Potassium [Moles/volume] in Blood        4.8 mmol/L
+           - Chloride [Moles/volume] in Blood         103.1 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 22.6 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2025-07-15 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2025-07-15 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Yes, it has kept me from non-medical meetings, appointments, work, or from getting things that I need 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 302066 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Otherwise unemployed but not seeking work (ex: student, retired, disabled, unpaid primary care giver) 
+           - Highest level of education               Less than high school degree 
+           - Address                                  871 Hane Vale Apt 57 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 8.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2025-07-15 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2025-07-15 : Carbon dioxide, total [Moles/volume] in Blood 23.7 mmol/L
+  2025-07-15 : Chloride [Moles/volume] in Blood         102.0 mmol/L
+  2025-07-15 : Potassium [Moles/volume] in Blood        3.9 mmol/L
+  2025-07-15 : Sodium [Moles/volume] in Blood           143.1 mmol/L
+  2025-07-15 : Calcium [Mass/volume] in Blood           9.7 mg/dL
+  2025-07-15 : Creatinine [Mass/volume] in Blood        1.0 mg/dL
+  2025-07-15 : Urea nitrogen [Mass/volume] in Blood     14.4 mg/dL
+  2025-07-15 : Glucose [Mass/volume] in Blood           67.5 mg/dL
+  2025-07-15 : Respiratory rate                         13.0 /min
+  2025-07-15 : Heart rate                               74.0 /min
+  2025-07-15 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2025-07-15 : Body mass index (BMI) [Ratio]            30.2 kg/m2
+  2025-07-15 : Body Weight                              75.8 kg
+  2025-07-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2025-07-15 : Body Height                              158.5 cm
+  2025-07-15 : Hemoglobin A1c/Hemoglobin.total in Blood 6.4 %
+  2025-05-20 : Total score [DAST-10]                    2.0 {score}
+  2025-05-20 : Patient Health Questionnaire 9 item (PHQ-9) total score [Reported] 23.0 {score}
+  2025-05-20 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 6.0 {score}
+  2025-05-20 : Total score [HARK]                       0.0 {score}
+  2025-05-20 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Yes, it has kept me from non-medical meetings, appointments, work, or from getting things that I need 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 302066 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               Less than high school degree 
+           - Address                                  871 Hane Vale Apt 57 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 8.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2025-05-20 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2025-05-20 : Carbon dioxide, total [Moles/volume] in Blood 27.2 mmol/L
+  2025-05-20 : Chloride [Moles/volume] in Blood         107.3 mmol/L
+  2025-05-20 : Potassium [Moles/volume] in Blood        4.9 mmol/L
+  2025-05-20 : Sodium [Moles/volume] in Blood           138.3 mmol/L
+  2025-05-20 : Calcium [Mass/volume] in Blood           8.9 mg/dL
+  2025-05-20 : Creatinine [Mass/volume] in Blood        0.8 mg/dL
+  2025-05-20 : Urea nitrogen [Mass/volume] in Blood     18.9 mg/dL
+  2025-05-20 : Glucose [Mass/volume] in Blood           86.9 mg/dL
+  2025-05-20 : Respiratory rate                         16.0 /min
+  2025-05-20 : Heart rate                               82.0 /min
+  2025-05-20 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2025-05-20 : Body mass index (BMI) [Ratio]            30.2 kg/m2
+  2025-05-20 : Body Weight                              75.8 kg
+  2025-05-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2025-05-20 : Body Height                              158.5 cm
+  2025-05-20 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2024-05-14 : Total score [AUDIT-C]                    1.0 {score}
+  2024-05-14 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2024-05-14 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 302066 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Unemployed 
+           - Highest level of education               Less than high school degree 
+           - Address                                  871 Hane Vale Apt 57 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 8.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2024-05-14 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2024-05-14 : Carbon dioxide, total [Moles/volume] in Blood 28.1 mmol/L
+  2024-05-14 : Chloride [Moles/volume] in Blood         110.6 mmol/L
+  2024-05-14 : Potassium [Moles/volume] in Blood        4.2 mmol/L
+  2024-05-14 : Sodium [Moles/volume] in Blood           138.6 mmol/L
+  2024-05-14 : Calcium [Mass/volume] in Blood           9.1 mg/dL
+  2024-05-14 : Creatinine [Mass/volume] in Blood        0.8 mg/dL
+  2024-05-14 : Urea nitrogen [Mass/volume] in Blood     13.6 mg/dL
+  2024-05-14 : Glucose [Mass/volume] in Blood           86.7 mg/dL
+  2024-05-14 : Respiratory rate                         15.0 /min
+  2024-05-14 : Heart rate                               96.0 /min
+  2024-05-14 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2024-05-14 : Body mass index (BMI) [Ratio]            30.2 kg/m2
+  2024-05-14 : Body Weight                              75.8 kg
+  2024-05-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2024-05-14 : Body Height                              158.5 cm
+  2024-05-14 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2023-05-09 : Total score [DAST-10]                    1.0 {score}
+  2023-05-09 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2023-05-09 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 1 or 2 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 302066 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Otherwise unemployed but not seeking work (ex: student, retired, disabled, unpaid primary care giver) 
+           - Highest level of education               Less than high school degree 
+           - Address                                  871 Hane Vale Apt 57 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 8.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2023-05-09 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-05-09 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 51.0 mg/dL
+  2023-05-09 : Low Density Lipoprotein Cholesterol      93.2 mg/dL
+  2023-05-09 : Triglycerides                            124.1 mg/dL
+  2023-05-09 : Cholesterol [Mass/volume] in Serum or Plasma 168.9 mg/dL
+  2023-05-09 : Carbon dioxide, total [Moles/volume] in Blood 26.2 mmol/L
+  2023-05-09 : Chloride [Moles/volume] in Blood         107.4 mmol/L
+  2023-05-09 : Potassium [Moles/volume] in Blood        3.7 mmol/L
+  2023-05-09 : Sodium [Moles/volume] in Blood           141.4 mmol/L
+  2023-05-09 : Calcium [Mass/volume] in Blood           9.8 mg/dL
+  2023-05-09 : Creatinine [Mass/volume] in Blood        0.9 mg/dL
+  2023-05-09 : Urea nitrogen [Mass/volume] in Blood     8.8 mg/dL
+  2023-05-09 : Glucose [Mass/volume] in Blood           73.8 mg/dL
+  2023-05-09 : Respiratory rate                         15.0 /min
+  2023-05-09 : Heart rate                               64.0 /min
+  2023-05-09 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2023-05-09 : Body mass index (BMI) [Ratio]            30.2 kg/m2
+  2023-05-09 : Body Weight                              75.8 kg
+  2023-05-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2023-05-09 : Body Height                              158.5 cm
+  2023-05-09 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2022-05-03 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-05-03 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2022-05-03 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 302066 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               Less than high school degree 
+           - Address                                  871 Hane Vale Apt 57 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 8.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2022-05-03 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-05-03 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  2022-05-03 : Platelet distribution width [Entitic volume] in Blood by Automated count 190.7 fL
+  2022-05-03 : Platelets [#/volume] in Blood by Automated count 268.4 10*3/uL
+  2022-05-03 : Erythrocyte distribution width [Entitic volume] by Automated count 45.0 fL
+  2022-05-03 : MCHC [Mass/volume] by Automated count    34.7 g/dL
+  2022-05-03 : MCH [Entitic mass] by Automated count    27.8 pg
+  2022-05-03 : MCV [Entitic volume] by Automated count  86.1 fL
+  2022-05-03 : Hematocrit [Volume Fraction] of Blood by Automated count 38.2 %
+  2022-05-03 : Hemoglobin [Mass/volume] in Blood        13.6 g/dL
+  2022-05-03 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2022-05-03 : Leukocytes [#/volume] in Blood by Automated count 8.1 10*3/uL
+  2022-05-03 : Carbon dioxide, total [Moles/volume] in Blood 23.8 mmol/L
+  2022-05-03 : Chloride [Moles/volume] in Blood         104.4 mmol/L
+  2022-05-03 : Potassium [Moles/volume] in Blood        3.8 mmol/L
+  2022-05-03 : Sodium [Moles/volume] in Blood           140.7 mmol/L
+  2022-05-03 : Calcium [Mass/volume] in Blood           9.5 mg/dL
+  2022-05-03 : Creatinine [Mass/volume] in Blood        0.8 mg/dL
+  2022-05-03 : Urea nitrogen [Mass/volume] in Blood     9.1 mg/dL
+  2022-05-03 : Glucose [Mass/volume] in Blood           70.2 mg/dL
+  2022-05-03 : Respiratory rate                         15.0 /min
+  2022-05-03 : Heart rate                               84.0 /min
+  2022-05-03 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2022-05-03 : Body mass index (BMI) [Ratio]            29.6 kg/m2
+  2022-05-03 : Body Weight                              74.4 kg
+  2022-05-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2022-05-03 : Body Height                              158.5 cm
+  2022-05-03 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2021-04-27 : Total score [AUDIT-C]                    1.0 {score}
+  2021-04-27 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-04-27 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Yes, it has kept me from non-medical meetings, appointments, work, or from getting things that I need 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 302066 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               Less than high school degree 
+           - Address                                  871 Hane Vale Apt 57 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 8.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2021-04-27 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-04-27 : Carbon dioxide, total [Moles/volume] in Blood 29.0 mmol/L
+  2021-04-27 : Chloride [Moles/volume] in Blood         110.5 mmol/L
+  2021-04-27 : Potassium [Moles/volume] in Blood        5.1 mmol/L
+  2021-04-27 : Sodium [Moles/volume] in Blood           141.5 mmol/L
+  2021-04-27 : Calcium [Mass/volume] in Blood           9.6 mg/dL
+  2021-04-27 : Creatinine [Mass/volume] in Blood        0.8 mg/dL
+  2021-04-27 : Urea nitrogen [Mass/volume] in Blood     17.7 mg/dL
+  2021-04-27 : Glucose [Mass/volume] in Blood           86.3 mg/dL
+  2021-04-27 : Respiratory rate                         14.0 /min
+  2021-04-27 : Heart rate                               100.0 /min
+  2021-04-27 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2021-04-27 : Body mass index (BMI) [Ratio]            29.1 kg/m2
+  2021-04-27 : Body Weight                              73.0 kg
+  2021-04-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-04-27 : Body Height                              158.5 cm
+  2021-04-27 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2020-04-21 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2020-04-21 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 12.0 {score}
+  2020-04-21 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 302066 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Unemployed 
+           - Highest level of education               Less than high school degree 
+           - Address                                  871 Hane Vale Apt 57 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 8.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2020-04-21 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-04-21 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 58.1 mg/dL
+  2020-04-21 : Low Density Lipoprotein Cholesterol      124.1 mg/dL
+  2020-04-21 : Triglycerides                            102.4 mg/dL
+  2020-04-21 : Cholesterol [Mass/volume] in Serum or Plasma 202.7 mg/dL
+  2020-04-21 : Carbon dioxide, total [Moles/volume] in Blood 22.9 mmol/L
+  2020-04-21 : Chloride [Moles/volume] in Blood         107.3 mmol/L
+  2020-04-21 : Potassium [Moles/volume] in Blood        3.9 mmol/L
+  2020-04-21 : Sodium [Moles/volume] in Blood           142.3 mmol/L
+  2020-04-21 : Calcium [Mass/volume] in Blood           9.7 mg/dL
+  2020-04-21 : Creatinine [Mass/volume] in Blood        0.8 mg/dL
+  2020-04-21 : Urea nitrogen [Mass/volume] in Blood     11.8 mg/dL
+  2020-04-21 : Glucose [Mass/volume] in Blood           69.1 mg/dL
+  2020-04-21 : Respiratory rate                         14.0 /min
+  2020-04-21 : Heart rate                               89.0 /min
+  2020-04-21 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2020-04-21 : Body mass index (BMI) [Ratio]            28.5 kg/m2
+  2020-04-21 : Body Weight                              71.6 kg
+  2020-04-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2020-04-21 : Body Height                              158.5 cm
+  2020-04-21 : Hemoglobin A1c/Hemoglobin.total in Blood 5.8 %
+  2018-05-15 : Total score [DAST-10]                    2.0 {score}
+  2018-05-15 : Total score [HARK]                       0.0 {score}
+  2018-05-15 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2018-05-15 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 302066 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               Less than high school degree 
+           - Address                                  871 Hane Vale Apt 57 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 8.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2018-05-15 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2018-05-15 : Carbon dioxide, total [Moles/volume] in Blood 27.0 mmol/L
+  2018-05-15 : Chloride [Moles/volume] in Blood         103.8 mmol/L
+  2018-05-15 : Potassium [Moles/volume] in Blood        5.0 mmol/L
+  2018-05-15 : Sodium [Moles/volume] in Blood           140.1 mmol/L
+  2018-05-15 : Calcium [Mass/volume] in Blood           8.7 mg/dL
+  2018-05-15 : Creatinine [Mass/volume] in Blood        0.8 mg/dL
+  2018-05-15 : Urea nitrogen [Mass/volume] in Blood     16.2 mg/dL
+  2018-05-15 : Glucose [Mass/volume] in Blood           65.2 mg/dL
+  2018-05-15 : Respiratory rate                         13.0 /min
+  2018-05-15 : Heart rate                               92.0 /min
+  2018-05-15 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2018-05-15 : Body mass index (BMI) [Ratio]            30.1 kg/m2
+  2018-05-15 : Body Weight                              75.7 kg
+  2018-05-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-05-15 : Body Height                              158.5 cm
+  2018-05-15 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2017-10-14 : Body temperature                         37.4 Cel
+  2016-05-10 : Total score [DAST-10]                    2.0 {score}
+  2016-05-10 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2016-05-10 : Total score [HARK]                       0.0 {score}
+  2016-05-10 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2016-05-10 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Yes, it has kept me from non-medical meetings, appointments, work, or from getting things that I need 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 302066 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Unemployed 
+           - Highest level of education               Less than high school degree 
+           - Address                                  871 Hane Vale Apt 57 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 8.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2016-05-10 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2016-05-10 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+  2016-05-10 : Platelet distribution width [Entitic volume] in Blood by Automated count 402.8 fL
+  2016-05-10 : Platelets [#/volume] in Blood by Automated count 380.1 10*3/uL
+  2016-05-10 : Erythrocyte distribution width [Entitic volume] by Automated count 43.7 fL
+  2016-05-10 : MCHC [Mass/volume] by Automated count    33.4 g/dL
+  2016-05-10 : MCH [Entitic mass] by Automated count    32.8 pg
+  2016-05-10 : MCV [Entitic volume] by Automated count  91.0 fL
+  2016-05-10 : Hematocrit [Volume Fraction] of Blood by Automated count 47.5 %
+  2016-05-10 : Hemoglobin [Mass/volume] in Blood        13.9 g/dL
+  2016-05-10 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2016-05-10 : Leukocytes [#/volume] in Blood by Automated count 9.5 10*3/uL
+  2016-05-10 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 61.7 mg/dL
+  2016-05-10 : Low Density Lipoprotein Cholesterol      108.2 mg/dL
+  2016-05-10 : Triglycerides                            112.3 mg/dL
+  2016-05-10 : Cholesterol [Mass/volume] in Serum or Plasma 192.4 mg/dL
+  2016-05-10 : Carbon dioxide, total [Moles/volume] in Blood 22.6 mmol/L
+  2016-05-10 : Chloride [Moles/volume] in Blood         103.1 mmol/L
+  2016-05-10 : Potassium [Moles/volume] in Blood        4.8 mmol/L
+  2016-05-10 : Sodium [Moles/volume] in Blood           137.3 mmol/L
+  2016-05-10 : Calcium [Mass/volume] in Blood           10.1 mg/dL
+  2016-05-10 : Creatinine [Mass/volume] in Blood        0.8 mg/dL
+  2016-05-10 : Urea nitrogen [Mass/volume] in Blood     19.7 mg/dL
+  2016-05-10 : Glucose [Mass/volume] in Blood           65.0 mg/dL
+  2016-05-10 : Respiratory rate                         12.0 /min
+  2016-05-10 : Heart rate                               75.0 /min
+  2016-05-10 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  2016-05-10 : Body mass index (BMI) [Ratio]            28.7 kg/m2
+  2016-05-10 : Body Weight                              72.2 kg
+  2016-05-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2016-05-10 : Body Height                              158.5 cm
+  2016-05-10 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2025-07-29 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2025-07-29 : Dental fluoride treatment (procedure) for Patient referral for dental care (procedure)
+  2025-07-29 : Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure) for Fractured dental filling (finding)
+  2025-07-29 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2025-07-29 : Dental plain X-ray bitewing (procedure)
+  2025-07-29 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2025-07-29 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2025-07-29 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2025-07-29 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2025-07-15 : Patient referral for dental care (procedure)
+  2025-07-15 : Depression screening (procedure)
+  2025-07-15 : Depression screening (procedure)
+  2025-07-15 : Assessment of health and social care needs (procedure)
+  2025-07-15 : Medication reconciliation (procedure)
+  2025-05-20 : Screening for drug abuse (procedure)
+  2025-05-20 : Assessment of substance use (procedure)
+  2025-05-20 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2025-05-20 : Depression screening (procedure)
+  2025-05-20 : Depression screening (procedure)
+  2025-05-20 : Screening for domestic abuse (procedure)
+  2025-05-20 : Assessment of health and social care needs (procedure)
+  2024-05-28 : Oral health education (procedure) for Gingivitis (disorder)
+  2024-05-28 : Dental fluoride treatment (procedure) for Gingivitis (disorder)
+  2024-05-28 : Examination of gingivae (procedure) for Gingivitis (disorder)
+  2024-05-28 : Dental plain X-ray bitewing (procedure)
+  2024-05-28 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2024-05-28 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2024-05-28 : Dental care (regime/therapy) for Gingivitis (disorder)
+  2024-05-28 : Dental consultation and report (procedure) for Gingivitis (disorder)
+  2024-05-14 : Patient referral for dental care (procedure) for Gingivitis (disorder)
+  2024-05-14 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2024-05-14 : Assessment of substance use (procedure)
+  2024-05-14 : Depression screening (procedure)
+  2024-05-14 : Depression screening (procedure)
+  2024-05-14 : Assessment of health and social care needs (procedure)
+  2024-05-14 : Medication reconciliation (procedure)
+  2023-05-23 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2023-05-23 : Dental fluoride treatment (procedure) for Patient referral for dental care (procedure)
+  2023-05-23 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2023-05-23 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2023-05-23 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2023-05-23 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2023-05-23 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2023-05-09 : Patient referral for dental care (procedure)
+  2023-05-09 : Screening for drug abuse (procedure)
+  2023-05-09 : Assessment of substance use (procedure)
+  2023-05-09 : Depression screening (procedure)
+  2023-05-09 : Depression screening (procedure)
+  2023-05-09 : Assessment of health and social care needs (procedure)
+  2022-05-17 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2022-05-17 : Dental fluoride treatment (procedure) for Patient referral for dental care (procedure)
+  2022-05-17 : Restoration of tooth with coverage of all cusps using dental filling material (procedure) for Fractured dental filling (finding)
+  2022-05-17 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2022-05-17 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2022-05-17 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2022-05-17 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2022-05-17 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2022-05-03 : Patient referral for dental care (procedure)
+  2022-05-03 : Depression screening (procedure)
+  2022-05-03 : Depression screening (procedure)
+  2022-05-03 : Assessment of anxiety (procedure)
+  2022-05-03 : Assessment of health and social care needs (procedure)
+  2022-05-03 : Medication reconciliation (procedure)
+  2021-04-27 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2021-04-27 : Assessment of substance use (procedure)
+  2021-04-27 : Depression screening (procedure)
+  2021-04-27 : Depression screening (procedure)
+  2021-04-27 : Assessment of health and social care needs (procedure)
+  2021-04-27 : Medication reconciliation (procedure)
+  2020-04-21 : Depression screening (procedure)
+  2020-04-21 : Depression screening (procedure)
+  2020-04-21 : Assessment of anxiety (procedure)
+  2020-04-21 : Assessment of health and social care needs (procedure)
+  2020-04-21 : Medication reconciliation (procedure)
+  2018-05-29 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2018-05-29 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2018-05-29 : Dental plain X-ray bitewing (procedure)
+  2018-05-29 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2018-05-29 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2018-05-29 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2018-05-29 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2018-05-15 : Patient referral for dental care (procedure)
+  2018-05-15 : Screening for drug abuse (procedure)
+  2018-05-15 : Assessment of substance use (procedure)
+  2018-05-15 : Screening for domestic abuse (procedure)
+  2018-05-15 : Assessment of anxiety (procedure)
+  2018-05-15 : Assessment of health and social care needs (procedure)
+  2016-05-24 : Oral health education (procedure) for Gingivitis (disorder)
+  2016-05-24 : Dental fluoride treatment (procedure) for Gingivitis (disorder)
+  2016-05-24 : Examination of gingivae (procedure) for Gingivitis (disorder)
+  2016-05-24 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2016-05-24 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2016-05-24 : Dental care (regime/therapy) for Gingivitis (disorder)
+  2016-05-24 : Dental consultation and report (procedure) for Gingivitis (disorder)
+  2016-05-10 : Patient referral for dental care (procedure) for Gingivitis (disorder)
+  2016-05-10 : Screening for drug abuse (procedure)
+  2016-05-10 : Assessment of substance use (procedure)
+  2016-05-10 : Depression screening (procedure)
+  2016-05-10 : Depression screening (procedure)
+  2016-05-10 : Screening for domestic abuse (procedure)
+  2016-05-10 : Assessment of anxiety (procedure)
+  2016-05-10 : Assessment of health and social care needs (procedure)
+  2016-05-10 : Medication reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2025-05-20 : Influenza, seasonal, injectable, preservative free
+  2024-05-14 : Influenza, seasonal, injectable, preservative free
+  2023-05-09 : Influenza, seasonal, injectable, preservative free
+  2022-05-03 : Influenza, seasonal, injectable, preservative free
+  2021-04-27 : Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+  2021-04-27 : Influenza, seasonal, injectable, preservative free
+  2021-04-27 : zoster vaccine, live
+  2021-04-20 : COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+  2021-03-30 : COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+  2020-04-21 : Influenza, seasonal, injectable, preservative free
+  2020-04-21 : zoster vaccine, live
+  2018-05-15 : Influenza, seasonal, injectable, preservative free
+  2016-05-10 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2025-07-29 (Dr. Bryon Mann) : Encounter at EMERSON HOSPITAL : Encounter for Patient referral for dental care (procedure)
+2025-07-15 (Dr. Bryon Mann) : Encounter at EMERSON HOSPITAL
+2025-07-07 (Dr. Bryon Mann) : Encounter at EMERSON HOSPITAL : Encounter for Viral sinusitis (disorder)
+2025-05-20 (Dr. Rob Larson) : Encounter at INTEGRATIVE FAMILY MEDICINE ASSOCIATES
+2024-05-28 (Dr. Bryon Mann) : Encounter at EMERSON HOSPITAL : Encounter for Gingivitis (disorder)
+2024-05-14 (Dr. Rob Larson) : Encounter at INTEGRATIVE FAMILY MEDICINE ASSOCIATES
+2023-05-23 (Dr. Bryon Mann) : Encounter at EMERSON HOSPITAL : Encounter for Patient referral for dental care (procedure)
+2023-05-09 (Dr. Rob Larson) : Encounter at INTEGRATIVE FAMILY MEDICINE ASSOCIATES
+2022-05-17 (Dr. Bryon Mann) : Encounter at EMERSON HOSPITAL : Encounter for Patient referral for dental care (procedure)
+2022-05-03 (Dr. Rob Larson) : Encounter at INTEGRATIVE FAMILY MEDICINE ASSOCIATES
+2022-03-25 (Dr. Bryon Mann) : Encounter at EMERSON HOSPITAL : Encounter for Viral sinusitis (disorder)
+2021-04-27 (Dr. Rob Larson) : Encounter at INTEGRATIVE FAMILY MEDICINE ASSOCIATES
+2021-04-20 (Dr. Bryon Mann) : Encounter at EMERSON HOSPITAL
+2021-03-30 (Dr. Bryon Mann) : Encounter at EMERSON HOSPITAL
+2020-04-21 (Dr. Rob Larson) : Encounter at INTEGRATIVE FAMILY MEDICINE ASSOCIATES
+2019-12-17 (Dr. Bryon Mann) : Encounter at EMERSON HOSPITAL : Encounter for Contraception care (regime/therapy)
+2018-12-22 (Dr. Bryon Mann) : Encounter at EMERSON HOSPITAL : Encounter for Contraception care (regime/therapy)
+2018-05-29 (Dr. Bryon Mann) : Encounter at EMERSON HOSPITAL : Encounter for Patient referral for dental care (procedure)
+2018-05-15 (Dr. Rob Larson) : Encounter at INTEGRATIVE FAMILY MEDICINE ASSOCIATES
+2017-12-27 (Dr. Bryon Mann) : Encounter at EMERSON HOSPITAL : Encounter for Contraception care (regime/therapy)
+2017-10-14 (Dr. Bryon Mann) : Encounter at EMERSON HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2016-05-24 (Dr. Bryon Mann) : Encounter at EMERSON HOSPITAL : Encounter for Gingivitis (disorder)
+2016-05-10 (Dr. Rob Larson) : Encounter at INTEGRATIVE FAMILY MEDICINE ASSOCIATES
+2015-01-12 (Dr. Bryon Mann) : Encounter at EMERSON HOSPITAL : Encounter for Contraception care (regime/therapy)
+2014-05-06 (Dr. Rob Larson) : Encounter at INTEGRATIVE FAMILY MEDICINE ASSOCIATES
+2012-05-01 (Dr. Rob Larson) : Encounter at INTEGRATIVE FAMILY MEDICINE ASSOCIATES
+2001-07-03 (Dr. Rob Larson) : Encounter at INTEGRATIVE FAMILY MEDICINE ASSOCIATES
+1989-06-20 (Dr. Rob Larson) : Encounter at INTEGRATIVE FAMILY MEDICINE ASSOCIATES
+1988-06-14 (Dr. Rob Larson) : Encounter at INTEGRATIVE FAMILY MEDICINE ASSOCIATES
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2025-07-29 : Digital Radiography, Structure of region of internal part of mouth (body structure)
+  2024-05-28 : Digital Radiography, Structure of region of internal part of mouth (body structure)
+  2018-05-29 : Digital Radiography, Structure of region of internal part of mouth (body structure)
+--------------------------------------------------------------------------------

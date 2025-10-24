@@ -1,0 +1,425 @@
+Rodney Toy
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 6
+Birth Date:          2019-07-30
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2025-07-23[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Patient referral for dental care (procedure)
+  2025-07-15[CURRENT] : albuterol 0.417 MG/ML Inhalation Solution for Childhood asthma (disorder)
+  2025-07-15[CURRENT] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma (disorder)
+  2024-07-09[STOPPED] : albuterol 0.417 MG/ML Inhalation Solution for Childhood asthma (disorder)
+  2024-07-09[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma (disorder)
+  2024-07-04[STOPPED] : albuterol 0.417 MG/ML Inhalation Solution for Childhood asthma (disorder)
+  2024-07-04[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma (disorder)
+  2024-06-20[STOPPED] : Acetaminophen 160 MG Chewable Tablet
+  2024-06-20[STOPPED] : Amoxicillin 500 MG Oral Tablet
+  2024-01-03[STOPPED] : albuterol 0.417 MG/ML Inhalation Solution for Childhood asthma (disorder)
+  2024-01-03[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma (disorder)
+  2023-11-21[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2023-10-01[STOPPED] : Acetaminophen 160 MG Chewable Tablet
+  2023-01-11[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Patient referral for dental care (procedure)
+  2021-03-03[STOPPED] : Acetaminophen 160 MG Chewable Tablet
+  2021-03-03[STOPPED] : Amoxicillin 500 MG Oral Tablet
+  2020-02-25[STOPPED] : Ibuprofen 100 MG Oral Tablet
+  2020-02-25[STOPPED] : Amoxicillin 500 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2025-07-23 - 2025-07-23 : Primary dental caries (disorder)
+  2024-07-09 - 2025-07-15 : Medication review due (situation)
+  2024-06-20 - 2024-07-04 : Otitis media (disorder)
+  2024-01-03 -            : Childhood asthma (disorder)
+  2023-11-21 - 2023-12-10 : Acute bronchitis (disorder)
+  2023-09-30 - 2023-12-26 : Fracture of clavicle (disorder)
+  2023-09-30 - 2023-12-26 : Fracture of bone (disorder)
+  2023-07-04 - 2023-11-14 : Medication review due (situation)
+  2023-01-03 - 2023-01-03 : Medication review due (situation)
+  2022-07-05 - 2022-07-05 : Medication review due (situation)
+  2021-07-06 - 2022-01-04 : Medication review due (situation)
+  2021-03-03 - 2021-07-06 : Otitis media (disorder)
+  2020-10-06 - 2021-01-05 : Medication review due (situation)
+  2020-02-25 - 2020-04-07 : Otitis media (disorder)
+  2019-11-05 - 2020-07-07 : Medication review due (situation)
+  2019-09-03 - 2019-09-03 : Medication review due (situation)
+  2019-07-30 - 2019-07-30 : Medication review due (situation)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2024-01-03[CURRENT] : Asthma self management (regime/therapy)
+                         Reason: Childhood asthma (disorder)
+                         Activity: Inhaled steroid therapy (procedure)
+                         Activity: Home nebulizer therapy (procedure)
+                         Activity: Breathing control (regime/therapy)
+  2023-11-21[STOPPED] : Respiratory therapy (procedure)
+                         Activity: Recommendation to avoid exercise (procedure)
+                         Activity: Deep breathing and coughing exercises (regime/therapy)
+  2023-10-01[STOPPED] : Fracture care (regime/therapy)
+                         Reason: Fracture of clavicle (disorder)
+                         Activity: Recommendation to rest (procedure)
+                         Activity: Physical activity target light exercise (finding)
+--------------------------------------------------------------------------------
+REPORTS:
+  2025-07-15 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.9 %
+           - MCV [Entitic volume] by Automated count  81.4 fL
+           - MCH [Entitic mass] by Automated count    31.3 pg
+           - MCHC [Mass/volume] by Automated count    34.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.3 fL
+           - Platelets [#/volume] in Blood by Automated count 399.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 213.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2023-11-14 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       31.0 {#}
+           - Fall risk level [Morse Fall Scale]       Moderate Risk (MFS Score 25 - 45) 
+  2019-07-30 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.3 %
+           - MCV [Entitic volume] by Automated count  84.4 fL
+           - MCH [Entitic mass] by Automated count    27.5 pg
+           - MCHC [Mass/volume] by Automated count    33.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.4 fL
+           - Platelets [#/volume] in Blood by Automated count 363.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 313.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2025-07-15 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2025-07-15 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2025-07-15 : Platelet distribution width [Entitic volume] in Blood by Automated count 213.4 fL
+  2025-07-15 : Platelets [#/volume] in Blood by Automated count 399.5 10*3/uL
+  2025-07-15 : Erythrocyte distribution width [Entitic volume] by Automated count 42.3 fL
+  2025-07-15 : MCHC [Mass/volume] by Automated count    34.2 g/dL
+  2025-07-15 : MCH [Entitic mass] by Automated count    31.3 pg
+  2025-07-15 : MCV [Entitic volume] by Automated count  81.4 fL
+  2025-07-15 : Hematocrit [Volume Fraction] of Blood by Automated count 39.9 %
+  2025-07-15 : Hemoglobin [Mass/volume] in Blood        15.3 g/dL
+  2025-07-15 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2025-07-15 : Leukocytes [#/volume] in Blood by Automated count 5.2 10*3/uL
+  2025-07-15 : Respiratory rate                         12.0 /min
+  2025-07-15 : Heart rate                               64.0 /min
+  2025-07-15 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  134.0 mm[Hg]
+  2025-07-15 : Body mass index (BMI) [Percentile] Per age and sex 85.2 %
+  2025-07-15 : Body mass index (BMI) [Ratio]            17.0 kg/m2
+  2025-07-15 : Body Weight                              20.8 kg
+  2025-07-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2025-07-15 : Body Height                              110.5 cm
+  2024-07-09 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2024-07-09 : Respiratory rate                         15.0 /min
+  2024-07-09 : Heart rate                               79.0 /min
+  2024-07-09 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2024-07-09 : Body mass index (BMI) [Percentile] Per age and sex 65.6 %
+  2024-07-09 : Body mass index (BMI) [Ratio]            15.9 kg/m2
+  2024-07-09 : Body Weight                              17.3 kg
+  2024-07-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2024-07-09 : Body Height                              104.4 cm
+  2023-11-14 : Fall risk level [Morse Fall Scale]       Moderate Risk (MFS Score 25 - 45) 
+  2023-11-14 : Fall risk total [Morse Fall Scale]       31.0 {#}
+  2023-11-14 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-11-14 : Respiratory rate                         13.0 /min
+  2023-11-14 : Heart rate                               66.0 /min
+  2023-11-14 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2023-11-14 : Body mass index (BMI) [Percentile] Per age and sex 56.6 %
+  2023-11-14 : Body mass index (BMI) [Ratio]            15.8 kg/m2
+  2023-11-14 : Body Weight                              15.8 kg
+  2023-11-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2023-11-14 : Body Height                              100.2 cm
+  2023-07-04 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-07-04 : Respiratory rate                         13.0 /min
+  2023-07-04 : Heart rate                               98.0 /min
+  2023-07-04 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2023-07-04 : Body mass index (BMI) [Percentile] Per age and sex 56.9 %
+  2023-07-04 : Body mass index (BMI) [Ratio]            15.9 kg/m2
+  2023-07-04 : Head Occipital-frontal circumference     48.3 cm
+  2023-07-04 : Head Occipital-frontal circumference Percentile 20.3 %
+  2023-07-04 : Weight-for-length Per age and sex        33.7 %
+  2023-07-04 : Body Weight                              15.3 kg
+  2023-07-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2023-07-04 : Body Height                              98.1 cm
+  2023-01-03 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-01-03 : Respiratory rate                         14.0 /min
+  2023-01-03 : Heart rate                               82.0 /min
+  2023-01-03 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2023-01-03 : Body mass index (BMI) [Percentile] Per age and sex 49.7 %
+  2023-01-03 : Body mass index (BMI) [Ratio]            15.8 kg/m2
+  2023-01-03 : Head Occipital-frontal circumference     48.3 cm
+  2023-01-03 : Head Occipital-frontal circumference Percentile 20.3 %
+  2023-01-03 : Weight-for-length Per age and sex        33.7 %
+  2023-01-03 : Body Weight                              14.2 kg
+  2023-01-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2023-01-03 : Body Height                              94.8 cm
+  2022-07-05 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-07-05 : Respiratory rate                         14.0 /min
+  2022-07-05 : Heart rate                               83.0 /min
+  2022-07-05 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  136.0 mm[Hg]
+  2022-07-05 : Body mass index (BMI) [Percentile] Per age and sex 36.0 %
+  2022-07-05 : Body mass index (BMI) [Ratio]            15.6 kg/m2
+  2022-07-05 : Head Occipital-frontal circumference     48.3 cm
+  2022-07-05 : Head Occipital-frontal circumference Percentile 20.3 %
+  2022-07-05 : Weight-for-length Per age and sex        34.8 %
+  2022-07-05 : Body Weight                              13.0 kg
+  2022-07-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2022-07-05 : Body Height                              91.2 cm
+  2022-01-04 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-01-04 : Respiratory rate                         14.0 /min
+  2022-01-04 : Heart rate                               70.0 /min
+  2022-01-04 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2022-01-04 : Body mass index (BMI) [Percentile] Per age and sex 35.3 %
+  2022-01-04 : Body mass index (BMI) [Ratio]            15.9 kg/m2
+  2022-01-04 : Head Occipital-frontal circumference     48.0 cm
+  2022-01-04 : Head Occipital-frontal circumference Percentile 20.3 %
+  2022-01-04 : Weight-for-length Per age and sex        34.4 %
+  2022-01-04 : Body Weight                              12.1 kg
+  2022-01-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2022-01-04 : Body Height                              87.3 cm
+  2021-07-06 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-07-06 : Respiratory rate                         13.0 /min
+  2021-07-06 : Heart rate                               68.0 /min
+  2021-07-06 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2021-07-06 : Head Occipital-frontal circumference     47.4 cm
+  2021-07-06 : Head Occipital-frontal circumference Percentile 20.3 %
+  2021-07-06 : Weight-for-length Per age and sex        28.4 %
+  2021-07-06 : Body Weight                              11.3 kg
+  2021-07-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-07-06 : Body Height                              83.6 cm
+  2021-01-05 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-01-05 : Respiratory rate                         14.0 /min
+  2021-01-05 : Heart rate                               81.0 /min
+  2021-01-05 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2021-01-05 : Head Occipital-frontal circumference     46.6 cm
+  2021-01-05 : Head Occipital-frontal circumference Percentile 20.3 %
+  2021-01-05 : Weight-for-length Per age and sex        37.1 %
+  2021-01-05 : Body Weight                              10.4 kg
+  2021-01-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2021-01-05 : Body Height                              78.6 cm
+  2020-10-06 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-10-06 : Respiratory rate                         13.0 /min
+  2020-10-06 : Heart rate                               67.0 /min
+  2020-10-06 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2020-10-06 : Head Occipital-frontal circumference     46.0 cm
+  2020-10-06 : Head Occipital-frontal circumference Percentile 20.3 %
+  2020-10-06 : Weight-for-length Per age and sex        46.1 %
+  2020-10-06 : Body Weight                              9.9 kg
+  2020-10-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2020-10-06 : Body Height                              75.6 cm
+  2020-07-07 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-07-07 : Respiratory rate                         14.0 /min
+  2020-07-07 : Heart rate                               78.0 /min
+  2020-07-07 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  137.0 mm[Hg]
+  2020-07-07 : Head Occipital-frontal circumference     45.1 cm
+  2020-07-07 : Head Occipital-frontal circumference Percentile 20.3 %
+  2020-07-07 : Weight-for-length Per age and sex        53.7 %
+  2020-07-07 : Body Weight                              9.1 kg
+  2020-07-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2020-07-07 : Body Height                              72.4 cm
+  2020-04-07 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-04-07 : Respiratory rate                         14.0 /min
+  2020-04-07 : Heart rate                               90.0 /min
+  2020-04-07 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2020-04-07 : Head Occipital-frontal circumference     44.0 cm
+  2020-04-07 : Head Occipital-frontal circumference Percentile 20.3 %
+  2020-04-07 : Weight-for-length Per age and sex        37.5 %
+  2020-04-07 : Body Weight                              8.1 kg
+  2020-04-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2020-04-07 : Body Height                              68.5 cm
+  2020-01-07 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-01-07 : Respiratory rate                         13.0 /min
+  2020-01-07 : Heart rate                               91.0 /min
+  2020-01-07 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  135.0 mm[Hg]
+  2020-01-07 : Head Occipital-frontal circumference     42.3 cm
+  2020-01-07 : Head Occipital-frontal circumference Percentile 20.3 %
+  2020-01-07 : Weight-for-length Per age and sex        32.7 %
+  2020-01-07 : Body Weight                              6.8 kg
+  2020-01-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2020-01-07 : Body Height                              63.9 cm
+  2019-11-05 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-11-05 : Respiratory rate                         13.0 /min
+  2019-11-05 : Heart rate                               98.0 /min
+  2019-11-05 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2019-11-05 : Head Occipital-frontal circumference     40.5 cm
+  2019-11-05 : Head Occipital-frontal circumference Percentile 20.3 %
+  2019-11-05 : Weight-for-length Per age and sex        19.0 %
+  2019-11-05 : Body Weight                              5.6 kg
+  2019-11-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2019-11-05 : Body Height                              59.9 cm
+  2019-09-03 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-09-03 : Respiratory rate                         16.0 /min
+  2019-09-03 : Heart rate                               63.0 /min
+  2019-09-03 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2019-09-03 : Head Occipital-frontal circumference     37.8 cm
+  2019-09-03 : Head Occipital-frontal circumference Percentile 20.3 %
+  2019-09-03 : Weight-for-length Per age and sex        25.8 %
+  2019-09-03 : Body Weight                              4.2 kg
+  2019-09-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2019-09-03 : Body Height                              54.4 cm
+  2019-07-30 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-07-30 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2019-07-30 : Platelet distribution width [Entitic volume] in Blood by Automated count 313.2 fL
+  2019-07-30 : Platelets [#/volume] in Blood by Automated count 363.3 10*3/uL
+  2019-07-30 : Erythrocyte distribution width [Entitic volume] by Automated count 45.4 fL
+  2019-07-30 : MCHC [Mass/volume] by Automated count    33.8 g/dL
+  2019-07-30 : MCH [Entitic mass] by Automated count    27.5 pg
+  2019-07-30 : MCV [Entitic volume] by Automated count  84.4 fL
+  2019-07-30 : Hematocrit [Volume Fraction] of Blood by Automated count 35.3 %
+  2019-07-30 : Hemoglobin [Mass/volume] in Blood        15.1 g/dL
+  2019-07-30 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2019-07-30 : Leukocytes [#/volume] in Blood by Automated count 5.3 10*3/uL
+  2019-07-30 : Respiratory rate                         15.0 /min
+  2019-07-30 : Heart rate                               99.0 /min
+  2019-07-30 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2019-07-30 : Head Occipital-frontal circumference     34.1 cm
+  2019-07-30 : Head Occipital-frontal circumference Percentile 20.3 %
+  2019-07-30 : Weight-for-length Per age and sex        41.8 %
+  2019-07-30 : Body Weight                              3.4 kg
+  2019-07-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2019-07-30 : Body Height                              50.4 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2025-07-23 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2025-07-23 : Dental fluoride treatment (procedure) for Patient referral for dental care (procedure)
+  2025-07-23 : Restoration of tooth with coverage of all cusps using dental filling material (procedure) for Primary dental caries (disorder)
+  2025-07-23 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2025-07-23 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2025-07-23 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2025-07-22 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2025-07-22 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2025-07-15 : Patient referral for dental care (procedure)
+  2025-07-15 : Medication reconciliation (procedure)
+  2024-07-17 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2024-07-17 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2024-07-17 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2024-07-16 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2024-07-16 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2024-07-16 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2024-07-09 : Patient referral for dental care (procedure)
+  2024-01-03 : Asthma screening (procedure) for Childhood asthma (disorder)
+  2023-11-21 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2023-11-14 : Assessment using Morse Fall Scale (procedure)
+  2023-11-14 : Medication reconciliation (procedure)
+  2023-09-30 : Admission to orthopedic department (procedure) for Fracture of clavicle (disorder)
+  2023-09-30 : Plain X-ray of clavicle (procedure)
+  2023-01-11 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2023-01-11 : Dental fluoride treatment (procedure) for Patient referral for dental care (procedure)
+  2023-01-10 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2023-01-10 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2023-01-10 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2023-01-10 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2023-01-10 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2023-01-03 : Patient referral for dental care (procedure)
+  2023-01-03 : Medication reconciliation (procedure)
+  2022-07-05 : Medication reconciliation (procedure)
+  2022-01-04 : Medication reconciliation (procedure)
+  2021-01-05 : Medication reconciliation (procedure)
+  2020-07-07 : Medication reconciliation (procedure)
+  2019-09-03 : Medication reconciliation (procedure)
+  2019-07-30 : Medication reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2025-07-15 : Influenza, seasonal, injectable, preservative free
+  2024-07-09 : Influenza, seasonal, injectable, preservative free
+  2023-11-14 : MMR
+  2023-11-14 : DTaP
+  2023-11-14 : IPV
+  2023-11-14 : varicella
+  2023-07-04 : Influenza, seasonal, injectable, preservative free
+  2022-07-05 : Influenza, seasonal, injectable, preservative free
+  2022-01-04 : Hep A, ped/adol, 2 dose
+  2021-07-06 : Influenza, seasonal, injectable, preservative free
+  2021-01-05 : DTaP
+  2020-10-06 : Hep A, ped/adol, 2 dose
+  2020-10-06 : Pneumococcal conjugate PCV 13
+  2020-10-06 : MMR
+  2020-10-06 : varicella
+  2020-10-06 : Hib (PRP-OMP)
+  2020-04-07 : Hep B, adolescent or pediatric
+  2020-04-07 : Pneumococcal conjugate PCV 13
+  2020-04-07 : DTaP
+  2020-04-07 : Influenza, seasonal, injectable, preservative free
+  2020-04-07 : IPV
+  2020-01-07 : Pneumococcal conjugate PCV 13
+  2020-01-07 : DTaP
+  2020-01-07 : IPV
+  2020-01-07 : rotavirus, monovalent
+  2020-01-07 : Hib (PRP-OMP)
+  2019-11-05 : Pneumococcal conjugate PCV 13
+  2019-11-05 : DTaP
+  2019-11-05 : IPV
+  2019-11-05 : rotavirus, monovalent
+  2019-11-05 : Hib (PRP-OMP)
+  2019-09-03 : Hep B, adolescent or pediatric
+  2019-07-30 : Hep B, adolescent or pediatric
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2025-07-22 (Dr. January Roberts) : Encounter at SOUTH SHORE HOSPITAL INC. : Encounter for Patient referral for dental care (procedure)
+2025-07-15 (Dr. Josephine Collier) : Encounter at BRAINTREE FAMILY PHYSICIAN INC
+2025-06-26 (Dr. January Roberts) : Encounter at SOUTH SHORE HOSPITAL INC. : Encounter for Childhood asthma (disorder)
+2024-07-16 (Dr. January Roberts) : Encounter at SOUTH SHORE HOSPITAL INC. : Encounter for Patient referral for dental care (procedure)
+2024-07-09 (Dr. Josephine Collier) : Encounter at BRAINTREE FAMILY PHYSICIAN INC
+2024-07-01 (Dr. January Roberts) : Encounter at SOUTH SHORE HOSPITAL INC. : Encounter for Childhood asthma (disorder)
+2024-06-20 (Dr. January Roberts) : Encounter at SOUTH SHORE HOSPITAL INC. : Encounter for Otitis media (disorder)
+2024-01-03 (Dr. January Roberts) : Encounter at SOUTH SHORE HOSPITAL INC. : Encounter for Childhood asthma (disorder)
+2023-12-26 (Dr. January Roberts) : Encounter at SOUTH SHORE HOSPITAL INC. : Encounter for Fracture of clavicle (disorder)
+2023-11-21 (Dr. January Roberts) : Encounter at SOUTH SHORE HOSPITAL INC. : Encounter for Acute bronchitis (disorder)
+2023-11-14 (Dr. January Roberts) : Encounter at SOUTH SHORE HOSPITAL INC.
+2023-09-30 (Dr. Raymon Block) : Encounter at ALLIANCE HEALTH AT BRAINTREE : Encounter for Fracture of bone (disorder)
+2023-07-04 (Dr. Josephine Collier) : Encounter at BRAINTREE FAMILY PHYSICIAN INC
+2023-01-10 (Dr. January Roberts) : Encounter at SOUTH SHORE HOSPITAL INC. : Encounter for Patient referral for dental care (procedure)
+2023-01-03 (Dr. Josephine Collier) : Encounter at BRAINTREE FAMILY PHYSICIAN INC
+2022-07-05 (Dr. Josephine Collier) : Encounter at BRAINTREE FAMILY PHYSICIAN INC
+2022-01-04 (Dr. Josephine Collier) : Encounter at BRAINTREE FAMILY PHYSICIAN INC
+2021-07-06 (Dr. Josephine Collier) : Encounter at BRAINTREE FAMILY PHYSICIAN INC
+2021-03-03 (Dr. January Roberts) : Encounter at SOUTH SHORE HOSPITAL INC. : Encounter for Otitis media (disorder)
+2021-01-05 (Dr. Josephine Collier) : Encounter at BRAINTREE FAMILY PHYSICIAN INC
+2020-10-06 (Dr. Josephine Collier) : Encounter at BRAINTREE FAMILY PHYSICIAN INC
+2020-07-07 (Dr. Josephine Collier) : Encounter at BRAINTREE FAMILY PHYSICIAN INC
+2020-04-07 (Dr. Josephine Collier) : Encounter at BRAINTREE FAMILY PHYSICIAN INC
+2020-02-25 (Dr. January Roberts) : Encounter at SOUTH SHORE HOSPITAL INC. : Encounter for Otitis media (disorder)
+2020-01-07 (Dr. Josephine Collier) : Encounter at BRAINTREE FAMILY PHYSICIAN INC
+2019-11-05 (Dr. Josephine Collier) : Encounter at BRAINTREE FAMILY PHYSICIAN INC
+2019-09-03 (Dr. Josephine Collier) : Encounter at BRAINTREE FAMILY PHYSICIAN INC
+2019-07-30 (Dr. Josephine Collier) : Encounter at BRAINTREE FAMILY PHYSICIAN INC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2023-09-30 : Digital Radiography, Bone structure of clavicle (body structure)
+--------------------------------------------------------------------------------

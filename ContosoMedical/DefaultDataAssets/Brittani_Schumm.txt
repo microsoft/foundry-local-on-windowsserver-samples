@@ -1,0 +1,264 @@
+Brittani Schumm
+===============
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          2007-07-08
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2010-06-20[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Patient referral for dental care (procedure)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2010-09-15 -            : Bullet wound (disorder)
+  2010-09-15 -            : Gunshot wound (disorder)
+  2010-06-13 -            : Medication review due (situation)
+  2009-12-13 - 2009-12-13 : Medication review due (situation)
+  2009-06-14 - 2009-06-14 : Medication review due (situation)
+  2008-09-21 - 2008-10-05 : Viral sinusitis (disorder)
+  2008-03-16 - 2008-12-14 : Medication review due (situation)
+  2007-07-08 - 2007-12-16 : Medication review due (situation)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2010-09-26 : U.S. standard certificate of death - 2003 revision
+           - Cause of Death [US Standard Certificate of Death] Bullet wound (disorder) 
+  2007-07-08 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.8 %
+           - MCV [Entitic volume] by Automated count  81.0 fL
+           - MCH [Entitic mass] by Automated count    32.1 pg
+           - MCHC [Mass/volume] by Automated count    35.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.0 fL
+           - Platelets [#/volume] in Blood by Automated count 338.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 426.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2010-09-26 : Cause of Death [US Standard Certificate of Death] Bullet wound (disorder) 
+  2010-06-13 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2010-06-13 : Respiratory rate                         14.0 /min
+  2010-06-13 : Heart rate                               81.0 /min
+  2010-06-13 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  103.0 mm[Hg]
+  2010-06-13 : Body mass index (BMI) [Percentile] Per age and sex 80.1 %
+  2010-06-13 : Body mass index (BMI) [Ratio]            16.9 kg/m2
+  2010-06-13 : Head Occipital-frontal circumference     47.6 cm
+  2010-06-13 : Head Occipital-frontal circumference Percentile 26.3 %
+  2010-06-13 : Weight-for-length Per age and sex        77.9 %
+  2010-06-13 : Body Weight                              14.0 kg
+  2010-06-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2010-06-13 : Body Height                              90.9 cm
+  2009-12-13 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2009-12-13 : Respiratory rate                         14.0 /min
+  2009-12-13 : Heart rate                               94.0 /min
+  2009-12-13 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  103.0 mm[Hg]
+  2009-12-13 : Body mass index (BMI) [Percentile] Per age and sex 83.1 %
+  2009-12-13 : Body mass index (BMI) [Ratio]            17.5 kg/m2
+  2009-12-13 : Head Occipital-frontal circumference     47.2 cm
+  2009-12-13 : Head Occipital-frontal circumference Percentile 26.3 %
+  2009-12-13 : Weight-for-length Per age and sex        82.5 %
+  2009-12-13 : Body Weight                              13.2 kg
+  2009-12-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2009-12-13 : Body Height                              87.0 cm
+  2009-06-14 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2009-06-14 : Respiratory rate                         15.0 /min
+  2009-06-14 : Heart rate                               68.0 /min
+  2009-06-14 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  100.0 mm[Hg]
+  2009-06-14 : Head Occipital-frontal circumference     46.5 cm
+  2009-06-14 : Head Occipital-frontal circumference Percentile 26.3 %
+  2009-06-14 : Weight-for-length Per age and sex        81.2 %
+  2009-06-14 : Body Weight                              12.2 kg
+  2009-06-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2009-06-14 : Body Height                              82.9 cm
+  2008-12-14 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2008-12-14 : Respiratory rate                         15.0 /min
+  2008-12-14 : Heart rate                               70.0 /min
+  2008-12-14 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  91.0 mm[Hg]
+  2008-12-14 : Head Occipital-frontal circumference     45.6 cm
+  2008-12-14 : Head Occipital-frontal circumference Percentile 26.3 %
+  2008-12-14 : Weight-for-length Per age and sex        83.0 %
+  2008-12-14 : Body Weight                              11.1 kg
+  2008-12-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2008-12-14 : Body Height                              77.6 cm
+  2008-09-14 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2008-09-14 : Respiratory rate                         15.0 /min
+  2008-09-14 : Heart rate                               82.0 /min
+  2008-09-14 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  103.0 mm[Hg]
+  2008-09-14 : Head Occipital-frontal circumference     44.9 cm
+  2008-09-14 : Head Occipital-frontal circumference Percentile 26.3 %
+  2008-09-14 : Weight-for-length Per age and sex        83.1 %
+  2008-09-14 : Body Weight                              10.4 kg
+  2008-09-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2008-09-14 : Body Height                              74.5 cm
+  2008-09-07 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2008-09-07 : Respiratory rate                         14.0 /min
+  2008-09-07 : Heart rate                               61.0 /min
+  2008-09-07 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  102.0 mm[Hg]
+  2008-09-07 : Head Occipital-frontal circumference     44.7 cm
+  2008-09-07 : Head Occipital-frontal circumference Percentile 26.3 %
+  2008-09-07 : Weight-for-length Per age and sex        87.5 %
+  2008-09-07 : Body Weight                              10.1 kg
+  2008-09-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2008-09-07 : Body Height                              73.4 cm
+  2008-06-15 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2008-06-15 : Respiratory rate                         14.0 /min
+  2008-06-15 : Heart rate                               64.0 /min
+  2008-06-15 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  88.0 mm[Hg]
+  2008-06-15 : Head Occipital-frontal circumference     44.1 cm
+  2008-06-15 : Head Occipital-frontal circumference Percentile 26.3 %
+  2008-06-15 : Weight-for-length Per age and sex        85.0 %
+  2008-06-15 : Body Weight                              9.5 kg
+  2008-06-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2008-06-15 : Body Height                              71.1 cm
+  2008-03-16 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2008-03-16 : Respiratory rate                         16.0 /min
+  2008-03-16 : Heart rate                               63.0 /min
+  2008-03-16 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  96.0 mm[Hg]
+  2008-03-16 : Head Occipital-frontal circumference     42.9 cm
+  2008-03-16 : Head Occipital-frontal circumference Percentile 26.3 %
+  2008-03-16 : Weight-for-length Per age and sex        85.6 %
+  2008-03-16 : Body Weight                              8.5 kg
+  2008-03-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2008-03-16 : Body Height                              67.3 cm
+  2007-12-16 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2007-12-16 : Respiratory rate                         15.0 /min
+  2007-12-16 : Heart rate                               64.0 /min
+  2007-12-16 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  100.0 mm[Hg]
+  2007-12-16 : Head Occipital-frontal circumference     41.3 cm
+  2007-12-16 : Head Occipital-frontal circumference Percentile 26.3 %
+  2007-12-16 : Weight-for-length Per age and sex        73.2 %
+  2007-12-16 : Body Weight                              7.1 kg
+  2007-12-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2007-12-16 : Body Height                              62.6 cm
+  2007-10-14 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2007-10-14 : Respiratory rate                         14.0 /min
+  2007-10-14 : Heart rate                               69.0 /min
+  2007-10-14 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  96.0 mm[Hg]
+  2007-10-14 : Head Occipital-frontal circumference     39.6 cm
+  2007-10-14 : Head Occipital-frontal circumference Percentile 26.3 %
+  2007-10-14 : Weight-for-length Per age and sex        71.1 %
+  2007-10-14 : Body Weight                              6.0 kg
+  2007-10-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2007-10-14 : Body Height                              58.7 cm
+  2007-08-12 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2007-08-12 : Respiratory rate                         15.0 /min
+  2007-08-12 : Heart rate                               97.0 /min
+  2007-08-12 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  102.0 mm[Hg]
+  2007-08-12 : Head Occipital-frontal circumference     37.1 cm
+  2007-08-12 : Head Occipital-frontal circumference Percentile 26.3 %
+  2007-08-12 : Weight-for-length Per age and sex        72.0 %
+  2007-08-12 : Body Weight                              4.7 kg
+  2007-08-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2007-08-12 : Body Height                              53.6 cm
+  2007-07-08 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2007-07-08 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  2007-07-08 : Platelet distribution width [Entitic volume] in Blood by Automated count 426.7 fL
+  2007-07-08 : Platelets [#/volume] in Blood by Automated count 338.4 10*3/uL
+  2007-07-08 : Erythrocyte distribution width [Entitic volume] by Automated count 45.0 fL
+  2007-07-08 : MCHC [Mass/volume] by Automated count    35.2 g/dL
+  2007-07-08 : MCH [Entitic mass] by Automated count    32.1 pg
+  2007-07-08 : MCV [Entitic volume] by Automated count  81.0 fL
+  2007-07-08 : Hematocrit [Volume Fraction] of Blood by Automated count 49.8 %
+  2007-07-08 : Hemoglobin [Mass/volume] in Blood        12.1 g/dL
+  2007-07-08 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2007-07-08 : Leukocytes [#/volume] in Blood by Automated count 6.5 10*3/uL
+  2007-07-08 : Respiratory rate                         15.0 /min
+  2007-07-08 : Heart rate                               65.0 /min
+  2007-07-08 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  100.0 mm[Hg]
+  2007-07-08 : Head Occipital-frontal circumference     33.7 cm
+  2007-07-08 : Head Occipital-frontal circumference Percentile 26.3 %
+  2007-07-08 : Weight-for-length Per age and sex        86.4 %
+  2007-07-08 : Body Weight                              3.9 kg
+  2007-07-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2007-07-08 : Body Height                              50.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2010-06-20 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2010-06-20 : Dental fluoride treatment (procedure) for Patient referral for dental care (procedure)
+  2010-06-20 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2010-06-20 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2010-06-20 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2010-06-20 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2010-06-20 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2010-06-13 : Patient referral for dental care (procedure)
+  2009-12-13 : Medication reconciliation (procedure)
+  2009-06-14 : Medication reconciliation (procedure)
+  2008-12-14 : Medication reconciliation (procedure)
+  2007-12-16 : Medication reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2010-06-13 : Pneumococcal conjugate PCV 13
+  2010-06-13 : Influenza, seasonal, injectable, preservative free
+  2009-12-13 : Hep A, ped/adol, 2 dose
+  2009-06-14 : Influenza, seasonal, injectable, preservative free
+  2008-12-14 : DTaP
+  2008-09-07 : Hep A, ped/adol, 2 dose
+  2008-09-07 : MMR
+  2008-09-07 : varicella
+  2008-09-07 : Hib (PRP-OMP)
+  2008-03-16 : Hep B, adolescent or pediatric
+  2008-03-16 : DTaP
+  2008-03-16 : Influenza, seasonal, injectable, preservative free
+  2008-03-16 : IPV
+  2007-12-16 : DTaP
+  2007-12-16 : IPV
+  2007-12-16 : rotavirus, monovalent
+  2007-12-16 : Hib (PRP-OMP)
+  2007-10-14 : DTaP
+  2007-10-14 : IPV
+  2007-10-14 : rotavirus, monovalent
+  2007-10-14 : Hib (PRP-OMP)
+  2007-08-12 : Hep B, adolescent or pediatric
+  2007-07-08 : Hep B, adolescent or pediatric
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2010-09-26 (Dr. Raul Considine) : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC : Encounter for Bullet wound (disorder)
+2010-09-15 (Dr. Janet Crooks) : Encounter at LEONARD FLORENCE CENTER FOR LIVING : Encounter for Gunshot wound (disorder)
+2010-06-20 (Dr. Daniel Wolff) : Encounter at THE SHRINERS HOSPITAL FOR CHILDREN : Encounter for Patient referral for dental care (procedure)
+2010-06-13 (Dr. Raul Considine) : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC
+2009-12-13 (Dr. Raul Considine) : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC
+2009-06-14 (Dr. Raul Considine) : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC
+2008-12-14 (Dr. Raul Considine) : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC
+2008-09-21 (Dr. Daniel Wolff) : Encounter at THE SHRINERS HOSPITAL FOR CHILDREN : Encounter for Viral sinusitis (disorder)
+2008-09-14 (Dr. Raul Considine) : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC
+2008-09-07 (Dr. Daniel Wolff) : Encounter at THE SHRINERS HOSPITAL FOR CHILDREN
+2008-06-15 (Dr. Raul Considine) : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC
+2008-03-16 (Dr. Raul Considine) : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC
+2007-12-16 (Dr. Raul Considine) : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC
+2007-10-14 (Dr. Raul Considine) : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC
+2007-08-12 (Dr. Raul Considine) : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC
+2007-07-08 (Dr. Raul Considine) : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,425 @@
+Dallas Funk
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 25
+Birth Date:          1999-12-28
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2023-12-19[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Gingivitis (disorder)
+  2022-03-15[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Gingivitis (disorder)
+  2017-02-28[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Patient referral for dental care (procedure)
+  2016-02-23[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Gingivitis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2025-03-04 -            : Part-time employment (finding)
+  2025-03-04 -            : Medication review due (situation)
+  2023-12-05 - 2023-12-19 : Gingivitis (disorder)
+  2023-12-05 - 2025-03-04 : Victim of intimate partner abuse (finding)
+  2023-12-05 -            : Stress (finding)
+  2023-12-05 - 2025-03-04 : Social isolation (finding)
+  2023-12-05 - 2023-12-05 : Medication review due (situation)
+  2023-11-21 - 2023-12-05 : Chronic sinusitis (disorder)
+  2023-09-05 - 2023-12-05 : Acute bacterial sinusitis (disorder)
+  2022-03-01 - 2022-03-15 : Gingivitis (disorder)
+  2018-07-04 - 2018-07-11 : Acute viral pharyngitis (disorder)
+  2018-02-20 - 2019-02-26 : Limited social contact (finding)
+  2018-02-20 - 2025-03-04 : Full-time employment (finding)
+  2018-02-20 -            : Educated to high school level (finding)
+  2016-02-09 - 2016-02-23 : Gingivitis (disorder)
+  2015-02-03 - 2016-02-09 : Risk activity involvement (finding)
+  2011-01-11 - 2022-03-01 : Medication review due (situation)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2025-03-04 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2025-03-04 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2023-12-05 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    2.0 {score}
+  2022-03-01 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    0.0 {score}
+  2022-03-01 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-03-01 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 7.0 {score}
+  2022-03-01 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.1 %
+           - MCV [Entitic volume] by Automated count  87.0 fL
+           - MCH [Entitic mass] by Automated count    28.2 pg
+           - MCHC [Mass/volume] by Automated count    34.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.3 fL
+           - Platelets [#/volume] in Blood by Automated count 407.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 459.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2019-02-26 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2018-02-20 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2017-02-14 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 3.0 {score}
+  2016-02-09 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2016-02-09 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.5 %
+           - MCV [Entitic volume] by Automated count  91.8 fL
+           - MCH [Entitic mass] by Automated count    28.7 pg
+           - MCHC [Mass/volume] by Automated count    35.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.9 fL
+           - Platelets [#/volume] in Blood by Automated count 169.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 412.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.0 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2025-03-04 : Total score [AUDIT-C]                    1.0 {score}
+  2025-03-04 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2025-03-04 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 65807 /a
+           - Primary insurance                        None/uninsured 
+           - Employment status - current              Part-time or temporary work 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  192 Smith Path Apt 94 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 5.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2025-03-04 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2025-03-04 : Respiratory rate                         14.0 /min
+  2025-03-04 : Heart rate                               79.0 /min
+  2025-03-04 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  103.0 mm[Hg]
+  2025-03-04 : Body mass index (BMI) [Ratio]            23.1 kg/m2
+  2025-03-04 : Body Weight                              77.8 kg
+  2025-03-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2025-03-04 : Body Height                              183.6 cm
+  2023-12-05 : Total score [DAST-10]                    2.0 {score}
+  2023-12-05 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? Yes 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 65807 /a
+           - Primary insurance                        None/uninsured 
+           - Employment status - current              Full-time work 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  192 Smith Path Apt 94 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 5.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2023-12-05 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-12-05 : Respiratory rate                         15.0 /min
+  2023-12-05 : Heart rate                               87.0 /min
+  2023-12-05 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  101.0 mm[Hg]
+  2023-12-05 : Body mass index (BMI) [Ratio]            21.9 kg/m2
+  2023-12-05 : Body Weight                              74.0 kg
+  2023-12-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2023-12-05 : Body Height                              183.6 cm
+  2022-03-01 : Total score [AUDIT-C]                    0.0 {score}
+  2022-03-01 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-03-01 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 7.0 {score}
+  2022-03-01 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Other 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 65807 /a
+           - Primary insurance                        None/uninsured 
+           - Employment status - current              Full-time work 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  192 Smith Path Apt 94 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 5.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2022-03-01 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-03-01 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2022-03-01 : Platelet distribution width [Entitic volume] in Blood by Automated count 459.6 fL
+  2022-03-01 : Platelets [#/volume] in Blood by Automated count 407.4 10*3/uL
+  2022-03-01 : Erythrocyte distribution width [Entitic volume] by Automated count 41.3 fL
+  2022-03-01 : MCHC [Mass/volume] by Automated count    34.5 g/dL
+  2022-03-01 : MCH [Entitic mass] by Automated count    28.2 pg
+  2022-03-01 : MCV [Entitic volume] by Automated count  87.0 fL
+  2022-03-01 : Hematocrit [Volume Fraction] of Blood by Automated count 46.1 %
+  2022-03-01 : Hemoglobin [Mass/volume] in Blood        16.9 g/dL
+  2022-03-01 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2022-03-01 : Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+  2022-03-01 : Respiratory rate                         14.0 /min
+  2022-03-01 : Heart rate                               71.0 /min
+  2022-03-01 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  101.0 mm[Hg]
+  2022-03-01 : Body mass index (BMI) [Ratio]            21.6 kg/m2
+  2022-03-01 : Body Weight                              72.9 kg
+  2022-03-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2022-03-01 : Body Height                              183.6 cm
+  2019-02-26 : Total score [HARK]                       0.0 {score}
+  2019-02-26 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 65807 /a
+           - Primary insurance                        None/uninsured 
+           - Employment status - current              Full-time work 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  192 Smith Path Apt 94 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 5.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2019-02-26 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-02-26 : Respiratory rate                         15.0 /min
+  2019-02-26 : Heart rate                               90.0 /min
+  2019-02-26 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  100.0 mm[Hg]
+  2019-02-26 : Body mass index (BMI) [Percentile] Per age and sex 17.2 %
+  2019-02-26 : Body mass index (BMI) [Ratio]            20.1 kg/m2
+  2019-02-26 : Body Weight                              67.8 kg
+  2019-02-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2019-02-26 : Body Height                              183.4 cm
+  2018-07-04 : Body temperature                         37.7 Cel
+  2018-02-20 : Total score [DAST-10]                    1.0 {score}
+  2018-02-20 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 1 or 2 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 65807 /a
+           - Primary insurance                        None/uninsured 
+           - Employment status - current              Full-time work 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  192 Smith Path Apt 94 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 5.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? I choose not to answer this question 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2018-02-20 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2018-02-20 : Respiratory rate                         13.0 /min
+  2018-02-20 : Heart rate                               78.0 /min
+  2018-02-20 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  103.0 mm[Hg]
+  2018-02-20 : Body mass index (BMI) [Percentile] Per age and sex 24.9 %
+  2018-02-20 : Body mass index (BMI) [Ratio]            20.2 kg/m2
+  2018-02-20 : Body Weight                              67.7 kg
+  2018-02-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2018-02-20 : Body Height                              183.0 cm
+  2017-02-14 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 3.0 {score}
+  2017-02-14 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2017-02-14 : Respiratory rate                         16.0 /min
+  2017-02-14 : Heart rate                               98.0 /min
+  2017-02-14 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  92.0 mm[Hg]
+  2017-02-14 : Body mass index (BMI) [Percentile] Per age and sex 40.4 %
+  2017-02-14 : Body mass index (BMI) [Ratio]            20.6 kg/m2
+  2017-02-14 : Body Weight                              68.6 kg
+  2017-02-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-02-14 : Body Height                              182.3 cm
+  2016-02-09 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2016-02-09 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2016-02-09 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.0 fL
+  2016-02-09 : Platelet distribution width [Entitic volume] in Blood by Automated count 412.7 fL
+  2016-02-09 : Platelets [#/volume] in Blood by Automated count 169.6 10*3/uL
+  2016-02-09 : Erythrocyte distribution width [Entitic volume] by Automated count 45.9 fL
+  2016-02-09 : MCHC [Mass/volume] by Automated count    35.7 g/dL
+  2016-02-09 : MCH [Entitic mass] by Automated count    28.7 pg
+  2016-02-09 : MCV [Entitic volume] by Automated count  91.8 fL
+  2016-02-09 : Hematocrit [Volume Fraction] of Blood by Automated count 40.5 %
+  2016-02-09 : Hemoglobin [Mass/volume] in Blood        16.0 g/dL
+  2016-02-09 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2016-02-09 : Leukocytes [#/volume] in Blood by Automated count 8.2 10*3/uL
+  2016-02-09 : Respiratory rate                         12.0 /min
+  2016-02-09 : Heart rate                               70.0 /min
+  2016-02-09 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  86.0 mm[Hg]
+  2016-02-09 : Body mass index (BMI) [Percentile] Per age and sex 57.9 %
+  2016-02-09 : Body mass index (BMI) [Ratio]            21.2 kg/m2
+  2016-02-09 : Body Weight                              69.3 kg
+  2016-02-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2016-02-09 : Body Height                              180.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2025-03-04 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2025-03-04 : Assessment of substance use (procedure)
+  2025-03-04 : Depression screening (procedure)
+  2025-03-04 : Depression screening (procedure)
+  2025-03-04 : Assessment of health and social care needs (procedure)
+  2023-12-19 : Oral health education (procedure) for Gingivitis (disorder)
+  2023-12-19 : Dental fluoride treatment (procedure) for Gingivitis (disorder)
+  2023-12-19 : Examination of gingivae (procedure) for Gingivitis (disorder)
+  2023-12-19 : Dental plain X-ray bitewing (procedure)
+  2023-12-19 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2023-12-19 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2023-12-19 : Dental care (regime/therapy) for Gingivitis (disorder)
+  2023-12-19 : Dental consultation and report (procedure) for Gingivitis (disorder)
+  2023-12-05 : Nasal sinus endoscopy (procedure)
+  2023-12-05 : Patient referral for dental care (procedure) for Gingivitis (disorder)
+  2023-12-05 : Screening for drug abuse (procedure)
+  2023-12-05 : Assessment of substance use (procedure)
+  2023-12-05 : Assessment of health and social care needs (procedure)
+  2023-12-05 : Medication reconciliation (procedure)
+  2022-03-15 : Oral health education (procedure) for Gingivitis (disorder)
+  2022-03-15 : Dental fluoride treatment (procedure) for Gingivitis (disorder)
+  2022-03-15 : Examination of gingivae (procedure) for Gingivitis (disorder)
+  2022-03-15 : Dental plain X-ray bitewing (procedure)
+  2022-03-15 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2022-03-15 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2022-03-15 : Dental care (regime/therapy) for Gingivitis (disorder)
+  2022-03-15 : Dental consultation and report (procedure) for Gingivitis (disorder)
+  2022-03-01 : Patient referral for dental care (procedure) for Gingivitis (disorder)
+  2022-03-01 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2022-03-01 : Assessment of substance use (procedure)
+  2022-03-01 : Depression screening (procedure)
+  2022-03-01 : Depression screening (procedure)
+  2022-03-01 : Assessment of anxiety (procedure)
+  2022-03-01 : Assessment of health and social care needs (procedure)
+  2022-03-01 : Medication reconciliation (procedure)
+  2019-02-26 : Screening for domestic abuse (procedure)
+  2019-02-26 : Assessment of health and social care needs (procedure)
+  2018-03-06 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2018-03-06 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2018-03-06 : Dental plain X-ray bitewing (procedure)
+  2018-03-06 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2018-03-06 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2018-03-06 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2018-03-06 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2018-02-20 : Patient referral for dental care (procedure)
+  2018-02-20 : Screening for drug abuse (procedure)
+  2018-02-20 : Assessment of substance use (procedure)
+  2018-02-20 : Assessment of health and social care needs (procedure)
+  2017-02-28 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2017-02-28 : Dental fluoride treatment (procedure) for Patient referral for dental care (procedure)
+  2017-02-28 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2017-02-28 : Dental plain X-ray bitewing (procedure)
+  2017-02-28 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2017-02-28 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2017-02-28 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2017-02-28 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2017-02-14 : Patient referral for dental care (procedure)
+  2017-02-14 : Anticipatory guidance (procedure)
+  2017-02-14 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2017-02-14 : Assessment of substance use (procedure)
+  2017-02-14 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2017-02-14 : Depression screening (procedure)
+  2016-02-23 : Oral health education (procedure) for Gingivitis (disorder)
+  2016-02-23 : Dental fluoride treatment (procedure) for Gingivitis (disorder)
+  2016-02-23 : Examination of gingivae (procedure) for Gingivitis (disorder)
+  2016-02-23 : Dental plain X-ray bitewing (procedure)
+  2016-02-23 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2016-02-23 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2016-02-23 : Dental care (regime/therapy) for Gingivitis (disorder)
+  2016-02-23 : Dental consultation and report (procedure) for Gingivitis (disorder)
+  2016-02-09 : Patient referral for dental care (procedure) for Gingivitis (disorder)
+  2016-02-09 : Anticipatory guidance (procedure)
+  2016-02-09 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2016-02-09 : Assessment of substance use (procedure)
+  2016-02-09 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2016-02-09 : Depression screening (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2025-03-04 : Influenza, seasonal, injectable, preservative free
+  2023-12-05 : Hep B, adult
+  2023-12-05 : Influenza, seasonal, injectable, preservative free
+  2022-03-01 : meningococcal MCV4P
+  2022-03-01 : Hep B, adult
+  2022-03-01 : Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+  2022-03-01 : Influenza, seasonal, injectable, preservative free
+  2021-05-25 : COVID-19 vaccine, vector-nr, rS-Ad26, PF, 0.5 mL
+  2019-02-26 : Influenza, seasonal, injectable, preservative free
+  2018-02-20 : Influenza, seasonal, injectable, preservative free
+  2017-02-14 : Influenza, seasonal, injectable, preservative free
+  2016-02-09 : meningococcal MCV4P
+  2016-02-09 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2025-03-04 (Dr. Jude Hammes) : Encounter at STANLEY STREET TREATMENT AND RESOURCES, INC
+2023-12-19 (Dr. Tabatha Roob) : Encounter at STEWARD ST. ANNES HOSPITAL CORPORATION : Encounter for Gingivitis (disorder)
+2023-12-05 (Dr. Tabatha Roob) : Encounter at STEWARD ST. ANNES HOSPITAL CORPORATION : Encounter for Acute bacterial sinusitis (disorder)
+2023-12-05 (Dr. Tabatha Roob) : Encounter at STEWARD ST. ANNES HOSPITAL CORPORATION
+2023-11-21 (Dr. Tabatha Roob) : Encounter at STEWARD ST. ANNES HOSPITAL CORPORATION : Encounter for Acute bacterial sinusitis (disorder)
+2023-09-05 (Dr. Tabatha Roob) : Encounter at STEWARD ST. ANNES HOSPITAL CORPORATION : Encounter for Acute bacterial sinusitis (disorder)
+2022-03-15 (Dr. Tabatha Roob) : Encounter at STEWARD ST. ANNES HOSPITAL CORPORATION : Encounter for Gingivitis (disorder)
+2022-03-01 (Dr. Jude Hammes) : Encounter at STANLEY STREET TREATMENT AND RESOURCES, INC
+2021-05-25 (Dr. Tabatha Roob) : Encounter at STEWARD ST. ANNES HOSPITAL CORPORATION
+2019-02-26 (Dr. Jude Hammes) : Encounter at STANLEY STREET TREATMENT AND RESOURCES, INC
+2018-07-04 (Dr. Tabatha Roob) : Encounter at STEWARD ST. ANNES HOSPITAL CORPORATION : Encounter for Acute viral pharyngitis (disorder)
+2018-03-06 (Dr. Tabatha Roob) : Encounter at STEWARD ST. ANNES HOSPITAL CORPORATION : Encounter for Patient referral for dental care (procedure)
+2018-02-20 (Dr. Jude Hammes) : Encounter at STANLEY STREET TREATMENT AND RESOURCES, INC
+2017-02-28 (Dr. Tabatha Roob) : Encounter at STEWARD ST. ANNES HOSPITAL CORPORATION : Encounter for Patient referral for dental care (procedure)
+2017-02-14 (Dr. Jude Hammes) : Encounter at STANLEY STREET TREATMENT AND RESOURCES, INC
+2016-02-23 (Dr. Tabatha Roob) : Encounter at STEWARD ST. ANNES HOSPITAL CORPORATION : Encounter for Gingivitis (disorder)
+2016-02-09 (Dr. Jude Hammes) : Encounter at STANLEY STREET TREATMENT AND RESOURCES, INC
+2015-02-03 (Dr. Jude Hammes) : Encounter at STANLEY STREET TREATMENT AND RESOURCES, INC
+2011-01-11 (Dr. Jude Hammes) : Encounter at STANLEY STREET TREATMENT AND RESOURCES, INC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2023-12-19 : Digital Radiography, Structure of region of internal part of mouth (body structure)
+  2022-03-15 : Digital Radiography, Structure of region of internal part of mouth (body structure)
+  2018-03-06 : Digital Radiography, Structure of region of internal part of mouth (body structure)
+  2017-02-28 : Digital Radiography, Structure of region of internal part of mouth (body structure)
+  2016-02-23 : Digital Radiography, Structure of region of internal part of mouth (body structure)
+--------------------------------------------------------------------------------

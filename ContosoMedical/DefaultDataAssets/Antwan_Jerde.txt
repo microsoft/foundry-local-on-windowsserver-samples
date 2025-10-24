@@ -1,0 +1,464 @@
+Antwan Jerde
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 23
+Birth Date:          2001-10-16
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2019-12-24[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Gingivitis (disorder)
+  2017-12-12[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Gingivitis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2023-12-19 -            : Stress (finding)
+  2023-12-19 -            : Limited social contact (finding)
+  2023-12-19 -            : Anemia (disorder)
+  2023-12-19 -            : Prediabetes (finding)
+  2021-01-12 - 2021-02-05 : Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder)
+  2021-01-12 - 2021-02-05 : Fever (finding)
+  2021-01-12 - 2021-02-05 : Fatigue (finding)
+  2020-12-29 - 2020-12-29 : Dental filling lost (finding)
+  2021-01-04 - 2021-01-12 : Suspected disease caused by Severe acute respiratory coronavirus 2 (situation)
+  2020-12-15 -            : Not in labor force (finding)
+  2019-12-10 - 2019-12-24 : Gingivitis (disorder)
+  2019-12-10 - 2020-12-15 : Limited social contact (finding)
+  2019-12-10 - 2020-12-15 : Part-time employment (finding)
+  2019-12-10 -            : Only received primary school education (finding)
+  2019-12-10 -            : Medication review due (situation)
+  2018-12-04 - 2018-12-04 : Medication review due (situation)
+  2017-12-12 - 2017-12-12 : Primary dental caries (disorder)
+  2017-12-12 - 2017-12-12 : Gingival disease (disorder)
+  2017-11-28 - 2017-12-12 : Gingivitis (disorder)
+  2017-11-28 - 2017-11-28 : Medication review due (situation)
+  2016-11-22 - 2016-11-22 : Medication review due (situation)
+  2015-11-17 - 2015-11-17 : Medication review due (situation)
+  2014-11-11 - 2015-11-17 : Risk activity involvement (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2023-12-19[CURRENT] : Diabetes self management plan (record artifact)
+                         Reason: Prediabetes (finding)
+                         Activity: Diabetic diet (finding)
+                         Activity: Exercise therapy (regime/therapy)
+  2021-01-12[STOPPED] : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Isolation of infected patient (procedure)
+  2021-01-12[STOPPED] : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Personal protective equipment (physical object)
+--------------------------------------------------------------------------------
+REPORTS:
+  2023-12-26 : CBC panel - Blood by Automated count
+           - Hemoglobin [Mass/volume] in Blood        10.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood    33.3 %
+           - Leukocytes [#/volume] in Blood by Automated count 6.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - MCV [Entitic volume] by Automated count  82.4 fL
+           - MCH [Entitic mass] by Automated count    31.1 pg
+           - MCHC [Mass/volume] by Automated count    33.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.8 fL
+           - Platelets [#/volume] in Blood by Automated count 195.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 251.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  2023-12-19 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2023-12-19 : PHQ-9 quick depression assessment panel [Reported.PHQ]
+           - Patient Health Questionnaire 9 item (PHQ-9) total score [Reported] 13.0 {score}
+  2023-12-19 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 5.0 {score}
+  2023-12-19 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2023-12-19 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 36.3 %
+           - MCV [Entitic volume] by Automated count  86.8 fL
+           - MCH [Entitic mass] by Automated count    30.5 pg
+           - MCHC [Mass/volume] by Automated count    33.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.2 fL
+           - Platelets [#/volume] in Blood by Automated count 286.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 201.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.6 fL
+  2023-12-19 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           91.4 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     8.8 mg/dL
+           - Creatinine [Mass/volume] in Blood        1.0 mg/dL
+           - Calcium [Mass/volume] in Blood           9.8 mg/dL
+           - Sodium [Moles/volume] in Blood           141.0 mmol/L
+           - Potassium [Moles/volume] in Blood        4.6 mmol/L
+           - Chloride [Moles/volume] in Blood         101.5 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 25.8 mmol/L
+  2021-01-12 : SARS-CoV-2 RNA Pnl Resp NAA+probe
+           - SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+  2021-01-12 : Influenza virus A and B Ag panel - Upper respiratory specimen by Rapid immunoassay
+           - Influenza virus A Ag [Presence] in Upper respiratory specimen by Rapid immunoassay Not detected (qualifier value) 
+           - Influenza virus B Ag [Presence] in Upper respiratory specimen by Rapid immunoassay Detected (qualifier value) 
+  2020-12-15 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    0.0 {score}
+  2020-12-15 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2020-12-15 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2019-12-10 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2019-12-10 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2018-12-04 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 0.0 {score}
+  2018-12-04 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2017-11-28 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 0.0 {score}
+  2017-11-28 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.3 %
+           - MCV [Entitic volume] by Automated count  81.8 fL
+           - MCH [Entitic mass] by Automated count    27.1 pg
+           - MCHC [Mass/volume] by Automated count    34.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.3 fL
+           - Platelets [#/volume] in Blood by Automated count 268.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 299.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2016-11-22 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+  2016-11-22 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2015-11-17 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+  2015-11-17 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2023-12-26 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  2023-12-26 : Platelet distribution width [Entitic volume] in Blood by Automated count 251.4 fL
+  2023-12-26 : Platelets [#/volume] in Blood by Automated count 195.7 10*3/uL
+  2023-12-26 : Erythrocyte distribution width [Entitic volume] by Automated count 42.8 fL
+  2023-12-26 : MCHC [Mass/volume] by Automated count    33.5 g/dL
+  2023-12-26 : MCH [Entitic mass] by Automated count    31.1 pg
+  2023-12-26 : MCV [Entitic volume] by Automated count  82.4 fL
+  2023-12-26 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2023-12-26 : Leukocytes [#/volume] in Blood by Automated count 6.5 10*3/uL
+  2023-12-26 : Hematocrit [Volume Fraction] of Blood    33.3 %
+  2023-12-26 : Hemoglobin [Mass/volume] in Blood        10.9 g/dL
+  2023-12-19 : Total score [DAST-10]                    1.0 {score}
+  2023-12-19 : Patient Health Questionnaire 9 item (PHQ-9) total score [Reported] 13.0 {score}
+  2023-12-19 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 5.0 {score}
+  2023-12-19 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2023-12-19 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 1 or 2 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 68072 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              I choose not to answer this question 
+           - Highest level of education               Less than high school degree 
+           - Address                                  587 Gutkowski Ramp 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 6.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2023-12-19 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-12-19 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.6 fL
+  2023-12-19 : Platelet distribution width [Entitic volume] in Blood by Automated count 201.8 fL
+  2023-12-19 : Platelets [#/volume] in Blood by Automated count 286.3 10*3/uL
+  2023-12-19 : Erythrocyte distribution width [Entitic volume] by Automated count 45.2 fL
+  2023-12-19 : MCHC [Mass/volume] by Automated count    33.2 g/dL
+  2023-12-19 : MCH [Entitic mass] by Automated count    30.5 pg
+  2023-12-19 : MCV [Entitic volume] by Automated count  86.8 fL
+  2023-12-19 : Hematocrit [Volume Fraction] of Blood by Automated count 36.3 %
+  2023-12-19 : Hemoglobin [Mass/volume] in Blood        14.3 g/dL
+  2023-12-19 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2023-12-19 : Leukocytes [#/volume] in Blood by Automated count 10.2 10*3/uL
+  2023-12-19 : Carbon dioxide, total [Moles/volume] in Blood 25.8 mmol/L
+  2023-12-19 : Chloride [Moles/volume] in Blood         101.5 mmol/L
+  2023-12-19 : Potassium [Moles/volume] in Blood        4.6 mmol/L
+  2023-12-19 : Sodium [Moles/volume] in Blood           141.0 mmol/L
+  2023-12-19 : Calcium [Mass/volume] in Blood           9.8 mg/dL
+  2023-12-19 : Creatinine [Mass/volume] in Blood        1.0 mg/dL
+  2023-12-19 : Urea nitrogen [Mass/volume] in Blood     8.8 mg/dL
+  2023-12-19 : Glucose [Mass/volume] in Blood           91.4 mg/dL
+  2023-12-19 : Respiratory rate                         14.0 /min
+  2023-12-19 : Heart rate                               77.0 /min
+  2023-12-19 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2023-12-19 : Body mass index (BMI) [Ratio]            21.3 kg/m2
+  2023-12-19 : Body Weight                              59.7 kg
+  2023-12-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2023-12-19 : Body Height                              167.2 cm
+  2023-12-19 : Hemoglobin A1c/Hemoglobin.total in Blood 5.8 %
+  2021-01-12 : SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+  2021-01-12 : Influenza virus B Ag [Presence] in Upper respiratory specimen by Rapid immunoassay Detected (qualifier value) 
+  2021-01-12 : Influenza virus A Ag [Presence] in Upper respiratory specimen by Rapid immunoassay Not detected (qualifier value) 
+  2021-01-12 : Body Weight                              54.7 kg
+  2021-01-12 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2021-01-12 : Oxygen saturation in Arterial blood      87.3 %
+  2021-01-12 : Heart rate                               62.9 /min
+  2021-01-12 : Respiratory rate                         22.6 /min
+  2021-01-12 : Body temperature                         40.9 Cel
+  2020-12-15 : Total score [DAST-10]                    0.0 {score}
+  2020-12-15 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2020-12-15 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2020-12-15 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Utilities 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 68072 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Otherwise unemployed but not seeking work (ex: student, retired, disabled, unpaid primary care giver) 
+           - Highest level of education               Less than high school degree 
+           - Address                                  587 Gutkowski Ramp 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 6.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2020-12-15 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-12-15 : Respiratory rate                         15.0 /min
+  2020-12-15 : Heart rate                               85.0 /min
+  2020-12-15 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  138.0 mm[Hg]
+  2020-12-15 : Body mass index (BMI) [Percentile] Per age and sex 11.1 %
+  2020-12-15 : Body mass index (BMI) [Ratio]            19.6 kg/m2
+  2020-12-15 : Body Weight                              54.6 kg
+  2020-12-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2020-12-15 : Body Height                              167.0 cm
+  2019-12-10 : Total score [DAST-10]                    1.0 {score}
+  2019-12-10 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2019-12-10 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 1 or 2 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 68072 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Part-time or temporary work 
+           - Highest level of education               Less than high school degree 
+           - Address                                  587 Gutkowski Ramp 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 6.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2019-12-10 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-12-10 : Respiratory rate                         14.0 /min
+  2019-12-10 : Heart rate                               88.0 /min
+  2019-12-10 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  133.0 mm[Hg]
+  2019-12-10 : Body mass index (BMI) [Percentile] Per age and sex 10.5 %
+  2019-12-10 : Body mass index (BMI) [Ratio]            19.0 kg/m2
+  2019-12-10 : Body Weight                              52.7 kg
+  2019-12-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2019-12-10 : Body Height                              166.5 cm
+  2018-12-04 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 0.0 {score}
+  2018-12-04 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2018-12-04 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2018-12-04 : Respiratory rate                         14.0 /min
+  2018-12-04 : Heart rate                               91.0 /min
+  2018-12-04 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2018-12-04 : Body mass index (BMI) [Percentile] Per age and sex 21.1 %
+  2018-12-04 : Body mass index (BMI) [Ratio]            19.3 kg/m2
+  2018-12-04 : Body Weight                              53.0 kg
+  2018-12-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2018-12-04 : Body Height                              165.5 cm
+  2017-11-28 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 0.0 {score}
+  2017-11-28 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2017-11-28 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2017-11-28 : Platelet distribution width [Entitic volume] in Blood by Automated count 299.2 fL
+  2017-11-28 : Platelets [#/volume] in Blood by Automated count 268.4 10*3/uL
+  2017-11-28 : Erythrocyte distribution width [Entitic volume] by Automated count 45.3 fL
+  2017-11-28 : MCHC [Mass/volume] by Automated count    34.0 g/dL
+  2017-11-28 : MCH [Entitic mass] by Automated count    27.1 pg
+  2017-11-28 : MCV [Entitic volume] by Automated count  81.8 fL
+  2017-11-28 : Hematocrit [Volume Fraction] of Blood by Automated count 37.3 %
+  2017-11-28 : Hemoglobin [Mass/volume] in Blood        17.3 g/dL
+  2017-11-28 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2017-11-28 : Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+  2017-11-28 : Respiratory rate                         13.0 /min
+  2017-11-28 : Heart rate                               82.0 /min
+  2017-11-28 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 89.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2017-11-28 : Body mass index (BMI) [Percentile] Per age and sex 32.2 %
+  2017-11-28 : Body mass index (BMI) [Ratio]            19.4 kg/m2
+  2017-11-28 : Body Weight                              52.0 kg
+  2017-11-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2017-11-28 : Body Height                              163.5 cm
+  2016-11-22 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+  2016-11-22 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2016-11-22 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2016-11-22 : Respiratory rate                         15.0 /min
+  2016-11-22 : Heart rate                               61.0 /min
+  2016-11-22 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2016-11-22 : Body mass index (BMI) [Percentile] Per age and sex 50.8 %
+  2016-11-22 : Body mass index (BMI) [Ratio]            20.0 kg/m2
+  2016-11-22 : Body Weight                              50.9 kg
+  2016-11-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2016-11-22 : Body Height                              159.7 cm
+  2015-11-17 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+  2015-11-17 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2015-11-17 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2015-11-17 : Respiratory rate                         13.0 /min
+  2015-11-17 : Heart rate                               96.0 /min
+  2015-11-17 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  136.0 mm[Hg]
+  2015-11-17 : Body mass index (BMI) [Percentile] Per age and sex 66.9 %
+  2015-11-17 : Body mass index (BMI) [Ratio]            20.5 kg/m2
+  2015-11-17 : Body Weight                              48.4 kg
+  2015-11-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2015-11-17 : Body Height                              153.7 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2023-12-26 : Brief general examination (procedure)
+  2023-12-26 : Medication reconciliation (procedure)
+  2023-12-26 : Review of systems (procedure)
+  2023-12-26 : Peripheral blood smear interpretation (procedure)
+  2023-12-19 : Screening for drug abuse (procedure)
+  2023-12-19 : Assessment of substance use (procedure)
+  2023-12-19 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2023-12-19 : Depression screening (procedure)
+  2023-12-19 : Depression screening (procedure)
+  2023-12-19 : Assessment of anxiety (procedure)
+  2023-12-19 : Assessment of health and social care needs (procedure)
+  2021-01-12 : Face mask (physical object) for Suspected disease caused by Severe acute respiratory coronavirus 2 (situation)
+  2020-12-29 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2020-12-29 : Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure) for Dental filling lost (finding)
+  2020-12-29 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2020-12-29 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2020-12-29 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2020-12-29 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2020-12-29 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2020-12-15 : Patient referral for dental care (procedure)
+  2020-12-15 : Screening for drug abuse (procedure)
+  2020-12-15 : Assessment of substance use (procedure)
+  2020-12-15 : Depression screening (procedure)
+  2020-12-15 : Depression screening (procedure)
+  2020-12-15 : Assessment of anxiety (procedure)
+  2020-12-15 : Assessment of health and social care needs (procedure)
+  2019-12-24 : Oral health education (procedure) for Gingivitis (disorder)
+  2019-12-24 : Dental fluoride treatment (procedure) for Gingivitis (disorder)
+  2019-12-24 : Examination of gingivae (procedure) for Gingivitis (disorder)
+  2019-12-24 : Dental plain X-ray bitewing (procedure)
+  2019-12-24 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2019-12-24 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2019-12-24 : Dental care (regime/therapy) for Gingivitis (disorder)
+  2019-12-24 : Dental consultation and report (procedure) for Gingivitis (disorder)
+  2019-12-10 : Patient referral for dental care (procedure) for Gingivitis (disorder)
+  2019-12-10 : Screening for drug abuse (procedure)
+  2019-12-10 : Assessment of substance use (procedure)
+  2019-12-10 : Depression screening (procedure)
+  2019-12-10 : Depression screening (procedure)
+  2019-12-10 : Assessment of health and social care needs (procedure)
+  2018-12-04 : Anticipatory guidance (procedure)
+  2018-12-04 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2018-12-04 : Assessment of substance use (procedure)
+  2018-12-04 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2018-12-04 : Depression screening (procedure)
+  2018-12-04 : Assessment of anxiety (procedure)
+  2018-12-04 : Medication reconciliation (procedure)
+  2017-12-12 : Oral health education (procedure) for Gingivitis (disorder)
+  2017-12-12 : Dental fluoride treatment (procedure) for Gingivitis (disorder)
+  2017-12-12 : Restoration of tooth with coverage of all cusps using dental filling material (procedure) for Primary dental caries (disorder)
+  2017-12-12 : Postoperative care for dental procedure (regime/therapy)
+  2017-12-12 : Gingivectomy or gingivoplasty, per tooth (procedure) for Gingival disease (disorder)
+  2017-12-12 : Dental application of desensitizing medicament (procedure) for Gingival disease (disorder)
+  2017-12-12 : Dental surgical procedure (procedure) for Gingival disease (disorder)
+  2017-12-12 : Examination of gingivae (procedure) for Gingivitis (disorder)
+  2017-12-12 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2017-12-12 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2017-12-12 : Dental care (regime/therapy) for Gingivitis (disorder)
+  2017-12-12 : Dental consultation and report (procedure) for Gingivitis (disorder)
+  2017-11-28 : Patient referral for dental care (procedure) for Gingivitis (disorder)
+  2017-11-28 : Anticipatory guidance (procedure)
+  2017-11-28 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2017-11-28 : Assessment of substance use (procedure)
+  2017-11-28 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2017-11-28 : Depression screening (procedure)
+  2017-11-28 : Medication reconciliation (procedure)
+  2016-11-22 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2016-11-22 : Depression screening (procedure)
+  2016-11-22 : Assessment of anxiety (procedure)
+  2016-11-22 : Medication reconciliation (procedure)
+  2015-11-17 : Anticipatory guidance (procedure)
+  2015-11-17 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2015-11-17 : Assessment of substance use (procedure)
+  2015-11-17 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2015-11-17 : Depression screening (procedure)
+  2015-11-17 : Assessment of anxiety (procedure)
+  2015-11-17 : Medication reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2023-12-19 : meningococcal MCV4P
+  2023-12-19 : Hep B, adult
+  2023-12-19 : Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+  2023-12-19 : Influenza, seasonal, injectable, preservative free
+  2021-03-30 : COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+  2021-03-09 : COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+  2020-12-15 : Influenza, seasonal, injectable, preservative free
+  2019-12-10 : Influenza, seasonal, injectable, preservative free
+  2018-12-04 : Influenza, seasonal, injectable, preservative free
+  2017-11-28 : meningococcal MCV4P
+  2017-11-28 : Influenza, seasonal, injectable, preservative free
+  2016-11-22 : Influenza, seasonal, injectable, preservative free
+  2015-11-17 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2023-12-26 (Dr. Miguel Hernández) : Encounter at TUFTS MEDICAL CENTER, INC : Encounter for Anemia (disorder)
+2023-12-19 (Dr. Anita Valle) : Encounter at SOUTH BOSTON COMMUNITY HEALTH CENTER INC
+2021-03-30 (Dr. Miguel Hernández) : Encounter at TUFTS MEDICAL CENTER, INC
+2021-03-09 (Dr. Miguel Hernández) : Encounter at TUFTS MEDICAL CENTER, INC
+2021-01-12 (Dr. Miguel Hernández) : Encounter at TUFTS MEDICAL CENTER, INC : Encounter for Suspected disease caused by Severe acute respiratory coronavirus 2 (situation)
+2020-12-29 (Dr. Miguel Hernández) : Encounter at TUFTS MEDICAL CENTER, INC : Encounter for Patient referral for dental care (procedure)
+2020-12-15 (Dr. Anita Valle) : Encounter at SOUTH BOSTON COMMUNITY HEALTH CENTER INC
+2019-12-24 (Dr. Miguel Hernández) : Encounter at TUFTS MEDICAL CENTER, INC : Encounter for Gingivitis (disorder)
+2019-12-10 (Dr. Anita Valle) : Encounter at SOUTH BOSTON COMMUNITY HEALTH CENTER INC
+2018-12-04 (Dr. Anita Valle) : Encounter at SOUTH BOSTON COMMUNITY HEALTH CENTER INC
+2017-12-12 (Dr. Miguel Hernández) : Encounter at TUFTS MEDICAL CENTER, INC : Encounter for Gingivitis (disorder)
+2017-11-28 (Dr. Anita Valle) : Encounter at SOUTH BOSTON COMMUNITY HEALTH CENTER INC
+2016-11-22 (Dr. Anita Valle) : Encounter at SOUTH BOSTON COMMUNITY HEALTH CENTER INC
+2015-11-17 (Dr. Anita Valle) : Encounter at SOUTH BOSTON COMMUNITY HEALTH CENTER INC
+2014-11-11 (Dr. Anita Valle) : Encounter at SOUTH BOSTON COMMUNITY HEALTH CENTER INC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2019-12-24 : Digital Radiography, Structure of region of internal part of mouth (body structure)
+--------------------------------------------------------------------------------

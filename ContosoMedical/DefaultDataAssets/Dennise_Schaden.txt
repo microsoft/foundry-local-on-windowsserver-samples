@@ -1,0 +1,372 @@
+Dennise Schaden
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 29
+Birth Date:          1996-06-01
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2025-07-27[STOPPED] : tropicamide 5 MG/ML Ophthalmic Solution
+  2024-08-31[STOPPED] : tropicamide 5 MG/ML Ophthalmic Solution
+  2024-08-24[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Patient referral for dental care (procedure)
+  2024-03-23[STOPPED] : Natazia 28 Day Pack
+  2023-03-29[STOPPED] : Trinessa 28 Day Pack
+  2022-04-03[STOPPED] : Seasonique 91 Day Pack
+  2018-04-22[STOPPED] : Kyleena 19.5 MG Intrauterine System
+  2017-04-27[STOPPED] : NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal System
+  2016-10-24[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  2016-04-30[STOPPED] : Mirena 52 MG Intrauterine System
+  2015-05-06[STOPPED] : Natazia 28 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2025-07-26 - 2025-08-24 : Normal pregnancy (finding)
+  2024-08-10 -            : Unhealthy alcohol drinking behavior (finding)
+  2024-08-10 -            : Limited social contact (finding)
+  2024-08-10 -            : Full-time employment (finding)
+  2024-08-10 -            : Diabetes mellitus type 2 (disorder)
+  2024-08-10 -            : Medication review due (situation)
+  2021-08-07 - 2021-08-07 : Medication review due (situation)
+  2019-07-06 - 2019-08-02 : Normal pregnancy (finding)
+  2018-08-04 - 2021-08-07 : Reports of violence in the environment (finding)
+  2018-08-04 -            : Stress (finding)
+  2018-05-09 - 2018-06-05 : Viral sinusitis (disorder)
+  2017-01-23 - 2017-02-06 : Viral sinusitis (disorder)
+  2016-10-24 - 2016-11-11 : Sprain of ankle (disorder)
+  2016-10-24 - 2016-11-11 : Sprain (morphologic abnormality)
+  2015-08-01 - 2024-08-10 : Part-time employment (finding)
+  2015-08-01 - 2018-08-04 : Medication review due (situation)
+  2014-07-26 -            : Received higher education (finding)
+  2013-11-16 -            : Risk activity involvement (finding)
+  2013-09-18 -            : Chronic sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2024-08-10[CURRENT] : Diabetes self management plan (record artifact)
+                         Reason: Diabetes mellitus type 2 (disorder)
+                         Activity: Diabetic diet (finding)
+                         Activity: Exercise therapy (regime/therapy)
+  2016-10-24[STOPPED] : Physiotherapy care plan (record artifact)
+                         Reason: Sprain of ankle (disorder)
+                         Activity: Rest, ice, compression and elevation treatment program (regime/therapy)
+                         Activity: Stretching exercises (regime/therapy)
+--------------------------------------------------------------------------------
+REPORTS:
+  2024-08-10 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    9.0 {score}
+  2024-08-10 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2024-08-10 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 36.6 %
+           - MCV [Entitic volume] by Automated count  82.3 fL
+           - MCH [Entitic mass] by Automated count    28.2 pg
+           - MCHC [Mass/volume] by Automated count    35.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.6 fL
+           - Platelets [#/volume] in Blood by Automated count 431.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 210.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  2024-08-10 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 168.3 mg/dL
+           - Triglycerides                            143.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      79.9 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 59.7 mg/dL
+  2024-08-10 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           78.8 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     14.6 mg/dL
+           - Creatinine [Mass/volume] in Blood        1.8 mg/dL
+           - Calcium [Mass/volume] in Blood           9.2 mg/dL
+           - Sodium [Moles/volume] in Blood           144.0 mmol/L
+           - Potassium [Moles/volume] in Blood        4.3 mmol/L
+           - Chloride [Moles/volume] in Blood         108.2 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 20.5 mmol/L
+  2021-08-07 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    0.0 {score}
+  2021-08-07 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2018-08-04 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2018-08-04 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2018-08-04 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.8 %
+           - MCV [Entitic volume] by Automated count  86.7 fL
+           - MCH [Entitic mass] by Automated count    27.8 pg
+           - MCHC [Mass/volume] by Automated count    33.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.9 fL
+           - Platelets [#/volume] in Blood by Automated count 228.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 500.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2025-07-27 : Right eye Diabetic retinopathy severity level by Ophthalmoscopy No apparent retinopathy 
+  2025-07-27 : Left eye Diabetic retinopathy severity level by Ophthalmoscopy No apparent retinopathy 
+  2025-07-27 : Right eye Intraocular pressure           18.0 mm[Hg]
+  2025-07-27 : Left eye Intraocular pressure            18.0 mm[Hg]
+  2025-07-27 : LogMAR visual acuity right eye (observable entity) 0 {logmar}
+  2025-07-27 : LogMAR visual acuity left eye (observable entity) 0 {logmar}
+  2024-08-31 : Right eye Diabetic retinopathy severity level by Ophthalmoscopy No apparent retinopathy 
+  2024-08-31 : Left eye Diabetic retinopathy severity level by Ophthalmoscopy No apparent retinopathy 
+  2024-08-31 : Right eye Intraocular pressure           16.0 mm[Hg]
+  2024-08-31 : Left eye Intraocular pressure            16.0 mm[Hg]
+  2024-08-31 : LogMAR visual acuity right eye (observable entity) 0 {logmar}
+  2024-08-31 : LogMAR visual acuity left eye (observable entity) 0 {logmar}
+  2024-08-10 : Total score [AUDIT-C]                    9.0 {score}
+  2024-08-10 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2024-08-10 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 1 or 2 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 68849 /a
+           - Primary insurance                        None/uninsured 
+           - Employment status - current              Full-time work 
+           - Highest level of education               More than high school 
+           - Address                                  1032 Glover Passage Suite 46 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 6.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2024-08-10 : Tobacco smoking status                   Ex-smoker (finding) 
+  2024-08-10 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 56.1 mL/min/{1.73_m2}
+  2024-08-10 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  2024-08-10 : Platelet distribution width [Entitic volume] in Blood by Automated count 210.0 fL
+  2024-08-10 : Platelets [#/volume] in Blood by Automated count 431.1 10*3/uL
+  2024-08-10 : Erythrocyte distribution width [Entitic volume] by Automated count 45.6 fL
+  2024-08-10 : MCHC [Mass/volume] by Automated count    35.3 g/dL
+  2024-08-10 : MCH [Entitic mass] by Automated count    28.2 pg
+  2024-08-10 : MCV [Entitic volume] by Automated count  82.3 fL
+  2024-08-10 : Hematocrit [Volume Fraction] of Blood by Automated count 36.6 %
+  2024-08-10 : Hemoglobin [Mass/volume] in Blood        12.6 g/dL
+  2024-08-10 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2024-08-10 : Leukocytes [#/volume] in Blood by Automated count 3.9 10*3/uL
+  2024-08-10 : Microalbumin/Creatinine [Mass Ratio] in Urine 12.1 mg/g
+  2024-08-10 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 59.7 mg/dL
+  2024-08-10 : Low Density Lipoprotein Cholesterol      79.9 mg/dL
+  2024-08-10 : Triglycerides                            143.6 mg/dL
+  2024-08-10 : Cholesterol [Mass/volume] in Serum or Plasma 168.3 mg/dL
+  2024-08-10 : Carbon dioxide, total [Moles/volume] in Blood 20.5 mmol/L
+  2024-08-10 : Chloride [Moles/volume] in Blood         108.2 mmol/L
+  2024-08-10 : Potassium [Moles/volume] in Blood        4.3 mmol/L
+  2024-08-10 : Sodium [Moles/volume] in Blood           144.0 mmol/L
+  2024-08-10 : Calcium [Mass/volume] in Blood           9.2 mg/dL
+  2024-08-10 : Creatinine [Mass/volume] in Blood        1.8 mg/dL
+  2024-08-10 : Urea nitrogen [Mass/volume] in Blood     14.6 mg/dL
+  2024-08-10 : Glucose [Mass/volume] in Blood           78.8 mg/dL
+  2024-08-10 : Respiratory rate                         14.0 /min
+  2024-08-10 : Heart rate                               74.0 /min
+  2024-08-10 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2024-08-10 : Body mass index (BMI) [Ratio]            26.1 kg/m2
+  2024-08-10 : Body Weight                              74.3 kg
+  2024-08-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2024-08-10 : Body Height                              168.8 cm
+  2024-08-10 : Hemoglobin A1c/Hemoglobin.total in Blood 6.6 %
+  2021-08-07 : Total score [DAST-10]                    0.0 {score}
+  2021-08-07 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2021-08-07 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 68849 /a
+           - Primary insurance                        None/uninsured 
+           - Employment status - current              I choose not to answer this question 
+           - Highest level of education               More than high school 
+           - Address                                  1032 Glover Passage Suite 46 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 6.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2021-08-07 : Tobacco smoking status                   Ex-smoker (finding) 
+  2021-08-07 : Respiratory rate                         14.0 /min
+  2021-08-07 : Heart rate                               88.0 /min
+  2021-08-07 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2021-08-07 : Body mass index (BMI) [Ratio]            24.4 kg/m2
+  2021-08-07 : Body Weight                              69.5 kg
+  2021-08-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2021-08-07 : Body Height                              168.8 cm
+  2018-08-04 : Total score [AUDIT-C]                    1.0 {score}
+  2018-08-04 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2018-08-04 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? No 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 68849 /a
+           - Primary insurance                        None/uninsured 
+           - Employment status - current              Part-time or temporary work 
+           - Highest level of education               More than high school 
+           - Address                                  1032 Glover Passage Suite 46 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 6.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2018-08-04 : Tobacco smoking status                   Ex-smoker (finding) 
+  2018-08-04 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  2018-08-04 : Platelet distribution width [Entitic volume] in Blood by Automated count 500.6 fL
+  2018-08-04 : Platelets [#/volume] in Blood by Automated count 228.3 10*3/uL
+  2018-08-04 : Erythrocyte distribution width [Entitic volume] by Automated count 40.9 fL
+  2018-08-04 : MCHC [Mass/volume] by Automated count    33.5 g/dL
+  2018-08-04 : MCH [Entitic mass] by Automated count    27.8 pg
+  2018-08-04 : MCV [Entitic volume] by Automated count  86.7 fL
+  2018-08-04 : Hematocrit [Volume Fraction] of Blood by Automated count 47.8 %
+  2018-08-04 : Hemoglobin [Mass/volume] in Blood        12.7 g/dL
+  2018-08-04 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2018-08-04 : Leukocytes [#/volume] in Blood by Automated count 7.0 10*3/uL
+  2018-08-04 : Respiratory rate                         16.0 /min
+  2018-08-04 : Heart rate                               84.0 /min
+  2018-08-04 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2018-08-04 : Body mass index (BMI) [Ratio]            22.8 kg/m2
+  2018-08-04 : Body Weight                              65.1 kg
+  2018-08-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2018-08-04 : Body Height                              168.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2025-08-24 : Depression screening (procedure) for Normal pregnancy (finding)
+  2025-08-24 : Physical examination procedure (procedure) for Normal pregnancy (finding)
+  2025-08-24 : Pregnancy termination care (regime/therapy) for Normal pregnancy (finding)
+  2025-08-11 : Induced termination of pregnancy (procedure) for Normal pregnancy (finding)
+  2025-08-11 : Counseling for termination of pregnancy (procedure) for Normal pregnancy (finding)
+  2025-07-27 : Diabetic retinal eye exam (procedure) for Diabetes mellitus type 2 (disorder)
+  2025-07-27 : Camera fundoscopy (procedure)
+  2025-07-27 : Indirect gonioscopy (procedure) for Diabetes mellitus type 2 (disorder)
+  2025-07-27 : Ocular slit lamp examination (procedure) for Diabetes mellitus type 2 (disorder)
+  2025-07-27 : Intraocular pressure test (procedure)
+  2025-07-27 : Visual acuity testing (procedure)
+  2025-07-26 : Ultrasound scan for fetal viability (procedure) for Normal pregnancy (finding)
+  2025-07-26 : Standard pregnancy test (procedure) for Normal pregnancy (finding)
+  2024-08-31 : Diabetic retinal eye exam (procedure) for Diabetes mellitus type 2 (disorder)
+  2024-08-31 : Camera fundoscopy (procedure)
+  2024-08-31 : Indirect gonioscopy (procedure) for Diabetes mellitus type 2 (disorder)
+  2024-08-31 : Ocular slit lamp examination (procedure) for Diabetes mellitus type 2 (disorder)
+  2024-08-31 : Intraocular pressure test (procedure)
+  2024-08-31 : Visual acuity testing (procedure)
+  2024-08-31 : History taking (procedure) for Diabetes mellitus type 2 (disorder)
+  2024-08-24 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2024-08-24 : Dental fluoride treatment (procedure) for Patient referral for dental care (procedure)
+  2024-08-24 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2024-08-24 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2024-08-24 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2024-08-24 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2024-08-24 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2024-08-10 : Patient referral for dental care (procedure)
+  2024-08-10 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2024-08-10 : Assessment of substance use (procedure)
+  2024-08-10 : Assessment of anxiety (procedure)
+  2024-08-10 : Assessment of health and social care needs (procedure)
+  2021-08-07 : Screening for drug abuse (procedure)
+  2021-08-07 : Assessment of substance use (procedure)
+  2021-08-07 : Depression screening (procedure)
+  2021-08-07 : Depression screening (procedure)
+  2021-08-07 : Assessment of health and social care needs (procedure)
+  2021-08-07 : Medication reconciliation (procedure)
+  2019-08-02 : Depression screening (procedure) for Normal pregnancy (finding)
+  2019-08-02 : Physical examination procedure (procedure) for Normal pregnancy (finding)
+  2019-08-02 : Pregnancy termination care (regime/therapy) for Normal pregnancy (finding)
+  2019-07-17 : Induced termination of pregnancy (procedure) for Normal pregnancy (finding)
+  2019-07-17 : Counseling for termination of pregnancy (procedure) for Normal pregnancy (finding)
+  2019-07-06 : Ultrasound scan for fetal viability (procedure) for Normal pregnancy (finding)
+  2019-07-06 : Standard pregnancy test (procedure) for Normal pregnancy (finding)
+  2019-05-18 : Removal of intrauterine contraceptive device (procedure)
+  2018-08-18 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2018-08-18 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2018-08-18 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2018-08-18 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2018-08-18 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2018-08-18 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2018-08-04 : Patient referral for dental care (procedure)
+  2018-08-04 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2018-08-04 : Assessment of substance use (procedure)
+  2018-08-04 : Depression screening (procedure)
+  2018-08-04 : Depression screening (procedure)
+  2018-08-04 : Assessment of health and social care needs (procedure)
+  2018-08-04 : Medication reconciliation (procedure)
+  2018-04-24 : Insertion of intrauterine contraceptive device (procedure)
+  2016-05-02 : Insertion of intrauterine contraceptive device (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2024-08-10 : Influenza, seasonal, injectable, preservative free
+  2021-09-11 : COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+  2021-08-21 : COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+  2021-08-07 : Influenza, seasonal, injectable, preservative free
+  2018-08-04 : meningococcal MCV4P
+  2018-08-04 : Hep B, adult
+  2018-08-04 : Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+  2018-08-04 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2025-08-24 (Dr. Logan Fisher) : Encounter at BAYSTATE MEDICAL CENTER : Encounter for Normal pregnancy (finding)
+2025-08-11 (Dr. Logan Fisher) : Encounter at BAYSTATE MEDICAL CENTER : Encounter for Normal pregnancy (finding)
+2025-07-27 (Dr. Logan Fisher) : Encounter at BAYSTATE MEDICAL CENTER
+2025-07-26 (Dr. Logan Fisher) : Encounter at BAYSTATE MEDICAL CENTER : Encounter for Normal pregnancy (finding)
+2024-08-31 (Dr. Logan Fisher) : Encounter at BAYSTATE MEDICAL CENTER : Encounter for Diabetes mellitus type 2 (disorder)
+2024-08-24 (Dr. Logan Fisher) : Encounter at BAYSTATE MEDICAL CENTER : Encounter for Patient referral for dental care (procedure)
+2024-08-10 (Dr. Debra Predovic) : Encounter at WEST BROOKFIELD FAMILY PRACTICE
+2024-03-23 (Dr. Logan Fisher) : Encounter at BAYSTATE MEDICAL CENTER : Encounter for Contraception care (regime/therapy)
+2023-03-29 (Dr. Logan Fisher) : Encounter at BAYSTATE MEDICAL CENTER : Encounter for Contraception care (regime/therapy)
+2022-04-03 (Dr. Logan Fisher) : Encounter at BAYSTATE MEDICAL CENTER : Encounter for Contraception care (regime/therapy)
+2021-09-11 (Dr. Logan Fisher) : Encounter at BAYSTATE MEDICAL CENTER
+2021-08-21 (Dr. Logan Fisher) : Encounter at BAYSTATE MEDICAL CENTER
+2021-08-07 (Dr. Debra Predovic) : Encounter at WEST BROOKFIELD FAMILY PRACTICE
+2019-08-02 (Dr. Logan Fisher) : Encounter at BAYSTATE MEDICAL CENTER : Encounter for Normal pregnancy (finding)
+2019-07-17 (Dr. Logan Fisher) : Encounter at BAYSTATE MEDICAL CENTER : Encounter for Normal pregnancy (finding)
+2019-07-06 (Dr. Logan Fisher) : Encounter at BAYSTATE MEDICAL CENTER : Encounter for Normal pregnancy (finding)
+2019-05-18 (Dr. Logan Fisher) : Encounter at BAYSTATE MEDICAL CENTER : Encounter for Contraception care (regime/therapy)
+2018-08-18 (Dr. Logan Fisher) : Encounter at BAYSTATE MEDICAL CENTER : Encounter for Patient referral for dental care (procedure)
+2018-08-04 (Dr. Debra Predovic) : Encounter at WEST BROOKFIELD FAMILY PRACTICE
+2018-05-09 (Dr. Logan Fisher) : Encounter at BAYSTATE MEDICAL CENTER : Encounter for Viral sinusitis (disorder)
+2018-04-24 (Dr. Logan Fisher) : Encounter at BAYSTATE MEDICAL CENTER : Encounter for Contraception care (regime/therapy)
+2018-04-22 (Dr. Logan Fisher) : Encounter at BAYSTATE MEDICAL CENTER : Encounter for Contraception care (regime/therapy)
+2017-04-27 (Dr. Logan Fisher) : Encounter at BAYSTATE MEDICAL CENTER : Encounter for Contraception care (regime/therapy)
+2017-01-23 (Dr. Logan Fisher) : Encounter at BAYSTATE MEDICAL CENTER : Encounter for Viral sinusitis (disorder)
+2016-10-24 (Dr. Lyndon Trantow) : Encounter at OVERLOOK MASONIC HEALTH CENTER : Encounter for Sprain (morphologic abnormality)
+2016-05-02 (Dr. Logan Fisher) : Encounter at BAYSTATE MEDICAL CENTER : Encounter for Contraception care (regime/therapy)
+2016-04-30 (Dr. Logan Fisher) : Encounter at BAYSTATE MEDICAL CENTER : Encounter for Contraception care (regime/therapy)
+2015-08-01 (Dr. Debra Predovic) : Encounter at WEST BROOKFIELD FAMILY PRACTICE
+2015-05-06 (Dr. Logan Fisher) : Encounter at BAYSTATE MEDICAL CENTER : Encounter for Contraception care (regime/therapy)
+2014-07-26 (Dr. Debra Predovic) : Encounter at WEST BROOKFIELD FAMILY PRACTICE
+2013-11-16 (Dr. Logan Fisher) : Encounter at BAYSTATE MEDICAL CENTER
+2013-09-18 (Dr. Logan Fisher) : Encounter at BAYSTATE MEDICAL CENTER : Encounter for Sinusitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2025-07-27 : Ophthalmic Photography, Entire retina (body structure)
+  2024-08-31 : Ophthalmic Photography, Entire retina (body structure)
+--------------------------------------------------------------------------------

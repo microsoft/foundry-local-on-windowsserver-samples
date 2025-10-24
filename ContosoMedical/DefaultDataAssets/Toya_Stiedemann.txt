@@ -1,0 +1,612 @@
+Toya Stiedemann
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 48
+Birth Date:          1977-02-20
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1978-05-02 -            : Shellfish (substance)
+  1978-05-02 -            : Allergic disposition (finding)
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2024-06-22[STOPPED] : Levora 0.15/30 28 Day Pack
+  2022-07-03[STOPPED] : Errin 28 Day Pack
+  2019-05-01[STOPPED] : Kyleena 19.5 MG Intrauterine System
+  2017-03-12[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Gingivitis (disorder)
+  2016-02-19[STOPPED] : Natazia 28 Day Pack
+  2008-05-11[CURRENT] : ferrous sulfate 325 MG Oral Tablet
+  1978-05-02[CURRENT] : Astemizole 10 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2025-03-16 -            : Full-time employment (finding)
+  2023-03-12 - 2025-03-16 : Part-time employment (finding)
+  2023-03-12 -            : Medication review due (situation)
+  2021-10-17 - 2022-05-15 : Normal pregnancy (finding)
+  2021-06-27 - 2021-07-15 : Blighted ovum (disorder)
+  2021-06-27 - 2021-07-15 : Miscarriage in first trimester (disorder)
+  2021-06-27 - 2021-07-15 : Normal pregnancy (finding)
+  2021-03-07 - 2023-03-12 : Unemployed (finding)
+  2020-07-25 -            : Past pregnancy history of miscarriage (situation)
+  2020-07-12 - 2020-07-25 : Complete miscarriage (disorder)
+  2020-07-12 - 2020-07-25 : Miscarriage in first trimester (disorder)
+  2020-07-12 - 2020-07-25 : Normal pregnancy (finding)
+  2019-03-03 -            : Body mass index 30+ - obesity (finding)
+  2019-03-03 - 2021-03-07 : Medication review due (situation)
+  2017-08-13 - 2018-03-18 : Normal pregnancy (finding)
+  2017-02-26 - 2017-03-12 : Gingivitis (disorder)
+  2017-02-26 - 2017-02-26 : Medication review due (situation)
+  2014-05-11 - 2017-02-26 : Victim of intimate partner abuse (finding)
+  2014-05-11 - 2021-03-07 : Full-time employment (finding)
+  2011-05-08 - 2023-03-12 : Social isolation (finding)
+  2008-05-04 - 2019-03-03 : Stress (finding)
+  2008-05-04 -            : Anemia (disorder)
+  2008-05-04 -            : Prediabetes (finding)
+  1999-06-20 -            : Limited social contact (finding)
+  1995-04-16 -            : Educated to high school level (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2021-10-17[STOPPED] : Routine antenatal care (regime/therapy)
+                         Activity: Antenatal education (procedure)
+                         Activity: Antenatal risk assessment (procedure)
+                         Activity: Antenatal blood tests (procedure)
+  2017-08-13[STOPPED] : Routine antenatal care (regime/therapy)
+                         Activity: Antenatal education (procedure)
+                         Activity: Antenatal risk assessment (procedure)
+                         Activity: Antenatal blood tests (procedure)
+  2008-05-04[CURRENT] : Diabetes self management plan (record artifact)
+                         Reason: Prediabetes (finding)
+                         Activity: Diabetic diet (finding)
+                         Activity: Exercise therapy (regime/therapy)
+  1978-04-22[CURRENT] : Self-care interventions (procedure)
+                         Activity: Food allergy diet (finding)
+                         Activity: Allergy education (procedure)
+--------------------------------------------------------------------------------
+REPORTS:
+  2025-03-16 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2025-03-16 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2025-03-16 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           82.2 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     7.6 mg/dL
+           - Creatinine [Mass/volume] in Blood        0.8 mg/dL
+           - Calcium [Mass/volume] in Blood           8.7 mg/dL
+           - Sodium [Moles/volume] in Blood           142.6 mmol/L
+           - Potassium [Moles/volume] in Blood        5.1 mmol/L
+           - Chloride [Moles/volume] in Blood         101.7 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 22.2 mmol/L
+  2023-03-12 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    0.0 {score}
+  2023-03-12 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2023-03-12 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2023-03-12 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.4 %
+           - MCV [Entitic volume] by Automated count  92.1 fL
+           - MCH [Entitic mass] by Automated count    29.7 pg
+           - MCHC [Mass/volume] by Automated count    33.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.0 fL
+           - Platelets [#/volume] in Blood by Automated count 426.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 308.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2023-03-12 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 194.2 mg/dL
+           - Triglycerides                            135.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      112.7 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 54.3 mg/dL
+  2023-03-12 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           79.9 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     18.6 mg/dL
+           - Creatinine [Mass/volume] in Blood        1.2 mg/dL
+           - Calcium [Mass/volume] in Blood           8.8 mg/dL
+           - Sodium [Moles/volume] in Blood           140.4 mmol/L
+           - Potassium [Moles/volume] in Blood        5.0 mmol/L
+           - Chloride [Moles/volume] in Blood         107.4 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 20.5 mmol/L
+  2021-03-07 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-03-07 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2021-03-07 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           64.7 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     8.4 mg/dL
+           - Creatinine [Mass/volume] in Blood        1.0 mg/dL
+           - Calcium [Mass/volume] in Blood           10.1 mg/dL
+           - Sodium [Moles/volume] in Blood           143.1 mmol/L
+           - Potassium [Moles/volume] in Blood        5.1 mmol/L
+           - Chloride [Moles/volume] in Blood         103.2 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 27.0 mmol/L
+  2019-03-03 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    2.0 {score}
+  2019-03-03 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2019-03-03 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 6.0 {score}
+  2019-03-03 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 150.8 mg/dL
+           - Triglycerides                            122.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      70.5 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 55.7 mg/dL
+  2019-03-03 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           86.9 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     8.8 mg/dL
+           - Creatinine [Mass/volume] in Blood        1.0 mg/dL
+           - Calcium [Mass/volume] in Blood           9.1 mg/dL
+           - Sodium [Moles/volume] in Blood           139.4 mmol/L
+           - Potassium [Moles/volume] in Blood        4.1 mmol/L
+           - Chloride [Moles/volume] in Blood         110.8 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 26.8 mmol/L
+  2017-02-26 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+  2017-02-26 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.0 %
+           - MCV [Entitic volume] by Automated count  84.5 fL
+           - MCH [Entitic mass] by Automated count    27.7 pg
+           - MCHC [Mass/volume] by Automated count    35.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.7 fL
+           - Platelets [#/volume] in Blood by Automated count 331.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 309.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.2 fL
+  2017-02-26 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           97.5 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     8.9 mg/dL
+           - Creatinine [Mass/volume] in Blood        1.0 mg/dL
+           - Calcium [Mass/volume] in Blood           8.5 mg/dL
+           - Sodium [Moles/volume] in Blood           137.0 mmol/L
+           - Potassium [Moles/volume] in Blood        5.1 mmol/L
+           - Chloride [Moles/volume] in Blood         109.4 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 26.4 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2025-03-16 : Total score [DAST-10]                    1.0 {score}
+  2025-03-16 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2025-03-16 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 1 or 2 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 31654 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  100 Collins Vale 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 8.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2025-03-16 : Tobacco smoking status                   Ex-smoker (finding) 
+  2025-03-16 : Carbon dioxide, total [Moles/volume] in Blood 22.2 mmol/L
+  2025-03-16 : Chloride [Moles/volume] in Blood         101.7 mmol/L
+  2025-03-16 : Potassium [Moles/volume] in Blood        5.1 mmol/L
+  2025-03-16 : Sodium [Moles/volume] in Blood           142.6 mmol/L
+  2025-03-16 : Calcium [Mass/volume] in Blood           8.7 mg/dL
+  2025-03-16 : Creatinine [Mass/volume] in Blood        0.8 mg/dL
+  2025-03-16 : Urea nitrogen [Mass/volume] in Blood     7.6 mg/dL
+  2025-03-16 : Glucose [Mass/volume] in Blood           82.2 mg/dL
+  2025-03-16 : Respiratory rate                         13.0 /min
+  2025-03-16 : Heart rate                               69.0 /min
+  2025-03-16 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2025-03-16 : Body mass index (BMI) [Ratio]            27.3 kg/m2
+  2025-03-16 : Body Weight                              76.3 kg
+  2025-03-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2025-03-16 : Body Height                              167.1 cm
+  2025-03-16 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2023-03-12 : Total score [AUDIT-C]                    0.0 {score}
+  2023-03-12 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2023-03-12 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2023-03-12 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 31654 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Part-time or temporary work 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  100 Collins Vale 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 8.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2023-03-12 : Tobacco smoking status                   Ex-smoker (finding) 
+  2023-03-12 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2023-03-12 : Platelet distribution width [Entitic volume] in Blood by Automated count 308.6 fL
+  2023-03-12 : Platelets [#/volume] in Blood by Automated count 426.9 10*3/uL
+  2023-03-12 : Erythrocyte distribution width [Entitic volume] by Automated count 43.0 fL
+  2023-03-12 : MCHC [Mass/volume] by Automated count    33.2 g/dL
+  2023-03-12 : MCH [Entitic mass] by Automated count    29.7 pg
+  2023-03-12 : MCV [Entitic volume] by Automated count  92.1 fL
+  2023-03-12 : Hematocrit [Volume Fraction] of Blood by Automated count 48.4 %
+  2023-03-12 : Hemoglobin [Mass/volume] in Blood        14.5 g/dL
+  2023-03-12 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2023-03-12 : Leukocytes [#/volume] in Blood by Automated count 4.1 10*3/uL
+  2023-03-12 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 54.3 mg/dL
+  2023-03-12 : Low Density Lipoprotein Cholesterol      112.7 mg/dL
+  2023-03-12 : Triglycerides                            135.8 mg/dL
+  2023-03-12 : Cholesterol [Mass/volume] in Serum or Plasma 194.2 mg/dL
+  2023-03-12 : Carbon dioxide, total [Moles/volume] in Blood 20.5 mmol/L
+  2023-03-12 : Chloride [Moles/volume] in Blood         107.4 mmol/L
+  2023-03-12 : Potassium [Moles/volume] in Blood        5.0 mmol/L
+  2023-03-12 : Sodium [Moles/volume] in Blood           140.4 mmol/L
+  2023-03-12 : Calcium [Mass/volume] in Blood           8.8 mg/dL
+  2023-03-12 : Creatinine [Mass/volume] in Blood        1.2 mg/dL
+  2023-03-12 : Urea nitrogen [Mass/volume] in Blood     18.6 mg/dL
+  2023-03-12 : Glucose [Mass/volume] in Blood           79.9 mg/dL
+  2023-03-12 : Respiratory rate                         13.0 /min
+  2023-03-12 : Heart rate                               93.0 /min
+  2023-03-12 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  102.0 mm[Hg]
+  2023-03-12 : Body mass index (BMI) [Ratio]            30.1 kg/m2
+  2023-03-12 : Body Weight                              84.0 kg
+  2023-03-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2023-03-12 : Body Height                              167.1 cm
+  2023-03-12 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2021-03-07 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-03-07 : Total score [HARK]                       0.0 {score}
+  2021-03-07 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 31654 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Unemployed 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  100 Collins Vale 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 8.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2021-03-07 : Tobacco smoking status                   Ex-smoker (finding) 
+  2021-03-07 : Carbon dioxide, total [Moles/volume] in Blood 27.0 mmol/L
+  2021-03-07 : Chloride [Moles/volume] in Blood         103.2 mmol/L
+  2021-03-07 : Potassium [Moles/volume] in Blood        5.1 mmol/L
+  2021-03-07 : Sodium [Moles/volume] in Blood           143.1 mmol/L
+  2021-03-07 : Calcium [Mass/volume] in Blood           10.1 mg/dL
+  2021-03-07 : Creatinine [Mass/volume] in Blood        1.0 mg/dL
+  2021-03-07 : Urea nitrogen [Mass/volume] in Blood     8.4 mg/dL
+  2021-03-07 : Glucose [Mass/volume] in Blood           64.7 mg/dL
+  2021-03-07 : Respiratory rate                         13.0 /min
+  2021-03-07 : Heart rate                               79.0 /min
+  2021-03-07 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  99.0 mm[Hg]
+  2021-03-07 : Body mass index (BMI) [Ratio]            30.1 kg/m2
+  2021-03-07 : Body Weight                              84.0 kg
+  2021-03-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-03-07 : Body Height                              167.1 cm
+  2021-03-07 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2019-03-03 : Total score [DAST-10]                    2.0 {score}
+  2019-03-03 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2019-03-03 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 6.0 {score}
+  2019-03-03 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Medicine or Any Health Care (Medical, Dental, Mental Health, Vision) 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 31654 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  100 Collins Vale 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 8.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2019-03-03 : Tobacco smoking status                   Ex-smoker (finding) 
+  2019-03-03 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 55.7 mg/dL
+  2019-03-03 : Low Density Lipoprotein Cholesterol      70.5 mg/dL
+  2019-03-03 : Triglycerides                            122.8 mg/dL
+  2019-03-03 : Cholesterol [Mass/volume] in Serum or Plasma 150.8 mg/dL
+  2019-03-03 : Carbon dioxide, total [Moles/volume] in Blood 26.8 mmol/L
+  2019-03-03 : Chloride [Moles/volume] in Blood         110.8 mmol/L
+  2019-03-03 : Potassium [Moles/volume] in Blood        4.1 mmol/L
+  2019-03-03 : Sodium [Moles/volume] in Blood           139.4 mmol/L
+  2019-03-03 : Calcium [Mass/volume] in Blood           9.1 mg/dL
+  2019-03-03 : Creatinine [Mass/volume] in Blood        1.0 mg/dL
+  2019-03-03 : Urea nitrogen [Mass/volume] in Blood     8.8 mg/dL
+  2019-03-03 : Glucose [Mass/volume] in Blood           86.9 mg/dL
+  2019-03-03 : Respiratory rate                         14.0 /min
+  2019-03-03 : Heart rate                               84.0 /min
+  2019-03-03 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2019-03-03 : Body mass index (BMI) [Ratio]            30.1 kg/m2
+  2019-03-03 : Body Weight                              84.0 kg
+  2019-03-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2019-03-03 : Body Height                              167.1 cm
+  2019-03-03 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2017-02-26 : Total score [AUDIT-C]                    2.0 {score}
+  2017-02-26 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 31654 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  100 Collins Vale 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 8.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2017-02-26 : Tobacco smoking status                   Ex-smoker (finding) 
+  2017-02-26 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.2 fL
+  2017-02-26 : Platelet distribution width [Entitic volume] in Blood by Automated count 309.4 fL
+  2017-02-26 : Platelets [#/volume] in Blood by Automated count 331.7 10*3/uL
+  2017-02-26 : Erythrocyte distribution width [Entitic volume] by Automated count 42.7 fL
+  2017-02-26 : MCHC [Mass/volume] by Automated count    35.3 g/dL
+  2017-02-26 : MCH [Entitic mass] by Automated count    27.7 pg
+  2017-02-26 : MCV [Entitic volume] by Automated count  84.5 fL
+  2017-02-26 : Hematocrit [Volume Fraction] of Blood by Automated count 37.0 %
+  2017-02-26 : Hemoglobin [Mass/volume] in Blood        16.0 g/dL
+  2017-02-26 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2017-02-26 : Leukocytes [#/volume] in Blood by Automated count 7.9 10*3/uL
+  2017-02-26 : Carbon dioxide, total [Moles/volume] in Blood 26.4 mmol/L
+  2017-02-26 : Chloride [Moles/volume] in Blood         109.4 mmol/L
+  2017-02-26 : Potassium [Moles/volume] in Blood        5.1 mmol/L
+  2017-02-26 : Sodium [Moles/volume] in Blood           137.0 mmol/L
+  2017-02-26 : Calcium [Mass/volume] in Blood           8.5 mg/dL
+  2017-02-26 : Creatinine [Mass/volume] in Blood        1.0 mg/dL
+  2017-02-26 : Urea nitrogen [Mass/volume] in Blood     8.9 mg/dL
+  2017-02-26 : Glucose [Mass/volume] in Blood           97.5 mg/dL
+  2017-02-26 : Respiratory rate                         13.0 /min
+  2017-02-26 : Heart rate                               77.0 /min
+  2017-02-26 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  97.0 mm[Hg]
+  2017-02-26 : Body mass index (BMI) [Ratio]            29.4 kg/m2
+  2017-02-26 : Body Weight                              82.1 kg
+  2017-02-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2017-02-26 : Body Height                              167.1 cm
+  2017-02-26 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2025-03-16 : Screening for drug abuse (procedure)
+  2025-03-16 : Assessment of substance use (procedure)
+  2025-03-16 : Assessment of anxiety (procedure)
+  2025-03-16 : Assessment of health and social care needs (procedure)
+  2023-03-12 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2023-03-12 : Assessment of substance use (procedure)
+  2023-03-12 : Depression screening (procedure)
+  2023-03-12 : Depression screening (procedure)
+  2023-03-12 : Assessment of anxiety (procedure)
+  2023-03-12 : Assessment of health and social care needs (procedure)
+  2022-06-26 : Depression screening (procedure)
+  2022-06-26 : Physical examination procedure (procedure)
+  2022-05-15 : Human parturition, function (observable entity) for Normal pregnancy (finding)
+  2022-05-15 : Medical induction of labor (procedure) for Normal pregnancy (finding)
+  2022-05-01 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2022-05-01 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2022-05-01 : Streptococcus pneumoniae group B antigen assay (procedure) for Normal pregnancy (finding)
+  2022-04-03 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2022-04-03 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2022-03-06 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2022-03-06 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2022-03-06 : Urine screening for glucose (procedure) for Normal pregnancy (finding)
+  2022-03-06 : Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens (procedure) for Normal pregnancy (finding)
+  2022-03-06 : Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure) for Normal pregnancy (finding)
+  2022-02-06 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2022-02-06 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2022-01-09 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2022-01-09 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2021-12-12 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2021-12-12 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2021-12-12 : Alpha-fetoprotein test - antenatal (procedure) for Normal pregnancy (finding)
+  2021-12-12 : Fetal anatomy study (procedure) for Normal pregnancy (finding)
+  2021-11-14 : Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure) for Normal pregnancy (finding)
+  2021-11-14 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2021-11-14 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2021-10-17 : Physical examination procedure (procedure) for Normal pregnancy (finding)
+  2021-10-17 : Urinalysis, protein, qualitative (procedure) for Normal pregnancy (finding)
+  2021-10-17 : Skin test for tuberculosis, Tine test (procedure) for Normal pregnancy (finding)
+  2021-10-17 : Measurement of Varicella-zoster virus antibody (procedure) for Normal pregnancy (finding)
+  2021-10-17 : Rubella screening test (procedure) for Normal pregnancy (finding)
+  2021-10-17 : Hepatitis C antibody, confirmatory test (procedure) for Normal pregnancy (finding)
+  2021-10-17 : Urine screening test for diabetes (procedure) for Normal pregnancy (finding)
+  2021-10-17 : Cytopathology procedure, preparation of smear, genital source (procedure) for Normal pregnancy (finding)
+  2021-10-17 : Urine culture (procedure) for Normal pregnancy (finding)
+  2021-10-17 : Syphilis infectious titer test (procedure) for Normal pregnancy (finding)
+  2021-10-17 : Gonorrhea infection titer test (procedure) for Normal pregnancy (finding)
+  2021-10-17 : Chlamydia antigen test (procedure) for Normal pregnancy (finding)
+  2021-10-17 : Human immunodeficiency virus antigen test (procedure) for Normal pregnancy (finding)
+  2021-10-17 : Hepatitis B surface antigen measurement (procedure) for Normal pregnancy (finding)
+  2021-10-17 : Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure) for Normal pregnancy (finding)
+  2021-10-17 : Blood group typing (procedure) for Normal pregnancy (finding)
+  2021-10-17 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2021-10-17 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2021-10-17 : Ultrasound scan for fetal viability (procedure) for Normal pregnancy (finding)
+  2021-10-17 : Standard pregnancy test (procedure) for Normal pregnancy (finding)
+  2021-07-15 : Depression screening (procedure) for Blighted ovum (disorder)
+  2021-07-15 : Physical examination procedure (procedure) for Normal pregnancy (finding)
+  2021-06-27 : Ultrasound scan for fetal viability (procedure) for Normal pregnancy (finding)
+  2021-06-27 : Standard pregnancy test (procedure) for Normal pregnancy (finding)
+  2021-03-07 : Depression screening (procedure)
+  2021-03-07 : Depression screening (procedure)
+  2021-03-07 : Screening for domestic abuse (procedure)
+  2021-03-07 : Assessment of health and social care needs (procedure)
+  2021-03-07 : Medication reconciliation (procedure)
+  2020-07-25 : Depression screening (procedure) for Complete miscarriage (disorder)
+  2020-07-25 : Physical examination procedure (procedure) for Normal pregnancy (finding)
+  2020-07-12 : Ultrasound scan for fetal viability (procedure) for Normal pregnancy (finding)
+  2020-07-12 : Standard pregnancy test (procedure) for Normal pregnancy (finding)
+  2020-05-24 : Removal of intrauterine contraceptive device (procedure)
+  2019-05-04 : Insertion of intrauterine contraceptive device (procedure)
+  2019-03-03 : Screening for drug abuse (procedure)
+  2019-03-03 : Assessment of substance use (procedure)
+  2019-03-03 : Depression screening (procedure)
+  2019-03-03 : Depression screening (procedure)
+  2019-03-03 : Assessment of anxiety (procedure)
+  2019-03-03 : Assessment of health and social care needs (procedure)
+  2018-04-29 : Depression screening (procedure)
+  2018-04-29 : Physical examination procedure (procedure)
+  2018-03-18 : Human parturition, function (observable entity) for Normal pregnancy (finding)
+  2018-03-11 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2018-03-11 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2018-02-25 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2018-02-25 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2018-02-25 : Streptococcus pneumoniae group B antigen assay (procedure) for Normal pregnancy (finding)
+  2018-01-28 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2018-01-28 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2017-12-31 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2017-12-31 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2017-12-31 : Urine screening for glucose (procedure) for Normal pregnancy (finding)
+  2017-12-31 : Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens (procedure) for Normal pregnancy (finding)
+  2017-12-31 : Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure) for Normal pregnancy (finding)
+  2017-12-03 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2017-12-03 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2017-11-05 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2017-11-05 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2017-10-08 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2017-10-08 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2017-10-08 : Alpha-fetoprotein test - antenatal (procedure) for Normal pregnancy (finding)
+  2017-10-08 : Fetal anatomy study (procedure) for Normal pregnancy (finding)
+  2017-09-10 : Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure) for Normal pregnancy (finding)
+  2017-09-10 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2017-09-10 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2017-08-13 : Physical examination procedure (procedure) for Normal pregnancy (finding)
+  2017-08-13 : Urinalysis, protein, qualitative (procedure) for Normal pregnancy (finding)
+  2017-08-13 : Skin test for tuberculosis, Tine test (procedure) for Normal pregnancy (finding)
+  2017-08-13 : Measurement of Varicella-zoster virus antibody (procedure) for Normal pregnancy (finding)
+  2017-08-13 : Rubella screening test (procedure) for Normal pregnancy (finding)
+  2017-08-13 : Hepatitis C antibody, confirmatory test (procedure) for Normal pregnancy (finding)
+  2017-08-13 : Urine screening test for diabetes (procedure) for Normal pregnancy (finding)
+  2017-08-13 : Cytopathology procedure, preparation of smear, genital source (procedure) for Normal pregnancy (finding)
+  2017-08-13 : Urine culture (procedure) for Normal pregnancy (finding)
+  2017-08-13 : Syphilis infectious titer test (procedure) for Normal pregnancy (finding)
+  2017-08-13 : Gonorrhea infection titer test (procedure) for Normal pregnancy (finding)
+  2017-08-13 : Chlamydia antigen test (procedure) for Normal pregnancy (finding)
+  2017-08-13 : Human immunodeficiency virus antigen test (procedure) for Normal pregnancy (finding)
+  2017-08-13 : Hepatitis B surface antigen measurement (procedure) for Normal pregnancy (finding)
+  2017-08-13 : Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure) for Normal pregnancy (finding)
+  2017-08-13 : Blood group typing (procedure) for Normal pregnancy (finding)
+  2017-08-13 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2017-08-13 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2017-08-13 : Ultrasound scan for fetal viability (procedure) for Normal pregnancy (finding)
+  2017-08-13 : Standard pregnancy test (procedure) for Normal pregnancy (finding)
+  2017-03-12 : Oral health education (procedure) for Gingivitis (disorder)
+  2017-03-12 : Dental fluoride treatment (procedure) for Gingivitis (disorder)
+  2017-03-12 : Examination of gingivae (procedure) for Gingivitis (disorder)
+  2017-03-12 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2017-03-12 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2017-03-12 : Dental care (regime/therapy) for Gingivitis (disorder)
+  2017-03-12 : Dental consultation and report (procedure) for Gingivitis (disorder)
+  2017-02-26 : Patient referral for dental care (procedure) for Gingivitis (disorder)
+  2017-02-26 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2017-02-26 : Assessment of substance use (procedure)
+  2017-02-26 : Assessment of health and social care needs (procedure)
+  2017-02-26 : Medication reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2025-03-16 : Influenza, seasonal, injectable, preservative free
+  2023-03-12 : Influenza, seasonal, injectable, preservative free
+  2021-03-07 : Influenza, seasonal, injectable, preservative free
+  2019-03-03 : Hep A, adult
+  2019-03-03 : Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+  2019-03-03 : Influenza, seasonal, injectable, preservative free
+  2017-02-26 : Hep A, adult
+  2017-02-26 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2025-03-16 (Dr. Horace Bradtke) : Encounter at CITY OF SPRINGFIELD
+2024-06-22 (Dr. Venus Blick) : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS : Encounter for Contraception care (regime/therapy)
+2023-03-12 (Dr. Horace Bradtke) : Encounter at CITY OF SPRINGFIELD
+2022-07-03 (Dr. Venus Blick) : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS : Encounter for Contraception care (regime/therapy)
+2022-06-26 (Dr. Venus Blick) : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS
+2022-05-15 (Dr. Rueben Okuneva) : Encounter at BEACON HOSPICE, AN AMYEDISYS COMPANY : Encounter for Normal pregnancy (finding)
+2022-05-01 (Dr. Venus Blick) : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS : Encounter for Normal pregnancy (finding)
+2022-04-03 (Dr. Venus Blick) : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS : Encounter for Normal pregnancy (finding)
+2022-03-06 (Dr. Venus Blick) : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS : Encounter for Normal pregnancy (finding)
+2022-02-06 (Dr. Venus Blick) : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS : Encounter for Normal pregnancy (finding)
+2022-01-09 (Dr. Venus Blick) : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS : Encounter for Normal pregnancy (finding)
+2021-12-12 (Dr. Venus Blick) : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS : Encounter for Normal pregnancy (finding)
+2021-11-14 (Dr. Venus Blick) : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS : Encounter for Normal pregnancy (finding)
+2021-10-17 (Dr. Venus Blick) : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS : Encounter for Normal pregnancy (finding)
+2021-07-15 (Dr. Venus Blick) : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS : Encounter for Blighted ovum (disorder)
+2021-06-27 (Dr. Venus Blick) : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS : Encounter for Normal pregnancy (finding)
+2021-03-07 (Dr. Horace Bradtke) : Encounter at CITY OF SPRINGFIELD
+2020-07-25 (Dr. Venus Blick) : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS : Encounter for Complete miscarriage (disorder)
+2020-07-12 (Dr. Venus Blick) : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS : Encounter for Normal pregnancy (finding)
+2020-05-24 (Dr. Venus Blick) : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS : Encounter for Contraception care (regime/therapy)
+2019-05-04 (Dr. Venus Blick) : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS : Encounter for Contraception care (regime/therapy)
+2019-05-01 (Dr. Venus Blick) : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS : Encounter for Contraception care (regime/therapy)
+2019-03-03 (Dr. Horace Bradtke) : Encounter at CITY OF SPRINGFIELD
+2018-04-29 (Dr. Venus Blick) : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS
+2018-03-18 (Dr. Rueben Okuneva) : Encounter at BEACON HOSPICE, AN AMYEDISYS COMPANY : Encounter for Normal pregnancy (finding)
+2018-03-11 (Dr. Venus Blick) : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS : Encounter for Normal pregnancy (finding)
+2018-02-25 (Dr. Venus Blick) : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS : Encounter for Normal pregnancy (finding)
+2018-01-28 (Dr. Venus Blick) : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS : Encounter for Normal pregnancy (finding)
+2017-12-31 (Dr. Venus Blick) : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS : Encounter for Normal pregnancy (finding)
+2017-12-03 (Dr. Venus Blick) : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS : Encounter for Normal pregnancy (finding)
+2017-11-05 (Dr. Venus Blick) : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS : Encounter for Normal pregnancy (finding)
+2017-10-08 (Dr. Venus Blick) : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS : Encounter for Normal pregnancy (finding)
+2017-09-10 (Dr. Venus Blick) : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS : Encounter for Normal pregnancy (finding)
+2017-08-13 (Dr. Venus Blick) : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS : Encounter for Normal pregnancy (finding)
+2017-03-12 (Dr. Venus Blick) : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS : Encounter for Gingivitis (disorder)
+2017-02-26 (Dr. Horace Bradtke) : Encounter at CITY OF SPRINGFIELD
+2016-02-19 (Dr. Venus Blick) : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS : Encounter for Contraception care (regime/therapy)
+2014-05-11 (Dr. Horace Bradtke) : Encounter at CITY OF SPRINGFIELD
+2011-05-08 (Dr. Horace Bradtke) : Encounter at CITY OF SPRINGFIELD
+2008-05-11 (Dr. Venus Blick) : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS : Encounter for Anemia (disorder)
+2008-05-04 (Dr. Horace Bradtke) : Encounter at CITY OF SPRINGFIELD
+1999-06-20 (Dr. Maryjane White) : Encounter at MEDICAL EXPRESS URGENT CARE CENTER CO INC
+1995-04-16 (Dr. Horace Bradtke) : Encounter at CITY OF SPRINGFIELD
+1978-05-02 (Dr. Venus Blick) : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS : Encounter for Allergic disposition (finding)
+1978-04-22 (Dr. Venus Blick) : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS : Encounter for Shellfish (substance)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------
