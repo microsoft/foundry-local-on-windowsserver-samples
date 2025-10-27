@@ -175,6 +175,25 @@ To overcome this, the summarization process uses a **Map-Reduce** approach desig
 
 The **Reduce phase** takes all the section summaries and combines them into a single, coherent patient overview. This final integration step uses specialized prompts that emphasize the most important medical data including diagnoses, treatments, medications, and clinical results, while eliminating redundancy and maintaining a consistent medical narrative. 
 
+**Map Phase Prompt** (for intermediate summaries):
+```
+System: "You are a precise summarization assistant of a patient's record. You'll be presented with one or more sections of a patient's medical record."
+
+User: "Generate a concise summary of the following medical record section(s), prioritizing the most recent information. DO NOT exceed 200 tokens. DO NOT include the token count in the summary
+
+Text:
+[SECTION CONTENT]"
+```
+
+**Reduce Phase Prompt** (for final summary):
+```
+System: "You are an expert summarizer that merges multiple summaries into one cohesive overview in at most 300 words."
+
+User: "You will be given multiple summaries of a medical report. Generate one final concise summary with emphasis on medical data which include details in the following context: (Patient details, allergies, medication, conditions, procedures, treatments, doctor or provider visits and clinical results). DO NOT exceed 300 words in generating the final summary.
+
+SUMMARIES:
+[INTERMEDIATE SUMMARIES]"
+```
 
 ## Translation for Long Text Inputs
 In addition to summarization, the application also supports translation of patient reports into English. While translation shares some of the challenges of summarization, it presents unique challenges as it must avoid information loss, maintain clinical accuracy, and handle specialized terminology.
@@ -182,6 +201,18 @@ In addition to summarization, the application also supports translation of patie
 Therefore, the translation process employs a simpler parallel processing algorithm that focuses on maintaining document structure and medical accuracy. The algorithm processes chunks across available Foundry Local endpoints, with each chunk receiving a translation prompt designed to preserve medical formatting and terminology.
 
 After translation, all chunks are reassembled in their original order, producing a complete, structured, and clinically accurate English version of the medical record.
+
+**Translation Prompt** (for all chunks):
+```
+System: "You are a professional medical translator. If a label (e.g., [ATTUALE], [INTERROTTO]) appears, translate it literally (e.g., [CURRENT], [STOPPED])."
+
+User: "Translate the following medical data about a patient from {source_language} into English.
+Preserve the structure and formatting of the original text as much as possible.
+Do not add any translator explanations, or notes, or commentary. The only output should be the translated text.
+
+Text:
+[CHUNK CONTENT]"
+```
 
 ## Limitations
 The current implementation of Foundry Local and the ContosoMedical sample operates under the following limitations:
