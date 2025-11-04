@@ -13,16 +13,13 @@ namespace PatientSummaryTool.Services
 {
     public class PatientsRepository : BindableBase, IPatientsRepository
     {
-        private readonly IConfigurationManager configurationManager;
         private readonly IFile file;
         private readonly Selections selections;
         private readonly ITranslator translator;
         private readonly ISummarizer summarizer;
-        private readonly ITranslationRequestRepository translationRequestRepository;
 
         public event Action<string, string, bool> IntermediateSummaryFetched = delegate { };
         public event Action<string> FinalSummaryFetched = delegate { };
-        public event Action TranslationCompleted = delegate { };
 
         private SectionSummary intermediateSummary;
         public SectionSummary IntermediateSummary
@@ -46,14 +43,12 @@ namespace PatientSummaryTool.Services
             }
         }
 
-        public PatientsRepository(IFile _file, Selections _selections, IConfigurationManager _configurationManager, ITranslator _translator, ISummarizer _summarizer, ITranslationRequestRepository _translationRequestRepository)
+        public PatientsRepository(IFile _file, Selections _selections, ITranslator _translator, ISummarizer _summarizer)
         {
             file = _file;
             selections = _selections;
-            configurationManager = _configurationManager;
             translator = _translator;
             summarizer = _summarizer;
-            translationRequestRepository = _translationRequestRepository;
         }
 
         public ObservableCollection<Patient> GetPatients()
@@ -110,25 +105,11 @@ namespace PatientSummaryTool.Services
 
         public async Task GetPatientTranslation(Patient patient)
         {
-            try
-            {
-                translationRequestRepository.AddTranslationRequest(patient);
-                var details = await file.ReadAllText(patient);
+            var details = await file.ReadAllText(patient);
 
-                string translation = await translator.RunAsync(details, patient.SourceLanguage);
+            string translation = await translator.RunAsync(details, patient.SourceLanguage);
 
-                selections.Patients[patient.Id - 1].IsTranslationCompleted = true;
-
-                await file.WriteAllText(translation, patient);
-            }
-            catch (Exception)
-            {
-                throw;
-            }
-            finally
-            {
-                translationRequestRepository.RemoveTranslationRequest(patient);
-            }
+            await file.WriteAllText(translation, patient);
         }
 
         public void AddPatientDetails(string firstName, string lastName, string sourceLanguage, string filePath)

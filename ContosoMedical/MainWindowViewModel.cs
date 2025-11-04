@@ -45,6 +45,16 @@ namespace PatientSummaryTool
             set { SetProperty(ref backgroundColors, value); }
         }
 
+        private bool isPopupOpen;
+        public bool IsPopupOpen
+        {
+            get { return isPopupOpen; }
+            set { SetProperty(ref isPopupOpen, value); }
+        }
+
+        public DelegateCommand OpenDisclaimerPopupCommand { get; set; }
+        public DelegateCommand CloseDisclaimerPopupCommand { get; set; }
+
         public MainWindowViewModel(ChildToMainViewModelEvent _childToMainViewModelEvent)
         {
             welcomeViewModel = ContainerHelper.Container.Resolve<WelcomeViewModel>();
@@ -53,9 +63,12 @@ namespace PatientSummaryTool
             childToMainViewModelEvent = _childToMainViewModelEvent;
 
             childToMainViewModelEvent.LoadTitle += LoadTitle;
+            childToMainViewModelEvent.Back += Back;
             childToMainViewModelEvent.AddNewPatient += AddNewPatient;
-            childToMainViewModelEvent.AddNewPatientCompleted += AddNewPatientCompleted;
             childToMainViewModelEvent.PatientLookup += PatientLookup;
+
+            OpenDisclaimerPopupCommand = new DelegateCommand(OnOpenDisclaimer);
+            CloseDisclaimerPopupCommand = new DelegateCommand(OnCloseDisclaimer);
 
             viewModelsList = new BindableBase[] { welcomeViewModel, patientViewModel, addPatientViewModel };
         }
@@ -107,10 +120,20 @@ namespace PatientSummaryTool
             CurrentViewModel = viewModelsList[currentViewModelCount];
         }
 
-        private void AddNewPatientCompleted()
+        private void Back()
         {
             currentViewModelCount = (currentViewModelCount - 1) % viewModelsList.Length;
             CurrentViewModel = viewModelsList[currentViewModelCount];
+        }
+
+        private void OnOpenDisclaimer()
+        {
+            IsPopupOpen = true;
+        }
+
+        private void OnCloseDisclaimer()
+        {
+            IsPopupOpen = false;
         }
     }
 }

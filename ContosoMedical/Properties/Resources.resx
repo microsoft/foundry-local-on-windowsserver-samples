@@ -213,4 +213,13 @@
   <data name="PatientTranslateErrorMessage" xml:space="preserve">
     <value>Error translating patient details.</value>
   </data>
+  <data name="BackButtonText" xml:space="preserve">
+    <value>Back</value>
+  </data>
+  <data name="TranslateButtonTooltip" xml:space="preserve">
+    <value>Translate</value>
+  </data>
+  <data name="DisclaimerText" xml:space="preserve">
+    <value>This application uses synthetic data for illustrative purposes only.</value>
+  </data>
 </root>

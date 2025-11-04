@@ -80,48 +80,74 @@
                 <ColumnDefinition Width="*" />
             </Grid.ColumnDefinitions>
             <Grid Grid.Column="0" Margin="0,0,10,0">
-                <Border BorderBrush="LightGray" BorderThickness="0,0,1,0">
-                    <Grid Margin="0,0,25,0">
-                        <Grid.RowDefinitions>
-                            <RowDefinition Height="Auto"/>
-                            <RowDefinition Height="Auto"/>
-                            <RowDefinition Height="Auto"/>
-                        </Grid.RowDefinitions>
-                        <Grid Grid.Row="0" Margin="10,20">
-                            <Grid>
-                                <TextBlock Text="{x:Static resources:Resources.NavLabelHeading}" Style="{StaticResource NavLabelsHeading}" />
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <Border BorderBrush="LightGray" BorderThickness="0,0,1,0">
+                        <Grid Margin="0,0,25,0">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                            </Grid.RowDefinitions>
+                            <Grid Grid.Row="0" Margin="10,20">
+                                <Grid>
+                                    <TextBlock Text="{x:Static resources:Resources.NavLabelHeading}" Style="{StaticResource NavLabelsHeading}" />
+                                </Grid>
+                            </Grid>
+                            <Grid Grid.Row="1" Margin="0,10">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                                <Grid Grid.Column="0">
+                                    <localSharedControls:LookupSymbol Margin="10,0,5,0" VerticalAlignment="Center" HorizontalAlignment="Left"/>
+                                </Grid>
+                                <Grid Grid.Column="1">
+                                    <Label Name="PatientLookupNavLabel" Content="{x:Static resources:Resources.PatientLookupNavLabel}" Style="{StaticResource NavLabels}" Foreground="{Binding ForegroundColors[0]}" Background="{Binding BackgroundColors[0]}" />
+                                </Grid>
+                            </Grid>
+                            <Grid Grid.Row="2" Margin="0,10">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                                <Grid Grid.Column="0">
+                                    <localSharedControls:HeartSymbol Margin="10,0,5,0" VerticalAlignment="Center" HorizontalAlignment="Left"/>
+                                </Grid>
+                                <Grid Grid.Column="1">
+                                    <Label Name="PatientRecordsNavLabel" Content="{x:Static resources:Resources.PatientRecordsNavLabel}" Style="{StaticResource NavLabels}" Foreground="{Binding ForegroundColors[1]}" Background="{Binding BackgroundColors[1]}" />
+                                </Grid>
                             </Grid>
                         </Grid>
-                        <Grid Grid.Row="1" Margin="0,10">
-                            <Grid.ColumnDefinitions>
-                                <ColumnDefinition Width="Auto" />
-                                <ColumnDefinition Width="*" />
-                            </Grid.ColumnDefinitions>
-                            <Grid Grid.Column="0">
-                                <localSharedControls:LookupSymbol Margin="10,0,5,0" VerticalAlignment="Center" HorizontalAlignment="Left"/>
-                            </Grid>
-                            <Grid Grid.Column="1">
-                                <Label Name="PatientLookupNavLabel" Content="{x:Static resources:Resources.PatientLookupNavLabel}" Style="{StaticResource NavLabels}" Foreground="{Binding ForegroundColors[0]}" Background="{Binding BackgroundColors[0]}" />
-                            </Grid>
-                        </Grid>
-                        <Grid Grid.Row="2" Margin="0,10">
-                            <Grid.ColumnDefinitions>
-                                <ColumnDefinition Width="Auto" />
-                                <ColumnDefinition Width="*" />
-                            </Grid.ColumnDefinitions>
-                            <Grid Grid.Column="0">
-                                <localSharedControls:HeartSymbol Margin="10,0,5,0" VerticalAlignment="Center" HorizontalAlignment="Left"/>
-                            </Grid>
-                            <Grid Grid.Column="1">
-                                <Label Name="PatientRecordsNavLabel" Content="{x:Static resources:Resources.PatientRecordsNavLabel}" Style="{StaticResource NavLabels}" Foreground="{Binding ForegroundColors[1]}" Background="{Binding BackgroundColors[1]}" />
-                            </Grid>
-                        </Grid>
-                    </Grid>
-                </Border>
+                    </Border>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <TextBlock Padding="5 0 0 0" >
+                            <Hyperlink Command="{Binding OpenDisclaimerPopupCommand}" >
+                                Disclaimer
+                            </Hyperlink>
+                    </TextBlock>
+                </Grid>
             </Grid>
             <Grid Grid.Column="1" Margin="0,0,10,0">
                 <ContentControl Focusable="False" Content="{Binding CurrentViewModel}" Grid.ColumnSpan="2"/>
             </Grid>
         </Grid>
+        <Popup 
+            IsOpen="{Binding IsPopupOpen, Mode=TwoWay}" 
+            Placement="Center"
+            StaysOpen="False"
+            AllowsTransparency="True"
+            PopupAnimation="Fade">
+            <Border Background="White" BorderBrush="Black" BorderThickness="1" CornerRadius="6" Padding="15" SnapsToDevicePixels="True" MinWidth="250" MaxWidth="600">
+                <StackPanel>
+                    <TextBlock Text="{x:Static resources:Resources.DisclaimerText}" TextWrapping="Wrap"/>
+                    <Button Content="Close" Width="80" Margin="0,10,0,0" HorizontalAlignment="Right" Command="{Binding CloseDisclaimerPopupCommand}"/>
+                </StackPanel>
+            </Border>
+        </Popup>
     </Grid>
 </Window>

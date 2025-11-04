@@ -78,7 +78,21 @@
             </Grid>
         </Grid>
         <Grid Grid.Row="3" Margin="50,20,50,5">
-            <Button Name="ReportButton" Content="{x:Static resources:Resources.BrowseReportsButtonText}" Style="{StaticResource ReportButton}" Command="{Binding BrowseReportCommand}" />
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="8*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Button Name="BackButton" Style="{StaticResource NavButton}" Command="{Binding BackCommand}" >
+                    <TextBlock>
+                        <Run Text="&lt; " />
+                        <Run Text="{x:Static resources:Resources.BackButtonText}" />
+                    </TextBlock>
+                </Button>
+            </Grid>
+            <Grid Grid.Column="1">
+                <Button Name="ReportButton" Content="{x:Static resources:Resources.BrowseReportsButtonText}" Style="{StaticResource BrowseReportButton}" Command="{Binding BrowseReportCommand}" />
+            </Grid>
         </Grid>
     </Grid>
 </UserControl>

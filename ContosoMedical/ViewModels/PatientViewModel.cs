@@ -6,7 +6,6 @@ using PatientSummaryTool.Utils.Events;
 using System;
 using System.Collections.ObjectModel;
 using System.Diagnostics;
-using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
@@ -37,6 +36,7 @@ namespace PatientSummaryTool.ViewModels
             {
                 SetProperty(ref patients, value);
                 selections.Patients = value;
+                IsPatientBoxEnabled = patients!= null && patients.Count != 0;
             }
         }
 
@@ -49,6 +49,7 @@ namespace PatientSummaryTool.ViewModels
                 SetProperty(ref patientSelected, value);
                 selections.PatientSelected = value;
                 SummarizeCommand.RaiseCanExecuteChanged();
+                TranslateCommand.RaiseCanExecuteChanged();
             }
         }
 
@@ -104,22 +105,14 @@ namespace PatientSummaryTool.ViewModels
         public bool IsTranslationStatusAvailable
         {
             get { return isTranslationStatusAvailable; }
-            set
-            {
-                SetProperty(ref isTranslationStatusAvailable, value);
-                SummarizeCommand.RaiseCanExecuteChanged();
-            }
+            set { SetProperty(ref isTranslationStatusAvailable, value); }
         }
 
         private CheckStatus translationStatus;
         public CheckStatus TranslationStatus
         {
             get { return translationStatus; }
-            set
-            {
-                SetProperty(ref translationStatus, value);
-                SummarizeCommand.RaiseCanExecuteChanged();
-            }
+            set { SetProperty(ref translationStatus, value); }
         }
 
         private bool isPatientBoxEnabled;
@@ -240,10 +233,10 @@ namespace PatientSummaryTool.ViewModels
         public DelegateCommand<string> NavigateToUrlCommand { get; set; }
         public DelegateCommand PatientSelectionChangedCommand { get; set; }
         public DelegateCommand SummarizeCommand { get; set; }
+        public DelegateCommand TranslateCommand { get; set; }
         public DelegateCommand AddPatientCommand { get; set; }
         public DelegateCommand<string> ShowIntermediateSummaryPopupCommand { get; set; }
         public DelegateCommand CloseIntermediateSummaryPopupCommand { get; set; }
-        public DelegateCommand RetryTranslationCommand { get; set; }
 
         public PatientViewModel(Selections _selections, ChildToMainViewModelEvent _childToMainViewModelEvent, IPatientsRepository _patientsRepository, ITranslationRequestRepository _translationRequestRepository)
         {
@@ -254,10 +247,10 @@ namespace PatientSummaryTool.ViewModels
             NavigateToUrlCommand = new DelegateCommand<string>(OnResourceHyperlink);
             PatientSelectionChangedCommand = new DelegateCommand(OnPatientSelectionChanged);
             SummarizeCommand = new DelegateCommand(OnSummarize, CanSummarize);
+            TranslateCommand = new DelegateCommand(OnTranslate, CanTranslate);
             AddPatientCommand = new DelegateCommand(OnAddPatient, CanAddPatient);
             ShowIntermediateSummaryPopupCommand = new DelegateCommand<string>(OnShowIntermediateSummary);
             CloseIntermediateSummaryPopupCommand = new DelegateCommand(OnCloseIntermediateSummary);
-            RetryTranslationCommand = new DelegateCommand(OnRetryTranslation);
 
             patientsRepository.IntermediateSummaryFetched += IntermediateSummaryFetched;
             patientsRepository.FinalSummaryFetched += FinalSummaryFetched;
@@ -277,9 +270,7 @@ namespace PatientSummaryTool.ViewModels
             PatientSelected = selections.PatientSelected;
             if (Patients == null)
             {
-                IsPatientBoxEnabled = false;
                 Patients = patientsRepository.GetPatients();
-                IsPatientBoxEnabled = true;
                 PatientDetails = null;
                 PatientSummary = null;
                 PatientIntermediateSummary = null;
@@ -289,12 +280,12 @@ namespace PatientSummaryTool.ViewModels
             {
                 if (PatientSelected != null)
                 {
-                    IsPatientBoxEnabled = false;
                     await GetPatientDetails(PatientSelected);
-                    IsPatientBoxEnabled = true;
-                    if (!PatientSelected.IsTranslationCompleted)
+
+                    if (translationRequestRepository.IsTranslationRequested(PatientSelected))
                     {
-                        await TranslatePatientDetails(PatientSelected);
+                        TranslationStatus = CheckStatus.Loading;
+                        IsTranslationStatusAvailable = true;
                     }
                 }
             }
@@ -320,13 +311,12 @@ namespace PatientSummaryTool.ViewModels
 
                 PatientDetails = null;
 
-                IsPatientBoxEnabled = false;
                 await GetPatientDetails(PatientSelected);
-                IsPatientBoxEnabled = true;
 
-                if (!PatientSelected.IsTranslationCompleted)
+                if (translationRequestRepository.IsTranslationRequested(PatientSelected))
                 {
-                    await TranslatePatientDetails(PatientSelected);
+                    TranslationStatus = CheckStatus.Loading;
+                    IsTranslationStatusAvailable = true;
                 }
             }
         }
@@ -355,17 +345,32 @@ namespace PatientSummaryTool.ViewModels
 
         private bool CanSummarize()
         {
-            return PatientSelected != null && !SummaryLoading && (!IsTranslationStatusAvailable || (IsTranslationStatusAvailable && TranslationStatus == CheckStatus.Success));
+            return PatientSelected != null && !SummaryLoading && PatientSelected.IsTranslationCompleted;
+        }
+
+        private async void OnTranslate()
+        {
+            if (PatientSelected != null)
+            {
+                await TranslatePatientDetails(PatientSelected);
+            }
+        }
+
+        private bool CanTranslate()
+        {
+            return PatientSelected != null && !PatientSelected.IsTranslationCompleted && !translationRequestRepository.IsTranslationRequested(PatientSelected);
         }
 
         public async Task GetPatientDetails(Patient patient)
         {
             try
             {
+                IsPatientBoxEnabled = false;
                 PatientSummary = null;
                 PatientIntermediateSummary = null;
                 PatientBoxHeading = Properties.Resources.PatientDetailsTextBoxHeading;
                 PatientDetails = await patientsRepository.GetPatientDetails(patient);
+                IsPatientBoxEnabled = true;
             }
             catch (Exception ex)
             {
@@ -402,19 +407,20 @@ namespace PatientSummaryTool.ViewModels
             {
                 IsTranslationStatusAvailable = true;
                 TranslationStatus = CheckStatus.Loading;
-                if (!translationRequestRepository.IsTranslationRequested(patient))
+                translationRequestRepository.AddTranslationRequest(patient);
+                TranslateCommand.RaiseCanExecuteChanged();
+                await patientsRepository.GetPatientTranslation(patient);
+                patient.IsTranslationCompleted = true;
+
+                if (PatientSelected.Id == patient.Id)
                 {
-                    await patientsRepository.GetPatientTranslation(patient);
-                    if (selections.PatientSelected.Id == patient.Id)
-                    {
-                        TranslationStatus = CheckStatus.Success;
-                        await GetPatientDetails(patient);
-                    }
+                    TranslationStatus = CheckStatus.Success;
+                    await GetPatientDetails(patient);
                 }
             }
             catch (TranslateFailedException ex)
             {
-                if (selections.PatientSelected.Id == patient.Id)
+                if (PatientSelected.Id == patient.Id)
                 {
                     TranslationStatus = CheckStatus.Failure;
                 }
@@ -422,11 +428,17 @@ namespace PatientSummaryTool.ViewModels
             }
             catch (Exception ex)
             {
-                if (selections.PatientSelected.Id == patient.Id)
+                if (PatientSelected.Id == patient.Id)
                 {
                     TranslationStatus = CheckStatus.Failure;
                 }
                 MessageBox.Show($"{ex.Message}\nPatient name: {patient.FirstName} {patient.LastName}", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+            finally
+            {
+                translationRequestRepository.RemoveTranslationRequest(patient);
+                TranslateCommand.RaiseCanExecuteChanged();
+                SummarizeCommand.RaiseCanExecuteChanged();
             }
         }
 
@@ -532,14 +544,6 @@ namespace PatientSummaryTool.ViewModels
         private void OnCloseIntermediateSummary()
         {
             IsPopupOpen = false;
-        }
-
-        private async void OnRetryTranslation()
-        {
-            if (!PatientSelected.IsTranslationCompleted)
-            {
-                await TranslatePatientDetails(PatientSelected);
-            }
         }
 
         private void OnResourceHyperlink(string url)

@@ -74,21 +74,11 @@
     <ErrorReport>prompt</ErrorReport>
     <Prefer32Bit>true</Prefer32Bit>
   </PropertyGroup>
-  <PropertyGroup />
-  <PropertyGroup>
-    <EnableLocalization>true</EnableLocalization>
-    <EmbeddedResourceLocalization>true</EmbeddedResourceLocalization>
-    <LanguageSet>M365_Languages</LanguageSet>
-  </PropertyGroup>
-  <PropertyGroup />
   <PropertyGroup>
     <StartupObject>PatientSummaryTool.App</StartupObject>
   </PropertyGroup>
   <PropertyGroup>
     <ApplicationManifest>app.manifest</ApplicationManifest>
-  </PropertyGroup>
-  <PropertyGroup>
-    <CompilerGeneratedFilesOutputPath>$(BaseIntermediateOutputPath)\GeneratedFiles\</CompilerGeneratedFilesOutputPath>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.Xaml.Behaviors, Version=1.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
@@ -199,6 +189,9 @@
     <Compile Include="Views\SharedUserControls\SuccessCheck.xaml.cs">
       <DependentUpon>SuccessCheck.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Views\SharedUserControls\TranslateSymbol.xaml.cs">
+      <DependentUpon>TranslateSymbol.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Views\WelcomeView.xaml.cs">
       <DependentUpon>WelcomeView.xaml</DependentUpon>
     </Compile>
@@ -251,6 +244,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Views\SharedUserControls\SuccessCheck.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\SharedUserControls\TranslateSymbol.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

@@ -88,6 +88,15 @@ namespace PatientSummaryTool.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Back.
+        /// </summary>
+        public static string BackButtonText {
+            get {
+                return ResourceManager.GetString("BackButtonText", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Browse for reports.
         /// </summary>
         public static string BrowseReportsButtonText {
@@ -111,6 +120,15 @@ namespace PatientSummaryTool.Properties {
         public static string ConditionsIntermediateSummary {
             get {
                 return ResourceManager.GetString("ConditionsIntermediateSummary", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This application uses synthetic data for illustrative purposes only..
+        /// </summary>
+        public static string DisclaimerText {
+            get {
+                return ResourceManager.GetString("DisclaimerText", resourceCulture);
             }
         }
         
@@ -327,6 +345,15 @@ namespace PatientSummaryTool.Properties {
         public static string SummarizeButtonText {
             get {
                 return ResourceManager.GetString("SummarizeButtonText", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Translate.
+        /// </summary>
+        public static string TranslateButtonTooltip {
+            get {
+                return ResourceManager.GetString("TranslateButtonTooltip", resourceCulture);
             }
         }
         
