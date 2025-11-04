@@ -10,17 +10,17 @@ namespace PatientSummaryTool.Utils.Events
         }
         public event Action<string> LoadTitle = delegate { };
 
+        public virtual void OnBack()
+        {
+            Back();
+        }
+        public event Action Back = delegate { };
+
         public virtual void OnAddNewPatient()
         {
             AddNewPatient();
         }
         public event Action AddNewPatient = delegate { };
-
-        public virtual void OnAddNewPatientCompleted()
-        {
-            AddNewPatientCompleted();
-        }
-        public event Action AddNewPatientCompleted = delegate { };
 
         public virtual void OnPatientLookup()
         {

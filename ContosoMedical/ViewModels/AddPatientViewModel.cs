@@ -1,6 +1,5 @@
 ﻿using PatientSummaryTool.Models;
 using PatientSummaryTool.Utils;
-using PatientSummaryTool.Utils.CustomExceptions;
 using PatientSummaryTool.Utils.Events;
 using System;
 using System.Windows;
@@ -48,6 +47,7 @@ namespace PatientSummaryTool.ViewModels
         }
 
         public DelegateCommand BrowseReportCommand { get; set; }
+        public DelegateCommand BackCommand { get; set; }
 
         public AddPatientViewModel(Selections _selections, ChildToMainViewModelEvent _childToMainViewModelEvent, IPatientsRepository _patientsRepository, IDialogService _dialogService)
         {
@@ -57,6 +57,7 @@ namespace PatientSummaryTool.ViewModels
             dialogService = _dialogService;
 
             BrowseReportCommand = new DelegateCommand(OnBrowseReport, CanBrowseReport);
+            BackCommand = new DelegateCommand(OnBack);
         }
 
         public void LoadAddPatient()
@@ -77,13 +78,18 @@ namespace PatientSummaryTool.ViewModels
                 {
                     MessageBox.Show($"{ex.Message}", "Upload Error", MessageBoxButton.OK, MessageBoxImage.Error);
                 }
-                childToMainViewModelEvent.OnAddNewPatientCompleted();
+                childToMainViewModelEvent.OnBack();
             }
         }
 
         public bool CanBrowseReport()
         {
             return !string.IsNullOrWhiteSpace(FirstName) && !string.IsNullOrWhiteSpace(LastName);
+        }
+
+        public void OnBack()
+        {
+            childToMainViewModelEvent.OnBack();
         }
 
     }
