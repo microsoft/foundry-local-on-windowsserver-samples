@@ -50,12 +50,13 @@ To enable access from other devices on the network (or connected via VPN), use W
     curl http://<server-ip>:9000/openai/status
     ```
 
-### Getting Started
-To run the app, you will need to have the following prerequisites installed on your machine:
-.NET Framework 4.8 or later
-Visual Studio 2019 or later
+### How to use ContosoMedical app
 
-### How to Use
+#### Prerequisites
+   - .NET Framework 4.8 or later
+   - Visual Studio 2019 or later
+
+#### Run the application
 Open the solution in Visual Studio and build the project.
 Run the application by pressing the F5 key or by clicking on the Start button in the toolbar.
 
