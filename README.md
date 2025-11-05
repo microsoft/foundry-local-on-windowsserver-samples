@@ -1,5 +1,33 @@
 # Foundry Local for Windows Server
 
+## Table of Contents
+- [Overview](#overview)
+- [Setup](#setup)
+  - [Installing Foundry Local on Windows Server 2025](#installing-foundry-local-on-windows-server-2025)
+  - [Accessing the Foundry Local Service Over the Network](#accessing-the-foundry-local-service-over-the-network)
+  - [How to Use ContosoMedical App](#how-to-use-contosomedical-app)
+- [Architecture](#architecture)
+  - [System Overview](#system-overview)
+  - [Main Components](#main-components)
+- [Foundry Local Integration](#foundry-local-integration)
+  - [Connection Configuration](#connection-configuration)
+  - [HTTP Client Integration](#http-client-integration)
+  - [OpenAI-Compatible API Usage](#openai-compatible-api-usage)
+- [Configuration](#configuration)
+  - [App.config Settings](#appconfig-settings)
+  - [Endpoint Configuration](#endpoint-configuration)
+  - [Language Model Configuration](#language-model-configuration)
+  - [Local Data Directory](#local-data-directory)
+- [Data Generation](#data-generation)
+  - [Generating Synthetic Patient Data with Synthea](#generating-synthetic-patient-data-with-synthea)
+- [Data Pre-processing](#data-pre-processing)
+- [Model Selection](#model-selection)
+- [Summarization for Long Text Inputs](#summarization-for-long-text-inputs)
+- [Translation for Long Text Inputs](#translation-for-long-text-inputs)
+- [Limitations](#limitations)
+- [Future Work](#future-work)
+- [Trademarks](#trademarks)
+
 ## Overview
 
 The following sample demonstrates how **Windows Server** can be used to run AI workloads on-premises with **Foundry Local**, ensuring data privacy and compliance with the strict requirements of regulated industries.
@@ -49,6 +77,17 @@ To enable access from other devices on the network (or connected via VPN), use W
     ```bash
     curl http://<server-ip>:9000/openai/status
     ```
+
+### How to use ContosoMedical app
+
+#### Prerequisites
+   - .NET Framework 4.8 or later
+   - Visual Studio 2019 or later
+
+#### Run the application
+Open the solution in Visual Studio and build the project.
+Run the application by pressing the F5 key or by clicking on the Start button in the toolbar.
+
 ## Architecture
 
 ### System Overview
@@ -147,10 +186,111 @@ var requestBody = new
 var response = await httpClient.PostAsync(endpoint + "/v1/chat/completions", content);
 ```
 
+## Configuration
+
+The ContosoMedical application requires proper configuration to connect to your Foundry Local instances and manage local data storage. All configuration settings are stored in the `App.config` file located in the project root.
+
+### App.config Settings
+
+The application uses the following key configuration parameters:
+
+```xml
+<appSettings>
+  <add key="LocalDataDirectory" value="C:\temp\patient_summary_tool_local_data\" />
+  <add key="FoundryLocalEndPoint1" value="http://10.137.212.105:9000" />
+  <add key="FoundryLocalEndPoint2" value="http://10.137.214.85:9000" />
+  <add key="FoundryLocalLanguageModel" value="Phi-3.5-mini-instruct-generic-cpu:1" />
+  <add key="FoundryLocalLanguageModel2" value="Phi-4-mini-instruct-generic-cpu:4"/>
+</appSettings>
+```
+
+### Endpoint Configuration
+
+**FoundryLocalEndPoint1** and **FoundryLocalEndPoint2**
+- These specify the URLs of your Foundry Local server instances
+- Format: `http://<server-ip>:<port>`
+- Default port: `9000` (if using PortProxy as described in setup)
+- The application uses multiple endpoints for parallel processing and load balancing
+
+**How to update:**
+1. Replace the IP addresses with your actual Windows Server IP addresses
+2. Ensure the port matches your PortProxy configuration
+3. Verify connectivity using: `curl http://<server-ip>:<port>/openai/status`
+
+### Language Model Configuration
+
+**FoundryLocalLanguageModel** and **FoundryLocalLanguageModel2**
+- Specify which models to use for different operations
+- Model names must match exactly what's available in your Foundry Local instance
+- Different models are optimized for different tasks
+
+**How to find available models:**
+```bash
+foundry model list
+```
+
+**Current model usage:**
+- `FoundryLocalLanguageModel` (Phi-3.5-mini-instruct): Used for summarization and general translation
+- `FoundryLocalLanguageModel2` (Phi-4-mini-instruct): Used for medication section translation
+
+**To change models:**
+1. Ensure the desired model is downloaded: `foundry model download <model-name>`
+2. Update the config with the exact model name from `foundry model list`
+3. Rebuild and restart the application
+
+### Local Data Directory
+
+**LocalDataDirectory**
+- Specifies where the application stores patient data, translation requests, and temporary files
+- Default: `C:\temp\patient_summary_tool_local_data\`
+- The directory will be created automatically if it doesn't exist
+
+**How to change:**
+1. Update the path in `App.config`
+2. Ensure the application has read/write permissions to the directory
+
+
 ## Data Generation
 
+This application uses the [Synthea](https://github.com/synthetichealth/synthea) synthetic patient data generator to create realistic medical records for testing and demonstration purposes. Synthea is an open-source synthetic patient generator that models the medical history of synthetic patients.
 
-## Data Preprocessing
+### Generating Synthetic Patient Data with Synthea
+
+1. **Prerequisites**
+   - Java 11 or later (required to run Synthea)
+
+2. **Download Synthea**
+   
+   Download the latest pre-built JAR file from the [Synthea releases page](https://github.com/synthetichealth/synthea/releases):
+   ```bash
+   curl -L -O https://github.com/synthetichealth/synthea/releases/download/master-branch-latest/synthea-with-dependencies.jar
+   ```
+
+3. **Generate Patient Data**
+   
+   The ContosoMedical application expects patient data in plain text format.
+   
+   To generate a single patient record:
+   ```bash
+   java -jar synthea-with-dependencies.jar --exporter.text.export true -generate.append_numbers_to_person_names false
+   ```
+   
+   To generate multiple patient records (e.g., 10 patients):
+   ```bash
+   java -jar synthea-with-dependencies.jar -p 10 --exporter.text.export true -generate.append_numbers_to_person_names false
+   ```
+   
+   **Parameters explained:**
+   - `--exporter.text.export true` - Enables plain text format export
+   - `-generate.append_numbers_to_person_names false` - Prevents numeric suffixes from being added to patient names
+
+4. **Locate Generated Data**
+   
+   By default, Synthea outputs patient records in the `output` directory in various formats including FHIR, C-CDA, and plain text.
+
+For more detailed instructions and advanced configuration options, see the [Synthea Basic Setup and Running guide](https://github.com/synthetichealth/synthea/wiki/Basic-Setup-and-Running).
+
+## Data Pre-processing
 
 Both summarization and translation workflows begin with a similar preprocessing stage.
 The application first identifies medical record sections based on a known delimiter, and then divides each section into manageable chunks while preserving natural text boundaries (e.g., line breaks).
