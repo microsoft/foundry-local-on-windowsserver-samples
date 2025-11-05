@@ -158,7 +158,7 @@ var requestBody = new
 var response = await httpClient.PostAsync(endpoint + "/v1/chat/completions", content);
 ```
 
-## Data generation
+## Data Generation
 
 This application uses the [Synthea](https://github.com/synthetichealth/synthea) synthetic patient data generator to create realistic medical records for testing and demonstration purposes. Synthea is an open-source synthetic patient generator that models the medical history of synthetic patients.
 
@@ -198,7 +198,7 @@ This application uses the [Synthea](https://github.com/synthetichealth/synthea) 
 
 For more detailed instructions and advanced configuration options, see the [Synthea Basic Setup and Running guide](https://github.com/synthetichealth/synthea/wiki/Basic-Setup-and-Running).
 
-## Data pre-processing
+## Data Pre-processing
 
 Both summarization and translation workflows begin with a similar preprocessing stage.
 The application first identifies medical record sections based on a known delimiter, and then divides each section into manageable chunks while preserving natural text boundaries (e.g., line breaks).
