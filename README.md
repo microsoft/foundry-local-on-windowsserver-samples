@@ -49,6 +49,16 @@ To enable access from other devices on the network (or connected via VPN), use W
     ```bash
     curl http://<server-ip>:9000/openai/status
     ```
+
+### Getting Started
+To run the app, you will need to have the following prerequisites installed on your machine:
+.NET Framework 4.8 or later
+Visual Studio 2019 or later
+
+### How to Use
+Open the solution in Visual Studio and build the project.
+Run the application by pressing the F5 key or by clicking on the Start button in the toolbar.
+
 ## Architecture
 
 ### System Overview
@@ -147,10 +157,47 @@ var requestBody = new
 var response = await httpClient.PostAsync(endpoint + "/v1/chat/completions", content);
 ```
 
-## Data Generation
+## Data generation
 
+This application uses the [Synthea](https://github.com/synthetichealth/synthea) synthetic patient data generator to create realistic medical records for testing and demonstration purposes. Synthea is an open-source synthetic patient generator that models the medical history of synthetic patients.
 
-## Data Preprocessing
+### Generating Synthetic Patient Data with Synthea
+
+1. **Prerequisites**
+   - Java 11 or later (required to run Synthea)
+
+2. **Download Synthea**
+   
+   Download the latest pre-built JAR file from the [Synthea releases page](https://github.com/synthetichealth/synthea/releases):
+   ```bash
+   curl -L -O https://github.com/synthetichealth/synthea/releases/download/master-branch-latest/synthea-with-dependencies.jar
+   ```
+
+3. **Generate Patient Data**
+   
+   The ContosoMedical application expects patient data in plain text format.
+   
+   To generate a single patient record:
+   ```bash
+   java -jar synthea-with-dependencies.jar --exporter.text.export true -generate.append_numbers_to_person_names false
+   ```
+   
+   To generate multiple patient records (e.g., 10 patients):
+   ```bash
+   java -jar synthea-with-dependencies.jar -p 10 --exporter.text.export true -generate.append_numbers_to_person_names false
+   ```
+   
+   **Parameters explained:**
+   - `--exporter.text.export true` - Enables plain text format export
+   - `-generate.append_numbers_to_person_names false` - Prevents numeric suffixes from being added to patient names
+
+4. **Locate Generated Data**
+   
+   By default, Synthea outputs patient records in the `output` directory in various formats including FHIR, C-CDA, and plain text.
+
+For more detailed instructions and advanced configuration options, see the [Synthea Basic Setup and Running guide](https://github.com/synthetichealth/synthea/wiki/Basic-Setup-and-Running).
+
+## Data pre-processing
 
 Both summarization and translation workflows begin with a similar preprocessing stage.
 The application first identifies medical record sections based on a known delimiter, and then divides each section into manageable chunks while preserving natural text boundaries (e.g., line breaks).
