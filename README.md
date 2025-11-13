@@ -211,7 +211,7 @@ The application uses the following key configuration parameters:
 **FoundryLocalEndPoint1** and **FoundryLocalEndPoint2**
 - These specify the URLs of your Foundry Local server instances
 - Format: `http://<server-ip>:<port>` or `http://localhost:<foundry-local-port>` for local testing
-- Default port: `9000` (if using PortProxy as described in setup)
+- Default port: `9000` (if using PortProxy as described in [Accessing the Foundry Local service over the network](#accessing-the-foundry-local-service-over-the-network))
 - The application uses multiple endpoints for parallel processing and load balancing
 - You can also use Foundry Local localhost (e.g., `http://localhost:5272`) if running the application on the same machine as Foundry Local
 
