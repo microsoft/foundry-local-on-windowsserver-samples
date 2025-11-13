@@ -56,7 +56,7 @@ The **ContosoMedical** application highlights two AI-driven scenarios:
     ```bash
     foundry model download phi-4-mini
     ```
-For additional details on the Foundry Local CLI and the list of available language models, see [Foundry Local documentation](https://learn.microsoft.com/en-us/azure/ai-foundry/foundry-local/).
+For additional details on Foundry Local, see [Foundry Local documentation](https://learn.microsoft.com/en-us/azure/ai-foundry/foundry-local/).
 
 ### Accessing the Foundry Local service over the network
 By default,  Foundry Local listens on `127.0.0.1:<foundry-local-port>`, which restricts inference requests to the local machine.
