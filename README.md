@@ -213,7 +213,7 @@ The application uses the following key configuration parameters:
 - Format: `http://<server-ip>:<port>` or `http://localhost:<foundry-local-port>` for local testing
 - Default port: `9000` (if using PortProxy as described in [Accessing the Foundry Local service over the network](#accessing-the-foundry-local-service-over-the-network))
 - The application uses multiple endpoints for parallel processing and load balancing
-- You can also use Foundry Local localhost (e.g., `http://localhost:5272`) if running the application on the same machine as Foundry Local
+- You can also use Foundry Local localhost (e.g., `http://localhost:<foundry-local-port>`) if running the application on the same machine as Foundry Local
 
 **How to update:**
 1. Replace the IP addresses with your actual Windows Server IP addresses, or use `http://localhost:<foundry-local-port>` for local testing
