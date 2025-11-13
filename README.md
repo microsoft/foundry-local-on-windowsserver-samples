@@ -37,6 +37,8 @@ The **ContosoMedical** application highlights two AI-driven scenarios:
 - **Medical Record Summarization**: Automatically condenses lengthy patient reports into concise medical summaries.
 - **Medical Record Translation**: Translates medical documents from foreign languages into English while preserving medical terminology and formatting.
 
+> **Important**: The Foundry Local endpoint must be configured by yourself. The provided endpoints in this sample are internal Microsoft endpoints that can only be accessed via VPN and CorpNet. Please see the [Endpoint Configuration](#endpoint-configuration) section for details on how to configure your own endpoints.
+
 ## Setup
 ### Installing Foundry Local on Windows Server 2025
 1. **Download Foundry Local**
@@ -208,14 +210,15 @@ The application uses the following key configuration parameters:
 
 **FoundryLocalEndPoint1** and **FoundryLocalEndPoint2**
 - These specify the URLs of your Foundry Local server instances
-- Format: `http://<server-ip>:<port>`
+- Format: `http://<server-ip>:<port>` or `http://localhost:<foundry-local-port>` for local testing
 - Default port: `9000` (if using PortProxy as described in setup)
 - The application uses multiple endpoints for parallel processing and load balancing
+- You can also use Foundry Local localhost (e.g., `http://localhost:5272`) if running the application on the same machine as Foundry Local
 
 **How to update:**
-1. Replace the IP addresses with your actual Windows Server IP addresses
-2. Ensure the port matches your PortProxy configuration
-3. Verify connectivity using: `curl http://<server-ip>:<port>/openai/status`
+1. Replace the IP addresses with your actual Windows Server IP addresses, or use `http://localhost:<foundry-local-port>` for local testing
+2. Ensure the port matches your PortProxy configuration or Foundry Local default port
+3. Verify connectivity using: `curl http://<server-ip>:<port>/openai/status` or `curl http://localhost:<foundry-local-port>/openai/status`
 
 ### Language Model Configuration
 
@@ -241,7 +244,7 @@ foundry model list
 ### Local Data Directory
 
 **LocalDataDirectory**
-- Specifies where the application stores patient data, translation requests, and temporary files
+- Specifies where the application stores patient data (default and newly uploaded) and temporary files
 - Default: `C:\temp\patient_summary_tool_local_data\`
 - The directory will be created automatically if it doesn't exist
 
