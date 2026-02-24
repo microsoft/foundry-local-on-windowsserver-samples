@@ -199,8 +199,7 @@ namespace PatientSummaryTool.Services
         {
             var endpoints = new[]
             {
-                configurationManager.GetAppSetting("FoundryLocalEndPoint1"),
-                configurationManager.GetAppSetting("FoundryLocalEndPoint2"),
+                configurationManager.GetAppSetting("FoundryLocalEndPoint")
             };
             var httpClients = endpoints.Select(_ => new HttpClient { Timeout = TimeSpan.FromSeconds(300) }).ToList();
 
