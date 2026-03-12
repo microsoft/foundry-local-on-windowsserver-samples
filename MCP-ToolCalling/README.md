@@ -78,7 +78,7 @@ On first run, the model will be downloaded. Subsequent runs reuse the cached mod
 
 ## Usage
 
-Once running, type natural language weather questions at the `>` prompt. The model uses Semantic Kernel's automatic tool invocation (`ToolCallBehavior.AutoInvokeKernelFunctions`) to decide which MCP tool to call.
+Once running, type natural language weather questions at the `>` prompt. The model uses Semantic Kernel's automatic tool invocation (`FunctionChoiceBehavior.Auto()`) to decide which MCP tool to call.
 
 **Example queries:**
 
