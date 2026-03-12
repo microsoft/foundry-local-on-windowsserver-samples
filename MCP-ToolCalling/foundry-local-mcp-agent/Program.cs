@@ -58,7 +58,7 @@ Console.WriteLine("done.");
 
 // Step 2: Initialize MCP client and connect to weather server
 Console.WriteLine("Connecting to Weather MCP Server...");
-var mcpClient = new McpHttpClient("http://localhost:1000");
+var mcpClient = new McpHttpClient("http://localhost:3000");
 
 try
 {
@@ -77,7 +77,7 @@ try
 catch (Exception ex)
 {
     Console.WriteLine($"Error connecting to MCP server: {ex.Message}");
-    Console.WriteLine("Make sure the weather MCP server is running on http://localhost:1000");
+    Console.WriteLine("Make sure the weather MCP server is running on http://localhost:3000");
     Console.WriteLine("Run: cd mcp-servers/weather && npm start");
     return;
 }
@@ -141,7 +141,7 @@ while (prompt.CompareTo("exit") != 0)
     {
         var executionSettings = new OpenAIPromptExecutionSettings()
         {
-            ToolCallBehavior = ToolCallBehavior.AutoInvokeKernelFunctions,
+            FunctionChoiceBehavior = FunctionChoiceBehavior.Auto(),
             Temperature = 0.1
         };
 

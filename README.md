@@ -61,7 +61,7 @@ foundry-local-mcp-agent (.NET)
   ├── Foundry Local (qwen2.5-7b, port 9001)
   └── Semantic Kernel + WeatherMcpPlugin
               │ MCP over HTTP
-    Weather MCP Server (Node.js, port 1000)
+    Weather MCP Server (Node.js, port 3000)
               │
     National Weather Service API
 ```

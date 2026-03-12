@@ -263,7 +263,7 @@ app.get('/', (req, res) => {
 });
 
 // Start the server
-const PORT = process.env.PORT ? Number(process.env.PORT) : 1000;
+const PORT = process.env.PORT ? Number(process.env.PORT) : 3000;
 app.listen(PORT, (error?: any) => {
   if (error) {
     console.error('Failed to start server:', error);

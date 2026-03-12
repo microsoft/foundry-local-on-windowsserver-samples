@@ -18,7 +18,7 @@ An example demonstrating how to integrate MCP servers with Foundry Local and Sem
                           ┌────────────▼───────────┐
                           │  Weather MCP Server     │
                           │  (Node.js / TypeScript) │
-                          │  port 1000              │
+                          │  port 3000              │
                           │                         │
                           │  Tools:                 │
                           │  • get_alerts           │
@@ -50,13 +50,13 @@ npm run build
 npm run start
 ```
 
-The server starts on `http://localhost:1000`. You can verify it is running by navigating to `http://localhost:1000/` which returns server metadata.
+The server starts on `http://localhost:3000`. You can verify it is running by navigating to `http://localhost:3000/` which returns server metadata.
 
 > To use a different port, set the `PORT` environment variable before starting:
 > ```bash
-> PORT=2000 npm run start
+> PORT=4000 npm run start
 > ```
-> Then update `McpHttpClient` initialization in [Program.cs](foundry-local-mcp-agent/Program.cs) accordingly.
+> Then update the `McpHttpClient` initialization in [Program.cs](foundry-local-mcp-agent/Program.cs) to match.
 
 ## Step 2: Run the Foundry Local MCP Agent
 
