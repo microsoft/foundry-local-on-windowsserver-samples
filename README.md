@@ -2,6 +2,9 @@
 
 ## Table of Contents
 - [Overview](#overview)
+- [Samples](#samples)
+  - [ContosoMedical](#contoso-medical)
+  - [MCP Tool Calling](#mcp-tool-calling)
 - [Setup](#setup)
   - [Installing Foundry Local on Windows Server 2025](#installing-foundry-local-on-windows-server-2025)
   - [Accessing the Foundry Local Service Over the Network](#accessing-the-foundry-local-service-over-the-network)
@@ -30,14 +33,42 @@
 
 ## Overview
 
-The following sample demonstrates how **Windows Server** can be used to run AI workloads on-premises with **Foundry Local**, ensuring data privacy and compliance with the strict requirements of regulated industries.
+The following samples demonstrate how **Windows Server** can be used to run AI workloads on-premises with **Foundry Local**, ensuring data privacy and compliance with the strict requirements of regulated industries.
+
+## Samples
+
+### Contoso Medical
 
 The **ContosoMedical** application highlights two AI-driven scenarios:
 
 - **Medical Record Summarization**: Automatically condenses lengthy patient reports into concise medical summaries.
 - **Medical Record Translation**: Translates medical documents from foreign languages into English while preserving medical terminology and formatting.
 
-> **Important**: The Foundry Local endpoint must be configured by yourself. The provided endpoints in this sample are internal Microsoft endpoints that can only be accessed via VPN and CorpNet. Please see the [Endpoint Configuration](#endpoint-configuration) section for details on how to configure your own endpoints.
+> **Important**: The Foundry Local endpoint must be configured by yourself.
+ The provided endpoints in this sample are internal Microsoft endpoints that can only be accessed via VPN and CorpNet. Please see the [Endpoint Configuration](#endpoint-configuration) section for details on how to configure your own endpoints.
+
+### MCP Tool Calling
+
+The **[MCP-ToolCalling](MCP-ToolCalling/README.md)** sample demonstrates how to integrate MCP (Model Context Protocol) servers with Foundry Local and Semantic Kernel using tool calling. A custom Weather MCP server exposes real-time weather data via the National Weather Service API, and a .NET agent uses Semantic Kernel to connect a locally-running Foundry Local model to those tools.
+
+Key components:
+
+- **Weather MCP Server** (Node.js/TypeScript): Exposes two tools over MCP Streamable HTTP transport — `get_alerts` (active weather alerts for a US state) and `get_forecast` (multi-day forecast for any lat/lon coordinates).
+- **Foundry Local MCP Agent** (.NET 9): Starts an embedded Foundry Local instance with the `qwen2.5-7b` model, connects to the MCP server via a custom `McpHttpClient`, registers the tools as a Semantic Kernel plugin, and runs an interactive chat loop with automatic tool invocation.
+
+```
+foundry-local-mcp-agent (.NET)
+  ├── Foundry Local (qwen2.5-7b, port 9001)
+  └── Semantic Kernel + WeatherMcpPlugin
+              │ MCP over HTTP
+    Weather MCP Server (Node.js, port 1000)
+              │
+    National Weather Service API
+```
+
+**Prerequisites**: Node.js v18+, .NET 9 SDK.
+
+See [MCP-ToolCalling/README.md](MCP-ToolCalling/README.md) for full setup and usage instructions.
 
 ## Setup
 ### Installing Foundry Local on Windows Server 2025
