@@ -20,7 +20,7 @@ var config = new Configuration
     }
 };
 
-var loggerFactory = LoggerFactory.Create(builder =>
+using var loggerFactory = LoggerFactory.Create(builder =>
 {
     builder.SetMinimumLevel(Microsoft.Extensions.Logging.LogLevel.Information);
 });
