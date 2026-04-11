@@ -26,7 +26,7 @@ using var loggerFactory = LoggerFactory.Create(builder =>
 });
 
 // Initialize the singleton instance.
-await FoundryLocalManager.CreateAsync(config, loggerFactory.CreateLogger("FoundryLocalSamples"));
+await FoundryLocalManager.CreateAsync(config, loggerFactory.CreateLogger("foundry-local-mcp-agent"));
 var mgr = FoundryLocalManager.Instance;
 
 // Discover available execution providers and their registration status.
