@@ -55,7 +55,7 @@ if (eps.Length > 0)
             if (currentEp != "") Console.WriteLine();
             currentEp = epName;
         }
-        Console.Write($"\r  {epName.PadRight(30)}  {percent,6:F1}%");
+        Console.Write($"\r  {epName.PadRight(maxNameLen)}  {percent,6:F1}%");
     });
     if (currentEp != "") Console.WriteLine();
 }
