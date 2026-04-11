@@ -1,4 +1,5 @@
 ﻿using Microsoft.AI.Foundry.Local;
+using Microsoft.Extensions.Logging;
 using Microsoft.SemanticKernel;
 using Microsoft.SemanticKernel.ChatCompletion;
 using Microsoft.SemanticKernel.Connectors.OpenAI;
@@ -7,7 +8,6 @@ using System.Text;
 
 var alias = "qwen2.5-7b";
 var foundryLocalWebUrl = "http://127.0.0.1:9001";
-
 
 // Step 1: Start Foundry Local instance
 var config = new Configuration
@@ -20,13 +20,49 @@ var config = new Configuration
     }
 };
 
+using var loggerFactory = LoggerFactory.Create(builder =>
+{
+    builder.SetMinimumLevel(Microsoft.Extensions.Logging.LogLevel.Information);
+});
 
 // Initialize the singleton instance.
-await FoundryLocalManager.CreateAsync(config, Utils.GetAppLogger());
+await FoundryLocalManager.CreateAsync(config, loggerFactory.CreateLogger("foundry-local-mcp-agent"));
 var mgr = FoundryLocalManager.Instance;
 
-// Ensure that any Execution Provider (EP) downloads run and are completed.
-await Utils.RunWithSpinner("Registering execution providers", mgr.EnsureEpsDownloadedAsync());
+// Discover available execution providers and their registration status.
+var eps = mgr.DiscoverEps();
+int maxNameLen = 30;
+Console.WriteLine("Available execution providers:");
+Console.WriteLine($"  {"Name".PadRight(maxNameLen)}  Registered");
+Console.WriteLine($"  {new string('─', maxNameLen)}  {"──────────"}");
+foreach (var ep in eps)
+{
+    Console.WriteLine($"  {ep.Name.PadRight(maxNameLen)}  {ep.IsRegistered}");
+}
+
+// Download and register all execution providers with per-EP progress.
+// EP packages include dependencies and may be large.
+// Download is only required again if a new version of the EP is released.
+// For cross platform builds there is no dynamic EP download and this will return immediately.
+Console.WriteLine("\nDownloading execution providers:");
+if (eps.Length > 0)
+{
+    var currentEp = "";
+    await mgr.DownloadAndRegisterEpsAsync((epName, percent) =>
+    {
+        if (epName != currentEp)
+        {
+            if (currentEp != "") Console.WriteLine();
+            currentEp = epName;
+        }
+        Console.Write($"\r  {epName.PadRight(maxNameLen)}  {percent,6:F1}%");
+    });
+    if (currentEp != "") Console.WriteLine();
+}
+else
+{
+    Console.WriteLine("No execution providers to download.");
+}
 
 // Get the model catalog
 var catalog = await mgr.GetCatalogAsync();
@@ -52,7 +88,6 @@ Console.WriteLine("done.");
 Console.Write($"Starting web service on {config.Web.Urls}...");
 await mgr.StartWebServiceAsync();
 Console.WriteLine("done.");
-
 
 
 
