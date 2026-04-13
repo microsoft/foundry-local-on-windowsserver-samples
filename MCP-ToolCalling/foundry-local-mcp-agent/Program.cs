@@ -9,6 +9,7 @@ using System.Text;
 var alias = "qwen2.5-7b";
 var foundryLocalWebUrl = "http://127.0.0.1:9001";
 
+
 // Step 1: Start Foundry Local instance
 var config = new Configuration
 {
@@ -90,7 +91,6 @@ await mgr.StartWebServiceAsync();
 Console.WriteLine("done.");
 
 
-
 // Step 2: Initialize MCP client and connect to weather server
 Console.WriteLine("Connecting to Weather MCP Server...");
 var mcpClient = new McpHttpClient("http://localhost:3000");
@@ -118,19 +118,18 @@ catch (Exception ex)
 }
 
 
-// Step 3: Create Semantic Kernel with OpenAI-compatible endpoint
+// Step 3: Create Semantic Kernel with OpenAI-compatible endpoint and add Weather MCP Plugin
 var builder = Kernel.CreateBuilder().AddOpenAIChatCompletion(
     modelId: model.Id,
     endpoint: new Uri(foundryLocalWebUrl + "/v1"),
     apiKey: "not needed");
 
-// Step 4: Add Weather MCP Plugin
 builder.Plugins.AddFromObject(new WeatherMcpPlugin(mcpClient), "Weather");
 
-// Step 5: Build the Kernel
 var kernel = builder.Build();
 
-// Step 6: Create chat history and get chat service
+
+// Step 4: Create chat history and get chat service
 var history = new ChatHistory();
 history.AddSystemMessage(@"You are a helpful weather assistant. You have access to weather tools that can:
 1. Get weather alerts for US states (use two-letter state codes like CA, NY, TX)
@@ -144,11 +143,10 @@ Some common coordinates:
 - Chicago: 41.8781, -87.6298
 - Miami: 25.7617, -80.1918");
 
-
 var chatService = kernel.GetRequiredService<IChatCompletionService>();
 
 
-// Step 7: Interactive chat loop
+// Step 5: Interactive chat loop
 Console.WriteLine("Chat with the Weather Assistant (type 'exit' to quit)");
 Console.WriteLine("Try asking questions like:");
 Console.WriteLine("  - What are the weather alerts in California?");
