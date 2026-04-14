@@ -3,6 +3,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.SemanticKernel;
 using Microsoft.SemanticKernel.ChatCompletion;
 using Microsoft.SemanticKernel.Connectors.OpenAI;
+using ModelContextProtocol.Client;
 using System.Text;
 
 
@@ -93,29 +94,23 @@ Console.WriteLine("done.");
 
 // Step 2: Initialize MCP client and connect to weather server
 Console.WriteLine("Connecting to Weather MCP Server...");
-var mcpClient = new McpHttpClient("http://localhost:3000");
-
-try
+var transport = new HttpClientTransport(new HttpClientTransportOptions
 {
-    await mcpClient.InitializeAsync();
-    Console.WriteLine("Connected to Weather MCP Server!\n");
+    Name = "WeatherMCP",
+    Endpoint = new Uri("http://localhost:3000/mcp"),
+});
 
-    // List available tools from MCP server
-    var tools = await mcpClient.ListToolsAsync();
-    Console.WriteLine("Available MCP Tools:");
-    foreach (var tool in tools)
-    {
-        Console.WriteLine($"  - {tool.Name}: {tool.Description}");
-    }
-    Console.WriteLine();
-}
-catch (Exception ex)
+McpClient mcpClient = await McpClient.CreateAsync(transport);
+Console.WriteLine("Connected to Weather MCP Server!\n");
+
+// List available tools from MCP server
+var tools = await mcpClient.ListToolsAsync();
+Console.WriteLine("Available MCP Tools:");
+foreach (var tool in tools)
 {
-    Console.WriteLine($"Error connecting to MCP server: {ex.Message}");
-    Console.WriteLine("Make sure the weather MCP server is running on http://localhost:3000");
-    Console.WriteLine("Run: cd mcp-servers/weather && npm start");
-    return;
+    Console.WriteLine($"  - {tool.Name}: {tool.Description}");
 }
+Console.WriteLine();
 
 
 // Step 3: Create Semantic Kernel with OpenAI-compatible endpoint and add Weather MCP Plugin
@@ -124,7 +119,7 @@ var builder = Kernel.CreateBuilder().AddOpenAIChatCompletion(
     endpoint: new Uri(foundryLocalWebUrl + "/v1"),
     apiKey: "not needed");
 
-builder.Plugins.AddFromObject(new WeatherMcpPlugin(mcpClient), "Weather");
+builder.Plugins.AddFromFunctions("WeatherMCP", tools.Select(t => t.AsKernelFunction()));
 
 var kernel = builder.Build();
 
@@ -202,6 +197,6 @@ while (prompt.CompareTo("exit") != 0)
 // Tidy up
 // Stop the web service and unload model
 Console.WriteLine("Goodbye!");
-mcpClient.Dispose();
+await mcpClient.DisposeAsync();
 await mgr.StopWebServiceAsync();
 await model.UnloadAsync();
