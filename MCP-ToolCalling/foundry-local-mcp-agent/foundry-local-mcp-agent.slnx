@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="foundry-local-mcp-agent.csproj" />
+  <Project Path="foundry-local-mcp-agent.csproj">
+    <Platform Project="x64" />
+  </Project>
 </Solution>
