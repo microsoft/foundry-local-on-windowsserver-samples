@@ -4,7 +4,6 @@ using Microsoft.SemanticKernel;
 using Microsoft.SemanticKernel.ChatCompletion;
 using Microsoft.SemanticKernel.Connectors.OpenAI;
 using ModelContextProtocol.Client;
-using System.Text;
 
 
 var alias = "qwen2.5-7b";
@@ -163,7 +162,6 @@ while (prompt.CompareTo("exit") != 0)
         continue;
 
     history.AddUserMessage(prompt);
-    StringBuilder fullResponse = new StringBuilder();
 
     try
     {
@@ -173,19 +171,16 @@ while (prompt.CompareTo("exit") != 0)
             Temperature = 0.1
         };
 
-        // Stream the response with automatic tool invocation
-        await foreach (var response in chatService.GetStreamingChatMessageContentsAsync(
+        // Foundry Local only populates structured tool_calls on non-streaming responses
+        // (streaming chunks always return tool_calls: []), so use the non-streaming API
+        // to let Semantic Kernel automatically invoke the MCP tools.
+        var response = await chatService.GetChatMessageContentAsync(
             history,
             executionSettings: executionSettings,
-            kernel: kernel
-        ))
-        {
-            fullResponse.Append(response.Content);
-            Console.Write(response.Content);
-        }
+            kernel: kernel);
 
-        Console.WriteLine("\n");
-        history.AddAssistantMessage(fullResponse.ToString());
+        Console.WriteLine(response.Content + "\n");
+        history.Add(response);
     }
     catch (Exception ex)
     {
