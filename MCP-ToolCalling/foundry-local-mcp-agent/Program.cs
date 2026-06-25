@@ -178,7 +178,12 @@ while (prompt.CompareTo("exit") != 0)
         // executes any requested MCP tools, feeds the results back, and returns the
         // final grounded answer.
         var response = await chatClient.GetResponseAsync(messages, options, ct);
-        Console.WriteLine(response.Text + "\n");
+
+        // Print only the final assistant message. response.Text concatenates every
+        // assistant turn, which would also include the intermediate tool-calling turn
+        // (some models, e.g. Qwen, echo the <tool_call> JSON as content there).
+        var answer = response.Messages.LastOrDefault(m => m.Role == ChatRole.Assistant)?.Text;
+        Console.WriteLine((string.IsNullOrWhiteSpace(answer) ? response.Text : answer) + "\n");
         messages.AddMessages(response);
     }
     catch (Exception ex)
