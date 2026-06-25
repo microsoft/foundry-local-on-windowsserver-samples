@@ -56,7 +56,7 @@ The server starts on `http://localhost:3000`. You can verify it is running by na
 > ```bash
 > PORT=4000 npm run start
 > ```
-> Then update the `McpHttpClient` initialization in [Program.cs](foundry-local-mcp-agent/Program.cs) to match.
+> Then update the MCP endpoint URI in [Program.cs](foundry-local-mcp-agent/Program.cs) to match — see the `HttpClientTransport` `Endpoint` (`http://localhost:3000/mcp`).
 
 ## Step 2: Run the Foundry Local MCP Agent
 
@@ -121,6 +121,6 @@ MCP-ToolCalling/
 
 **Tools are never called / the model prints `<tool_call>` as text** — Use a non-thinking **instruct** model (e.g. `qwen2.5-7b`). Foundry Local's server-side parser cannot extract tool calls from reasoning models like Qwen3 that emit a `<think>` block before the call. The agent uses non-streaming completions, which is required because Foundry Local only populates structured `tool_calls` on non-streaming responses.
 
-**`Failed to allocate memory` / ONNX BFC arena error on multi-GPU machines** — The CUDA execution provider may bind to a GPU too small to hold the model. Pin the process to a larger GPU by setting `CUDA_VISIBLE_DEVICES` (the sample defaults it to `0`).
+**`Failed to allocate memory` / ONNX BFC arena error on multi-GPU machines** — The CUDA execution provider may bind to a GPU too small to hold the model. CUDA targets GPU `0` by default when `CUDA_VISIBLE_DEVICES` is unset; if that GPU is too small, pin the process to a larger one by setting the variable yourself before running, e.g. `CUDA_VISIBLE_DEVICES=1 dotnet run`.
 
 **Weather data only covers the US** — The NWS API only covers US locations. State alert codes must be two-letter US state abbreviations (e.g. `CA`, `NY`, `TX`). Forecast coordinates outside the US will return an error from the NWS API.

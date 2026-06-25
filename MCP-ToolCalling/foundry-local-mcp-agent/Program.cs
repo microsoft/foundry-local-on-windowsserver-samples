@@ -6,7 +6,7 @@ using OpenAI;
 using System.ClientModel;
 
 
-var alias = args.Length > 0 ? args[0] : "qwen2.5-7b";
+var alias = args.FirstOrDefault(a => !string.IsNullOrWhiteSpace(a))?.Trim() ?? "qwen2.5-7b";
 var ct = CancellationToken.None;
 var foundryLocalWebUrl = "http://127.0.0.1:9001";
 
