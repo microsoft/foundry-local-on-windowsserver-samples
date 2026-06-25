@@ -1,6 +1,6 @@
 # Foundry Local MCP Integration
 
-An example demonstrating how to integrate MCP servers with Foundry Local and Semantic Kernel using tool calling. A custom Weather MCP server exposes real-time weather data, and a .NET agent uses Semantic Kernel to connect Foundry Local's locally-running model to those tools.
+An example demonstrating how to integrate MCP servers with Foundry Local using tool calling. A custom Weather MCP server exposes real-time weather data, and a .NET agent uses **Microsoft.Extensions.AI** over Foundry Local's OpenAI-compatible endpoint to connect the locally-running model to those tools. The MCP tools auto-wire as `AIFunction`s and are invoked automatically — no Semantic Kernel and no manual tool loop required.
 
 ## Architecture
 
@@ -9,9 +9,9 @@ An example demonstrating how to integrate MCP servers with Foundry Local and Sem
 │              foundry-local-mcp-agent (.NET)          │
 │                                                      │
 │  ┌─────────────────┐      ┌────────────────────────┐ │
-│  │  Foundry Local  │      │   Semantic Kernel       │ │
-│  │  (qwen2.5-7b)   │◄────►│   + WeatherMcpPlugin   │ │
-│  │  port 9001      │      │                        │ │
+│  │  Foundry Local  │      │  Microsoft.Extensions.AI│ │
+│  │  (qwen2.5-7b)   │◄────►│  function-invoking      │ │
+│  │  port 9001      │      │  IChatClient + MCP tools│ │
 │  └─────────────────┘      └──────────┬─────────────┘ │
 └─────────────────────────────────────┼───────────────┘
                                        │ MCP over HTTP
@@ -62,23 +62,24 @@ The server starts on `http://localhost:3000`. You can verify it is running by na
 
 The agent is a .NET 9 console application that:
 
-1. Starts an embedded **Foundry Local** instance and downloads/loads the `qwen2.5-7b` model
-2. Connects to the Weather MCP Server via `McpHttpClient`
-3. Registers a **Semantic Kernel** plugin (`WeatherMcpPlugin`) that wraps the MCP tools
-4. Runs an interactive chat loop where the model automatically invokes weather tools as needed
+1. Starts an embedded **Foundry Local** instance, loads the `qwen2.5-7b` model, and starts its OpenAI-compatible web service
+2. Connects to the Weather MCP Server using the `ModelContextProtocol` HTTP transport
+3. Builds a function-invoking `IChatClient` (Microsoft.Extensions.AI) over the Foundry Local endpoint and passes the MCP tools (which are `AIFunction`s) directly to it
+4. Runs an interactive chat loop — `UseFunctionInvocation()` automatically executes any requested MCP tools and feeds the results back to the model
 
 Open a second terminal and run:
 
 ```bash
 cd foundry-local-mcp-agent
-dotnet run
+dotnet run                 # defaults to qwen2.5-7b
+dotnet run -- qwen2.5-7b   # or pass a model alias explicitly
 ```
 
 On first run, the model will be downloaded. Subsequent runs reuse the cached model.
 
 ## Usage
 
-Once running, type natural language weather questions at the `>` prompt. The model uses Semantic Kernel's automatic tool invocation (`FunctionChoiceBehavior.Auto()`) to decide which MCP tool to call.
+Once running, type natural language weather questions at the `>` prompt. The model decides which MCP tool to call; `Microsoft.Extensions.AI` executes it via the MCP client automatically and returns the result to the model for a final, grounded answer.
 
 **Example queries:**
 
@@ -89,7 +90,7 @@ Once running, type natural language weather questions at the `>` prompt. The mod
 > Give me the forecast for New York City.
 ```
 
-Type `exit` to quit. The agent will stop the Foundry Local web service and unload the model on exit.
+Type `exit` to quit. The agent disconnects from the MCP server, stops the web service, and unloads the model on exit.
 
 ## Project Structure
 
@@ -101,10 +102,7 @@ MCP-ToolCalling/
 │       ├── package.json
 │       └── tsconfig.json
 └── foundry-local-mcp-agent/
-    ├── Program.cs              # Entry point: Foundry Local setup + chat loop
-    ├── McpHttpClient.cs        # MCP Streamable HTTP client (initialize/list tools/call tool)
-    ├── WeatherMcpPlugin.cs     # Semantic Kernel plugin wrapping MCP tools
-    ├── Utils.cs                # Helper utilities (spinner, logging)
+    ├── Program.cs              # Foundry Local setup, MCP client, function-invoking chat loop
     └── foundry-local-mcp-agent.csproj
 ```
 
@@ -113,13 +111,16 @@ MCP-ToolCalling/
 | Component | Package |
 |---|---|
 | Local model hosting | `Microsoft.AI.Foundry.Local.WinML` |
-| AI orchestration | `Microsoft.SemanticKernel` |
-| OpenAI-compatible client | `Microsoft.SemanticKernel.Connectors.OpenAI` |
-| MCP transport | Custom `McpHttpClient` over HTTP |
+| Chat client + automatic tool invocation | `Microsoft.Extensions.AI`, `Microsoft.Extensions.AI.OpenAI`, `OpenAI` |
+| MCP client + HTTP transport | `ModelContextProtocol` |
 | Weather data | US National Weather Service API (no API key required) |
 
 ## Troubleshooting
 
 **`Error connecting to MCP server`** — Make sure the Weather MCP Server is running before starting the agent. Run `npm run start` from `mcp-servers/weather` first.
+
+**Tools are never called / the model prints `<tool_call>` as text** — Use a non-thinking **instruct** model (e.g. `qwen2.5-7b`). Foundry Local's server-side parser cannot extract tool calls from reasoning models like Qwen3 that emit a `<think>` block before the call. The agent uses non-streaming completions, which is required because Foundry Local only populates structured `tool_calls` on non-streaming responses.
+
+**`Failed to allocate memory` / ONNX BFC arena error on multi-GPU machines** — The CUDA execution provider may bind to a GPU too small to hold the model. Pin the process to a larger GPU by setting `CUDA_VISIBLE_DEVICES` (the sample defaults it to `0`).
 
 **Weather data only covers the US** — The NWS API only covers US locations. State alert codes must be two-letter US state abbreviations (e.g. `CA`, `NY`, `TX`). Forecast coordinates outside the US will return an error from the NWS API.
