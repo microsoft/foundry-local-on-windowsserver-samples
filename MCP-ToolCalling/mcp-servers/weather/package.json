@@ -9,6 +9,9 @@
     "start": "node dist/weather.js",
     "dev": "tsc && node dist/weather.js"
   },
+  "engines": {
+    "node": ">=18"
+  },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.0",
     "express": "^5.2.1",
